@@ -1,0 +1,858 @@
+Greenhouse Gas,Chemical Formula,Global Warming Potential (CO2e)
+Carbon Dioxide,CO2,1
+Methane,CH4,21
+Nitrous Oxide,N2O,310
+Hydrofluorocarbons,Various,"43-11,700"
+Perfluorocarbons,Various,"6,500-9,000"
+Sulfur Hexafluoride,SF6,"23,900"
+Activity Data,Emissions Factor,Emissions
+Electricty Consumption (kWh),CO2 emitted/kWh,CO2 emitted
+Natural Gas Consumption (therms),CO2 emitted/therm,CO2 emitted
+Gasoline/Diesel Consumption (gallons),CO2 emitted /gallon,CO2 emitted
+Vehicle Miles Traveled,"CH4, N2O emitted/mile","CH4, N20 emitted"
+Community,Municipal
+Residential,Buildings
+Commercial / Industrial,Streetlights
+Transportation,Vehicle Fleet
+Waste,Employee Commute
+"",Water / Sewage
+"",Waste
+Sector,Scope 1,Scope 2,Scope 3
+Residential,Natural Gas,Electricity,
+Commercial / Industrial,Natural Gas & Point Source Emissions,Electricity,
+Transportation,Gasoline & Diesel,,
+Waste,Emissions from WCCS Landfill,,Future Emissions from 2005 Waste
+Sector,Scope 1,Scope 2,Scope 3,TOTAL
+Residential,"86,671","39,447",-,"126,118"
+Commercial / Industrial,"5,048,998","92,574",-,"5,141,572"
+Transportation,"506,842",-,-,"506,842"
+Waste,"32,309",-,"46,179","78,488"
+TOTAL,"5,674,820","132,021","46,179","5,853,020"
+Percentage of Total CO2e,97.0%,2.2%,0.8%,100%
+0.8%industrial point,source,emissions,from,within,the,Scope 1
+Scope 1 Emissions By,,Commercial,,,
+"",Residential,,Transportation,Waste,TOTAL
+Sector,,/ Industrial,,,
+CO2e (metric tons),"86,671","5,048,998","506,842","32,309","5,674,820"
+"% of Total CO2e",1.5%,89.0%,8.9%,0.6%,100%
+MMBtu,"1,620,510","28,532,184*","6,911,536",-,"37,064,230"
+Scope 2 Emissions By,,,
+"",Residential,Commercial / Industrial,TOTAL
+Sector,,,
+CO2e (metric tons),"39,447","92,574","132,021"
+"% of Total CO2e",29.9%,70.1%,100%
+MMBtu,"575,356","1,297,730","1,873,086"
+2005 Community,,Commercial,,,Waste,
+"",Residential,,Transportation,Landfill,,TOTAL
+Emissions by Sector,,/ Industrial,,,Generation,
+CO2e (metric tons),"126,118","5,141,572","506,842","32,309","46,179","5,853,020"
+"% of Total CO2e",2.2%,87.8%,8.7%,0.5%,0.8%,100%
+MMBtu,"2,195,866","29,663,378","6,818,813",-,-,"38,678,057"
+Number of Occupied Housing Units,"35,200"
+Total Residential GHG Emissions (metric tons CO2e),"126,118"
+Residential GHG Emissions/Household (metric tons CO2e),3.6
+Residential,,,,,
+"",,Natural,,Natural,31.3%
+Emission,Electricity,,TOTAL,,
+"",,Gas,,Gas 68.7%,
+Sources 2005,,,,,
+MTCO2e,"39,447","86,671","126,118",,
+"% of Total CO2e",31.3%,68.7%,100%,,
+MMBtu,"575,356","1,620,510","2,195,866",,
+"",,,BAAQMD-,
+Commercial / Industrial,,,,
+"",Electricity,Natural Gas,Monitored Point,TOTAL
+Emission Sources 2005,,,,
+"",,,Source Emissions,
+CO2e (metric tons),"92,574","1,526,012","3,522,986","5,141,572"
+Percentage of Total CO2e,1.8%,29.7%,68.5%,100%
+MMBtu,"1,297,730","28,532,184",,"29,829,914"
+Facility,,GHG Emissions
+"",Address,CO2e
+"",,(metric tons)
+Chevron Products Company,841 Chevron Way,"3,516,517"
+West County Wastewater District,2377 Garden Tract Rd,"3,464"
+Dutra Materials/San Rafael Rock Quarry Inc,961 Western Drive,"2,472"
+Point Richmond Quarry Inc,1135 Canal Avenue,191
+Levin Richmond Terminal Corporation,402 Wright Avenue,191
+Pacific Bell,2105 MacDonald Ave,38
+Chevron Research and Technology Co,100 Chevron Way,24
+State of California,850 Marina Bay Pkwy,16
+"Bayer HealthCare Pharmaceuticals, Inc",2600 Hilltop Drive,14
+City of Richmond,"Castro St, Pumping Station",11
+East Bay Municipal Utility District,2755 Isabel Street,9
+Kaiser Permanente,901 Nevin Avenue,8
+AC Transit,2016 MacDonald Ave,7
+State of California Department of Trans,"Richmond, San Rafael Bridge Pl",3
+City of Richmond Waste Water Treatment Plant,601 Canal Boulevard,3
+ConocoPhillips,1300 Canal Boulevard,3
+West Contra Costa County Detention Center,5555 Giant Highway,2
+Kaiser Permanente - Regional Lab Annex,914 Marina Way South,2
+East Bay Municipal Utility District,105 Brookside Drive,2
+U S Postal Service,2501 Rydin Road,2
+"New NGC, Inc",1040 Canal Boulevard,2
+DiCon Fiberoptics Inc,1689 Regatta Blvd,1
+General Services Department,100 38th Street,1
+Verizon Wireless,3135 Hilltop,1
+West County Wastewater District,W End Atlas Road,1
+West County Wastewater District,1600 Atlas Road,1
+"BP West Coast Products, LLC",1306 Canal Street,1
+Sangamo BioSciences,"501 Canal Blvd, Suite A100",0
+West County Wastewater District,Lake Hlltop Center,0
+General Chemical West LLC,525 Castro Street,0
+MCI dba Verizon Business,3201 Cutting Blvd,0
+TOTAL,,"3,522,986"
+"",,,GHG Emissions
+Number on List,Facility,Address,
+"",,,(metric tons CO2e)
+2,Chevron Products Company,841 Chevron Way,"3,845,315"
+41,West Contra Costa County Landfill,Foot of Parr Blvd,"65,794"
+59,"New NGC, Inc",1040 Canal Boulevard,"36,603"
+133,California Oils Corporation,"1145 Harbour Way, South","7,833"
+154,Steelscape,2995 Atlas Road,"5,511"
+TOTAL,,,"3,961,056"
+Transportation Fuel,,,
+"",Gasoline,Diesel,TOTAL
+Emissions Sources 2005,,,
+CO2e (metric tons),"441,142","65,700","506,842"
+Percentage of Total CO2e,87.0%,13.0%,100%
+MMBtu,"6,120,582","790,954","6,911,536"
+Transportation Road Type,Local,,,
+"",,Local Roads,State Highways,TOTAL
+Emissions Sources 2005,Railroads,,,
+CO2e (metric tons),"7,788","202,208","296,846","506,842"
+Percentage of Total CO2e,1.5%,39.9%,58.6%,100%
+MMBtu,"92,723","2,762,863","4,055,950","6,911,536"
+Waste Emissions,Landfill,,
+"",,Waste Generation,TOTAL
+Categories 2005,Emissions,,
+CO2e (metric tons),"32,309","46,179","78,488"
+Percentage of Total CO2e,41.2%,58.8%,100.0%
+MMBtu,-,-,-
+Community Emissions,,,
+2005 by Source,CO2e (metric tons),CO2e (%),MMBtu
+Electricity,"132,021",2.3%,"1,873,086"
+Natural Gas,"1,612,683",27.6%,"30,152,694"
+Gasoline,"441,142",7.5%,"6,120,582"
+Diesel,"65,700",1.1%,"790,954"
+BAAQMD-Monitored Point,,,
+Source Emissions,"3,522,986",60.2%,-
+Waste,"78,488",1.3%,-
+TOTAL,"5,853,020",100%,"38,937,316"
+Estimated 2005 Population*,"100,500"
+Community GHG Emissions (metric tons CO2e),"5,853,020"
+GHG Emissions/Resident (metric tons CO2e),58.2
+2005 Community Emissions Growth Forecast by Sector,,2005,2020,Annual Growth Rate,,Percent Change from 2005 to 2020
+Residential,,"126,118","137,538",0.58%,,9.1%
+Commercial / Industrial,,"5,141,572","6,781,274",1.86%,,31.9%
+Transportation,,"506,842","647,863",1.65%,,27.8%
+West Contra Costa Sanitary Landfill,,"32,309","15,387",,,-52.4%
+Waste Generation,,"46,179","50,360",0.58%,,9.1%
+TOTAL,,"5,853,020","7,632,423",--,,30.4%
+Municipal Sector Community Sector
+Buildings Commercial / Industrial
+Streetlights Commercial / Industrial
+Vehicle Fleet Transportation
+Employee Commute27 Transportation
+Water / Sewage Commercial / Industrial
+Waste Waste Generation
+Sector,Scope 1,Scope 2,Scope 3
+Buildings,Natural Gas,Electricity,
+Streetlights,,Electricity,
+Vehicle Fleet,Gasoline & Diesel,,
+Employee Commute,,,Gasoline & Diesel
+Water / Sewage,Natural Gas,Electricity,
+Waste,,,Future Emissions from 2005 Waste
+Sector,Scope 1,Scope 2,Scope 3,TOTAL
+Buildings,"1,746","1,853",-,"3,599"
+Streetlights,-,"1,312",-,"1,312"
+Vehicle Fleet,"1,386",-,-,"1,386"
+Employee Commute,-,-,"2,691","2,691"
+Water / Sewage,11,"1,056",-,"1,067"
+Waste,-,-,543,543
+TOTAL,"3,143","4,221","3,234","10,598"
+Percentage of Total CO2e,29.7%,39.8%,30.5%,100%
+Scope 1 Emissions By Sector,Buildings,Vehicle Fleet,Water / Sewage,TOTAL
+CO2e (metric tons),"1,746","1,386",11,"3,143"
+Percentage of Total CO2e,55.6%,44.1%,0.3%,100%
+MMBtu,"32,648","19,434",211,"52,293"
+Scope 2 Emissions By Sector,Buildings,Streetlights,Water / Sewage,TOTAL
+CO2e (metric tons),"1,853","1,312","1,056","4,221"
+Percentage of Total CO2e,43.9%,31.1%,25.0%,100%
+MMBtu,"27,026","19,142","15,400","61,568"
+Scope 3 Emissions By Sector,Employee Commute,Waste,TOTAL
+CO2e (metric tons),"2,691",543,"3,234"
+Percentage of Total CO2e,83.2%,16.8%,100%
+MMBtu,"35,955",-,"35,955"
+2005 Community Emissions by Sector,,Buildings,Streetlights,Vehicle Fleet,,Employee Commute,,Water / Sewage,,Waste,TOTAL
+CO2e (metric tons),,"3,599","1,312","1,386",,"2,691",,"1,067",,543,"10,598"
+"% of Total CO2e",,34.0%,12.4%,13.1%,,25.4%,,10.1%,,5.1%,100%
+MMBtu,,"59,674","19,142","19,434",,"35,955",,"15,611",,-,"149,816"
+Building Emissions Sources 2005,Electricity,Natural Gas,TOTAL
+CO2e (metric tons),"1,853","1,746","3,599"
+Percentage of Total CO2e,51.5%,48.5%,100%
+MMBtu,"27,026","32,648","59,674"
+Building,Location,CO e  (metric tons) 2,,,GHG Emissions (% CO e) 2,,,,Energy (MMBtu),,Utility Costs
+Civic Center,Civic Center Plaza,580,,,16.1%,,,,"10,038",,"$129,137"
+Port Terminal 1,1500 Dornan,531,,,14.7%,,,,"7,752",,"$336,558"
+City Hall - Marina Way,"1401 Marina Way S, Bldg C",510,,,14.2%,,,,"8,301",,"$239,217"
+Hall of Justice,401 27th St,343,,,9.5%,,,,"6,401",,"$19,912"
+Kennedy Swim Center,4300 Cutting Blvd,294,,,8.2%,,,,"5,221",,"$52,506"
+Senior Center,2525 MacDonald,144,,,4.0%,,,,"2,435",,"$54,771"
+Shipyard,1312 Canal Blvd,105,,,2.9%,,,,"1,530",,"$55,872"
+Richmond Housing Authority 2,2400 Nevin,89,,,2.5%,,,,"1,299",,"$50,809"
+Corporation Yard,6 & 7 13th St,73,,,2.0%,,,,"1,244",,"$19,189"
+Main Library,325 Civic Center Plaza,56,,,1.6%,,,,957,,"$16,880"
+TOTAL,,"2,725",,,75.7%,,,,"45,178",,"$974,851"
+Streetlight Emissions Sources 2005,Outdoor Lighting,Traffic Signals,TOTAL
+CO2e (metric tons),"1,223",89,"1,312"
+Percentage of Total CO2e,93.2%,6.8%,100%
+MMBtu,"17,843","1,299","19,142"
+Utility Costs,"$834,351","$61,679","$896,030"
+Vehicle Fleet Fuel Emissions Sources 2005,Gasoline,Diesel,TOTAL
+CO2e (metric tons),"1,097",289,"1,386"
+Percentage of Total CO2e,79.1%,20.9%,100%
+MMBtu,"15,948","3,486","19,434"
+"",,,% of Vehicle Fleet
+"",Number of,CO2e,Emissions
+Department,vehicles,(metric tons),(metric tons CO2e)
+Police,121,628,45.3%
+Public Works,121,376,27.1%
+Fire,41,163,11.8%
+Veolia,11,59,4.3%
+Paratransit,9,46,3.3%
+Building and Regulations,9,15,1.1%
+Recreation,5,14,1.0%
+Engineering,8,13,0.9%
+Library,5,13,0.9%
+Equipment Services,7,10,0.7%
+Redevelopment,9,10,0.7%
+City Hall (Pool Vehicles)31,9,9,0.6%
+Employment and Training,5,5,0.4%
+Information Technology,4,5,0.4%
+Housing and Community Development,3,4,0.3%
+Planning,3,4,0.3%
+Port,3,4,0.3%
+KCRT,1,2,0.1%
+Office of Neighborhood Safety,1,2,0.1%
+Human Resources,1,1,0.1%
+Mayor,1,1,0.1%
+TOTAL,377,"1,386",100%
+Employee Commute Fuel Emissions Sources 2005,Gasoline,Diesel,TOTAL
+CO2e (metric tons),"2,649",42,"2,691"
+Percentage of Total CO2e,98.4%,1.6%,100%
+MMBtu,"35,418",537,"35,955"
+Water / Sewage Emissions Sources,Electricity,Natural Gas,TOTAL
+CO2e (metric tons),"1,056",11,"1,067"
+Percentage of Total CO2e,99.0%,1.0%,100%
+MMBtu,"15,400",211,"15,611"
+Water / Sewage Emissions,Waste Water Treatment,,
+Sources by Type,Plant,Other Water Pumps,TOTAL
+CO2e (metric tons),"1,005",62,"1,067"
+Percentage of Total CO2e,94.2%,5.8%,100%
+MMBtu,"14,703",908,"15,611"
+"",,GHG,,,
+Building,Location,Emissions (metric tons,Energy (MMBtu),,Utility Costs
+"",,CO2e),,,
+Waste Water Treatment Plant,60l Canal Blvd,"1,005","14,703",,"$492,058"
+Civic Center,Civic Center Plaza,580,"10,038",,"$129,137"
+Port Terminal 1,1500 Dornan,531,"7,752",,"$336,558"
+City Hall - Marina Way,"1401 Marina Way S, Bldg C",510,"8,301",,"$239,217"
+Hall of Justice,401 27th St,343,"6,401",,"$19,912"
+TOTAL,,"2,725","47,195",,"$1,216,882"
+Scope 3 Waste Emissions,Paper,,,Wood /,
+Sources 2005,Products,Food Waste,Plant Debris,Textiles,TOTAL
+CO2e (metric tons),303,119,32,89,543
+Percentage of Total CO2e,55.8%,21.9%,5.9%,16.4%,100%
+MMBtu,-,-,-,-,0
+Community Emissions,CO2e,,
+2005 by Source,(metric tons),CO2e (%),MMBtu
+Electricity,"4,221",39.8%,"61,568"
+Natural Gas,"1,757",16.6%,"32,859"
+Gasoline,"3,746",35.3%,"51,366"
+Diesel,331,3.1%,"4,023"
+Waste,543,5.1%,-
+TOTAL,"10,598",100%,"149,816"
+Number of Employees,941
+Total Employee GHG Emissions (metric tons CO2e),"8,219"
+GHG Emissions/Employee (metric tons CO2e),8.7
+"",,Equiv CO2,Equiv,Energy,
+Sector,Emissions Source,(metric tons),CO2 (%),(MMBtu),Data Source
+Residential,,,,,
+"",Electricity,"39,447",0.7%,"575,356",PG&E
+"",Natural Gas,"86,671",1.5%,"1,620,510",PG&E
+Subtotal Residential,,"126,118",2.2%,"2,195,866",
+Commercial/Industrial,,,,,
+"""District"" Direct Access",,,,,
+"",Electricity,28,0.0%,294,PG&E
+Commercial/Industrial PG&E,,,,,
+"",Electricity,"79,392",1.4%,"1,157,964",PG&E
+"",Natural Gas,"1,517,105",25.9%,"28,365,648",PG&E
+Other Direct Access,,,,,
+"",Electricity (Estimated),"13,154",0.2%,"139,472",CEC
+"",Natural Gas,"8,907",0.2%,"166,536",From Industry
+BAAQMD Monitored Point,,,,,
+Source Emissions,,"3,522,986",60.2%,,BAAQMD
+Subtotal Commercial,,"5,141,572",87.8%,"29,829,914",
+Transportation,,,,,
+Local Roads AVMT,,,,,
+"",Gasoline,"178,743",3.1%,"2,479,952",CalTrans
+"",Diesel,"23,465",0.4%,"282,911",CalTrans
+State Highways AVMT,,,,,
+"",Gasoline,"262,399",4.5%,"3,640,630",MTC
+"",Diesel,"34,447",0.6%,"415,320",MTC
+Rail,,,,,
+"",,,,,BNSF/Richmond
+"",Diesel,"7,788",0.1%,"92,723",Pacific
+Subtotal Transportation,,"506,842",8.7%,"6,911,536",
+Waste,,,,,
+ADC,,,,,
+"",Plant Debris,804,0.0%,,CCC / CIWMB
+Total Waste Disposed (w/o,,,,,
+ADC),,,,,
+"",Paper Products,"25,313",1.1%,,CCC / CIWMB
+"",Food Waste,"9,961",0.4%,,CCC / CIWMB
+"",Plant Debris,"2,664",0.1%,,CCC / CIWMB
+"",Wood/Textiles,"7,437",0.3%,,CCC / CIWMB
+West Contra Costa Sanitary,,,,,
+Landfill,,,,,
+"",,,,,CCC / Republic
+"",Waste-In-Place,"32,309",0.6%,,Services/BAAQMD
+Subtotal Waste,,"78,488",1.3%,,
+Grand Total,,"5,853,020",100.0%,"38,937,316",
+"",Electricity Consumption,kWh,"168,579,363"
+Residential,,,
+"",Natural Gas Consumption,Therms,"16,205,099"
+"",HOUSEHOLDS,,,,
+"",,,,,
+Jurisdictional Boundary,2000 2005 2010,2015,2020,2025,2030
+RICHMOND,"34,625 35,280 35,910","37,150","38,890","41,230","42,800"
+"",,,,,
+CONTRA COSTA COUNTY,"34,625 35,280 35,910","37,150","38,890","41,230","42,800"
+"",Electricity Consumption,kWh,"339,283,466"
+Commercial,,,
+"",Natural Gas Consumption,Therms,"283,656,478"
+"",Electricity Consumption,kWh,0
+"",Natural Gas Consumption,Therms,0
+Industrial,,,
+"",Industrial Electricity (Fails 15/15)1,,Fail
+"",Industrial Natural Gas (Fails 15/15),,Fail
+"",Electricity Direct Access (from PG&E),kWh,"86,106 (District)"
+"",% DA County Estimate for Residential,%,0.00%
+Direct Access,,,
+"(see below for",% DA County Estimate for Commercial,,
+DA emission,and Industrial 4,%,12.07%
+factor),,,
+"",Estimated Direct Access Electricity,,
+"",Consumption,kWh,"40,865,408"
+"",Natural Gas DA from Richmond,,
+"",Industries,Therms,"8,907"
+Plant,Address,CO2e,Coke,Diesel,LPG,Pathological,Process,Digester,Gasoline -,Refinery,
+"",,(metric tons),,,,Waste,Gas,Gas,(Unleaded),Fuel Gas,Hydrogen
+Chevron Products Company,841 Chevron Way,"3,516,517",X,X,X,,X,,X,X,X
+West County Wastewater District,2377 Garden Tract Rd,"3,464",,X,,,X,X,,,
+Dutra Materials/San Rafael Rock Quarry,961 Western Drive,"2,472",,X,,,,,,,
+Point Richmond Quarry Inc,1135 Canal Avenue,191,,X,,,,,,,
+Levin Richmond Terminal Corporation,402 Wright Avenue,191,,X,,,,,,,
+Pacific Bell,2105 MacDonald Ave,38,,X,,,,,,,
+Chevron Research and Technology Co,100 Chevron Way,24,,X,,,,,,,
+State of California,850 Marina Bay Pkwy,16,,X,,X,,,,,
+"Bayer HealthCare Pharmaceuticals, Inc",2600 Hilltop Drive,14,,X,,,,,,,
+City of Richmond,"Castro St, Pumping Station",11,,X,,,,,,,
+East Bay Municipal Utility District,2755 Isabel Street,9,,X,,,,,,,
+Kaiser Permanente,901 Nevin Avenue,8,,X,,,,,,,
+AC Transit,2016 MacDonald Ave,7,,X,,,,,,,
+State of California Department of Trans,"Richmond, San Rafael Bridge Pl",3,,X,,,,,,,
+Waste Water Treatment Plant,601 Canal Boulevard,3,,X,,,,,,,
+ConocoPhillips,1300 Canal Boulevard,3,,X,,,,,,,
+West Contra Costa County Detention Cntr,5555 Giant Highway,2,,X,,,,,,,
+Kaiser Permanente - Regional Lab Annex,914 Marina Way South,2,,X,,,,,,,
+East Bay Municipal Utility District,105 Brookside Drive,2,,X,,,,,,,
+U S Postal Service,2501 Rydin Road,2,,X,,,,,,,
+"New NGC, Inc",1040 Canal Boulevard,2,,X,,,,,,,
+DiCon Fiberoptics Inc,1689 Regatta Blvd,1,,X,,,,,,,
+General Services Department,100 38th Street,1,,X,,,,,,,
+Verizon Wireless,3135 Hilltop,1,,X,,,,,,,
+West County Wastewater District,W End Atlas Road,1,,X,,,,,,,
+West County Wastewater District,1600 Atlas Road,1,,X,,,,,,,
+"BP West Coast Products, LLC",1306 Canal Street,1,,X,,,,,,,
+Sangamo BioSciences,"501 Canal Blvd, Suite A100",0,,X,,,,,,,
+West County Wastewater District,Lake Hlltop Center,0,,,X,,,,,,
+General Chemical West LLC,525 Castro Street,0,,X,,,,,,,
+MCI dba Verizon Business,3201 Cutting Blvd,0,,,X,,,,,,
+TOTAL,,"3,522,986",,,,,,,,,
+"",,Annual VMT,
+"",Local Roads (VMT)2,(95.2% Gasoline,"381,614,800"
+"",,4.8% Diesel),
+"",,Annual VMT,
+Transportation,State Highway VMT 3,(95.2% Gasoline,"560,219,885"
+"",,4.8% Diesel),
+"",Railroads,Diesel (gallons),"759,935"
+"",Total Landfill Waste (See Waste Table),Short Tons,"155,348"
+"",Total Alternative Daily Cover (See Waste,,
+"",Table),Short Tons,"3,230"
+Waste,% ADC Green Material,%,100%
+"",Landfill Waste in Place in 2005,Short Tons,"12,025,053"
+"",Landfill Waste in Place in 2020,Short Tons,"12,123,749"
+"",Year Opened / closed,,1953 / 2006
+"",TOTAL POPULATION,,,
+"",,,,Annual
+"",,,,Growth
+JURISDICTION,2000 2005 2010 2015,,2020,Rate
+"",,,,
+ANTIOCH,"90,532 102,300 107,400 111,600",,"116,000",
+BRENTWOOD,"23,302 44,300 51,700 55,600",,"59,000",
+CLAYTON,"10,762 10,900 11,200 11,700",,"12,000",
+CONCORD,"121,780 123,900 127,000 132,600",,"139,400",
+DANVILLE,"41,715 43,100 43,400 44,100",,"44,600",
+EL CERRITO,"23,171 23,200 23,300 24,000",,"24,600",
+HERCULES,"19,488 22,400 23,800 25,400",,"26,900",
+LAFAYETTE,"23,908 24,100 24,400 24,800",,"25,400",
+MARTINEZ,"35,866 36,500 36,900 38,500",,"40,100",
+MORAGA,"16,290 16,300 16,500 17,000",,"17,700",
+OAKLEY,"25,619 28,300 30,200 32,400",,"34,900",
+ORINDA,"17,599 17,700 17,800 18,200",,"18,600",
+PINOLE,"19,039 19,300 19,400 19,900",,"20,500",
+PITTSBURG,"56,769 61,300 64,600 66,800",,"70,600",
+PLEASANT,,,,
+HILL,"32,837 33,200 33,700 34,600",,"35,300",
+RICHMOND,"99,216 100,500 101,400 105,100",,"109,600",0.580%
+SAN PABLO,"30,215 30,900 31,000 31,800",,"32,500",
+SAN RAMON,"44,722 52,200 58,700 64,400",,"70,500",
+WALNUT,,,,
+CREEK,"64,296 65,200 66,900 69,400",,"72,000",
+UNINCORP.,"151,690 160,700 166,300 174,400",,"180,700",
+"",,,,
+CONTRA,,,,
+COSTA,,,,
+COUNTY,"948,816 1,016,300 1,055,600 1,102,300",,"1,150,900",
+"",,TOTAL JOBS,,,
+"",,,,,Annual
+"",,,,,Growth
+JURISDICTION,2000,2005 2010,2015,2020,Rate
+"",,,,,
+ANTIOCH,"19,700","19,830 22,930","25,950","29,170",
+BRENTWOOD,"6,670","6,750 7,930","9,730","11,780",
+CLAYTON,"1,390","1,410 1,450","1,700","1,870",
+CONCORD,"59,860","60,210 63,700","68,840","74,480",
+DANVILLE,"13,670","13,910 14,920","15,350","15,580",
+EL CERRITO,"5,580","5,630 5,980","6,610","7,090",
+HERCULES,"2,780","2,820 3,460","4,030","4,640",
+LAFAYETTE,"10,790","10,780 11,340","11,700","11,850",
+MARTINEZ,"18,150","18,230 19,860","21,600","23,450",
+MORAGA,"4,940","4,970 5,230","5,440","5,520",
+OAKLEY,"3,170","3,190 4,330","5,410","6,630",
+ORINDA,"6,230","6,210 6,500","6,680","6,700",
+PINOLE,"5,570","5,580 5,940","6,490","6,960",
+PITTSBURG,"15,000","15,070 17,530","20,910","24,710",
+PLEASANT HILL,"16,870","16,940 17,760","18,530","19,150",
+RICHMOND,"39,250","39,290 42,620","46,890","51,820",1.863%
+SAN PABLO,"6,010","6,040 6,510","7,020","7,530",
+SAN RAMON,"40,030","39,700 46,460","49,100","51,820",
+WALNUT CREEK,"54,900","55,280 57,820","59,690","61,690",
+UNINCORP.,"40,750","41,160 43,740","47,350","50,390",
+"",,,,,
+CONTRA COSTA,,,,,
+COUNTY,"371,310","373,000 406,010","439,020","472,830",
+"",,,Equiv,,,,
+"",,,CO2,Equiv,,,
+"",,Emissions,(metric,CO2,Energy,,
+"",Sector,Source,tons),(%),(MMBtu),Cost,Data Source
+Buildings,,,,,,,
+"",,Electricity,"1,853",17.5%,"27,026","$1,137,997",PG&E
+"",,Natural Gas,"1,746",16.5%,"32,648","$165,238",PG&E
+Subtotal Buildings,,,"3,599",34.0%,"59,674","1,303,235",
+Streetlights,,,,,,,
+Outdoor Lighting,,,,,,,
+"",,Electricity,"1,223",11.5%,"17,843","$1,115,990",PG&E
+Traffic Signals,,,,,,,
+"",,Electricity,89,0.8%,"1,299","$61,679",PG&E
+Subtotal Streetlights,,,"1,312",12.4%,"19,142","1,177,669",
+Vehicle Fleet,,,,,,,
+"",,Gasoline,"1,097",10.4%,"15,948","$516,000",CalTrans
+"",,Diesel,289,2.7%,"3,486","$50,075",CalTrans
+Subtotal Vehicle Fleet,,,"1,386",13.1%,"19,434","566,07534",
+Employee Commute,,,,,,,
+"",,Gasoline,"2,649",25.0%,"35,418",,City Survey
+"",,Diesel,42,0.4%,537,,City Survey
+Subtotal Employee,,,,,,,
+Commute,,,"2,691",25.4%,"35,955",0,
+Water/Sewage,,,,,,,
+Waste Water Treatment,,,,,,,
+Plant,,,,,,,
+"",,Electricity,994,9.4%,"14,492","$489,392",PG&E
+"",,Natural Gas,11,0.1%,211,"$2,666",PG&E
+Water Pumping,,,,,,,
+"",,Electricity,62,0.6%,908,"$38,472",PG&E
+Subtotal Water/Sewage,,,"1,067",10.1%,"15,611","530,530",
+Waste,,,,,,,
+Total Waste Disposed,,,,,,,
+"",,,,,,,City Survey /
+"",,Paper Products,303,2.9%,,N/A,RSS / CIWMB
+"",,,,,,,City Survey /
+"",,Food Waste,119,1.1%,,N/A,RSS / CIWMB
+"",,,,,,,City Survey /
+"",,Plant Debris,32,0.3%,,N/A,RSS / CIWMB
+"",,,,,,,City Survey /
+"",,Wood/Textiles,89,0.8%,,N/A,RSS / CIWMB
+Subtotal Waste,,,543,5.1%,,N/A,
+Grand Total,,,"10,598",100%,"149,816","$3,577,509",
+"",,,GHG,,,,,,,,,,,,,,,,,
+"",Building,Location,Emissions tons CO2e) (metric,GHG Emissions (% CO e) 2,,,,Electricity  (kWh),,Electricity Cost ($),,Natural Gas Use (therms),,,Natural Gas Cost ($),,,Total Cost ($),,Total Energy Equivalent (MMBtu)
+Civic Center,,Civic Center Plaza,580,16.1%,,,,"834,600",,"$111,775",,"71,898",,,"$17,362",,,"$129,137",,"10,038"
+Port Terminal 1,,1500 Dornan,531,14.7%,,,,"2,271,200",,"$336,558",,0,,,,$0,,"$336,558",,"7,752"
+City Hall - Marina Way,,"1401 Marina Way S, Bldg C",510,14.2%,,,,"1,295,700",,"$195,008",,"38,786",,,"$44,209",,,"$239,217",,"8,301"
+Hall of Justice,,401 27th St,343,9.5%,,,,"4,640",,$689,,"63,851",,,"$19,223",,,"$19,912",,"6,401"
+Kennedy Swim Center,,4300 Cutting Blvd,294,8.2%,,,,"292,360",,"$39,943",,"42,228",,,"$12,563",,,"$52,506",,"5,221"
+Senior Center,,2525 MacDonald,144,4.0%,,,,"261,360",,"$35,326",,"15,431",,,"$19,445",,,"$54,771",,"2,435"
+Shipyard,,1312 Canal Blvd,105,2.9%,,,,"448,200",,"$55,872",,0,,,,$0,,"$55,872",,"1,530"
+Richmond Housing Authority 2,,2400 Nevin,89,2.5%,,,,"380,529",,"$50,809",,0,,,,$0,,"$50,809",,"1,299"
+Corporation Yard,,6 & 7 13th St,73,2.0%,,,,"125,640",,"$16,044",,"8,149",,,"$3,145",,,"$19,189",,"1,244"
+Main Library,,325 Civic Center Plaza,56,1.6%,,,,"94,138",,"$14,414",,"6,363",,,"$2,466",,,"$16,880",,957
+Parks Department,,3230 MacDonald Ave,52,1.4%,,,,"60,600",,"$9,548",,"7,073",,,"$2,588",,,"$12,136",,914
+MLK Center,,360 Harbour Way S,47,1.3%,,,,"93,960",,"$14,761",,"4,665",,,"$1,857",,,"$16,618",,788
+Museum,,400 Nevin Ave,46,1.3%,,,,"22,560",,"$3,380",,"7,737",,,"$2,561",,,"$5,941",,851
+Moving & Storage Facility,,1320 Canal Blvd,41,1.1%,,,,"177,040",,"$25,749",,0,,,,$0,,"$25,749",,604
+Richmond Housing Authority 1,,1300 Roosevelt Ave,41,1.1%,,,,"176,664",,"$25,672",,0,,,,$0,,"$25,672",,603
+Fire Station 64,,4801 Bayview Ave,38,1.1%,,,,"62,080",,"$7,241",,"4,331",,,"$1,634",,,"$8,875",,645
+Fire Station 62,,1065 7th St,37,1.0%,,,,"45,959",,"$5,372",,"4,809",,,"$1,756",,,"$7,128",,638
+Nicholl Park,,Euclid,34,0.9%,,,,"57,367",,"$8,205",,"4,007",,,"$1,650",,,"$9,855",,597
+Fire Station 63,,5201 Valley View Rd,32,0.9%,,,,"40,600",,"$6,098",,"4,048",,,"$1,556",,,"$7,654",,544
+Fire Station 68,,2904 Hilltop Dr,29,0.8%,,,,"69,280",,"$10,398",,"2,405",,,"$1,014",,,"$11,412",,477
+Office Building 3,,1387 Marina Way S #B,27,0.7%,,,,"115,482",,"$17,459",,0,,,,$0,,"$17,459",,394
+Shields Reid Community Center,,1410 Kelsey St,27,0.7%,,,,"56,480",,"$7,185",,"2,607",,,"$1,081",,,"$8,266",,454
+Communications Equipment,,Various locations,26,0.7%,,,,"109,620",,"$22,090",,0,,,,$0,,"$22,090",,374
+Nevin Community Center,,598 Nevin Ave,25,0.7%,,,,"79,680",,"$11,893",,"1,118",,,"$1,456",,,"$13,349",,384
+Office Building 5,,1401 Marina Way South,25,0.7%,,,,,0,,,"4,595",,,"$5,733",,,"$5,733",,460
+Office Building 2,,1387 Marina Way S,23,0.6%,,,,"97,600",,"$14,724",,0,,,,$0,,"$14,724",,333
+Booker T. Anderson Community Ctr,,960 S 47th St,22,0.6%,,,,,0,$0,,"4,054",,,"$5,076",,,"$5,076",,405
+Untitled6,,564 Stege,21,0.6%,,,,"3,999",,$627,,"3,789",,,"$4,580",,,"$5,207",,393
+Auditorium,,24th @ Nevin and Barrett,20,0.6%,,,,,0,$0,,"3,831",,,"$1,290",,,"$1,290",,383
+"",,GHG,GHG,,,,,,,,,,,,,Total
+Building,Location,Emissions tons CO e) (metric 2,Emissions (% CO e) 2,Electricity (kWh),,Electricity Cost ($),,Natural Gas Use (therms),,,Natural Gas Cost ($),,,Total Cost ($),,Energy Equivalent (MMBtu)
+Residential Building 6,Bld 121 Cal 4416,18,0.5%,"54,218",,"$7,953",,856,,,"$1,142",,,"$9,095",,271
+Fire Station 61,140 W Richmond Ave,17,0.5%,"25,120",,"$2,987",,"2,052",,,$896,,,"$3,883",,291
+Fire Station 67,1131 Cutting,17,0.5%,"32,610",,"$4,111",,"1,761",,,$713,,,"$4,824",,287
+Engineering Service Bldg 2,2566 MacDonald Ave,16,0.4%,"22,068",,"$3,016",,"2,070",,,$820,,,"$3,836",,282
+Office Building 1,1101 MacDonald Ave,14,0.4%,"58,606",,"$8,741",,0,,,,$0,,"$8,741",,200
+Fire Station 66,4100 Clinton Ave,13,0.4%,"12,086",,"$1,901",,"1,928",,,$788,,,"$2,689",,234
+Parchester Community Center,900 Williams Dr,12,0.3%,"13,985",,"$1,834",,"1,619",,,$690,,,"$2,524",,210
+Port Terminal Warehouse,1500 Dornan,12,0.3%,"49,280",,"$6,930",,0,,,,$0,,"$6,930",,168
+Community Center,960 Triangle Ct,11,0.3%,"17,718",,"$2,455",,"1,217",,,"$1,631",,,"$4,086",,182
+Park - Trailhead Parking,,10,0.3%,"41,842",,"$4,206",,0,,,,$0,,"$4,206",,143
+Bayview Library,5100 Hartnett,9,0.2%,"9,546",,"$1,165",,"1,388",,,$583,,,"$1,748",,172
+Westside Branch Library,135 Washington Ave,9,0.2%,"8,385",,$998,,"1,277",,,$567,,,"$1,565",,157
+Winters Building,333 11th St,9,0.2%,"23,240",,"$3,244",,825,,,$426,,,"$3,670",,162
+Annex Senior Center,5801 Huntington Ave,7,0.2%,"7,692",,"$1,031",,933,,,$456,,,"$1,487",,119
+DPRC,1900 Barrett Ave,7,0.2%,"3,754",,$597,,"1,147",,,$541,,,"$1,138",,128
+Fire Training School,3506 Cutting,7,0.2%,"18,599",,"$2,128",,552,,,$338,,,"$2,466",,118
+Potrero Park,S 39th St and Cutting,6,0.2%,"27,608",,"$4,135",,0,,,,$0,,"$4,135",,94
+Residential Building 1,1025 Ridgeview Dr,6,0.2%,"7,395",,"$1,179",,764,,,$944,,,"$2,123",,101
+Vincent Park,End of Peninsula Dr,6,0.2%,"23,600",,"$3,532",,0,,,,$0,,"$3,532",,81
+May Valley Community Center,3530 Morningside Dr,5,0.1%,"13,778",,"$1,936",,441,,,$258,,,"$2,194",,91
+Office Building 4,1389 Marina Way S,5,0.1%,"20,525",,"$3,152",,0,,,,$0,,"$3,152",,70
+Port Terminal Office,1500 Dornan,5,0.1%,"19,244",,"$2,999",,0,,,,$0,,"$2,999",,66
+Engineering Services Bldg 1,2562 MacDonald Ave,4,0.1%,320,,$183,,657,,,$329,,,$512,,67
+Untitled,1301 Canal,4,0.1%,"19,120",,"$2,921",,0,,,,$0,,"$2,921",,65
+Park,Western Dr & Dornan,3,0.1%,"12,281",,"$1,865",,0,,,,$0,,"$1,865",,42
+Untitled2,1320 Park Central,3,0.1%,"2,365",,$274,,328,,,$466,,,$740,,41
+Washington Field House,110 E Richmond Ave,3,0.1%,"4,747",,$722,,296,,,$208,,,$930,,46
+ES Park,S 47th & Cypress,2,0.1%,"7,680",,"$1,080",,0,,,,$0,,"$1,080",,26
+Hilltop Park,Birmingham Drive & Groom,2,0.1%,"9,281",,"$1,451",,0,,,,$0,,"$1,451",,32
+Parking Garage Downtown,333 12th St,2,0.1%,"9,840",,"$1,158",,0,,,,$0,,"$1,158",,34
+"",,GHG,GHG,,,,,,,,,,,,,Total
+Building,Location,Emissions tons CO e) (metric 2,Emissions (% CO e) 2,Electricity (kWh),,Electricity Cost ($),,Natural Gas Use (therms),,,Natural Gas Cost ($),,,Total Cost ($),,Energy Equivalent (MMBtu)
+Police Substation 1,1000 MacDonald Ave,2,0.1%,"10,191",,"$1,496",,9,,,$116,,,"$1,612",,36
+Police Substation 2,3051 Hilltop Mall Rd,2,0.1%,"7,577",,"$1,217",,0,,,,$0,,"$1,217",,26
+Tiller Park,Sierra & Ventura,2,0.1%,"10,016",,"$1,561",,0,,,,$0,,"$1,561",,34
+Untitled1,1303 Canal,2,0.1%,"7,447",,"$1,247",,0,,,,$0,,"$1,247",,25
+Vacant Building,1101 MacDonald Ave #A,2,0.1%,"7,166",,"$1,283",,0,,,,$0,,"$1,283",,24
+Community Building,314 11th St,1,0.0%,,0,$0,,182,,,$361,,,$361,,18
+Emergency Center,326 27th St,1,0.0%,,0,$0,,172,,,$168,,,$168,,17
+Office Building 6,342 11th St,1,0.0%,"2,932",,$499,,16,,,$121,,,$620,,12
+Oil Storage,Pt San Pablo,1,0.0%,"2,640",,$446,,0,,,,$0,,$446,,9
+Police Department,100 W. Cutting,1,0.0%,"2,281",,$390,,0,,,,$0,,$390,,8
+Radio Station,6700 Monte Cresta Ave,1,0.0%,"2,930",,$525,,0,,,,$0,,$525,,10
+Residential Building 3,2115 Virginia,1,0.0%,266,,$30,,123,,,$195,,,$225,,13
+Restroom Facility,10th & Lucas,1,0.0%,"3,373",,$542,,0,,,,$0,,$542,,12
+Untitled3,1441 Monterey,1,0.0%,"2,209",,$396,,0,,,,$0,,$396,,8
+Untitled4,1671 Mendocino,1,0.0%,"2,540",,$458,,0,,,,$0,,$458,,9
+Bookmobile,NE Cr Vlt VIiew-May Rd,0,0.0%,,0,$36,,0,,,,$0,,$36,,0
+Boorman Park,2701 Maine,0,0.0%,73,,$104,,0,,,,$0,,$104,,0
+Hilltop GR,1207 Parkway Ct,0,0.0%,,0,$89,,0,,,,$0,,$89,,0
+MLK Park,12th St & Virginia,0,0.0%,603,,$268,,0,,,,$0,,$268,,2
+Playground,Duke & Loyola,0,0.0%,"1,000",,$239,,0,,,,$0,,$239,,3
+Port Terminal 4 Office Building,2101 Western Drive,0,0.0%,"1,370",,$286,,0,,,,$0,,$286,,5
+Residential Building 2,211 Marina Way S,0,0.0%,39,,$10,,17,,,$23,,,$33,,2
+Residential Building 4,315 S. Marina Way,0,0.0%,54,,$6,,1,,,$10,,,$16,,0
+Residential Building 5,928 8th St,0,0.0%,14,,$3,,5,,,,$8,,$11,,1
+Richmond Plunge,1 East Richmond Ave,0,0.0%,,0,$0,,0,,,$115,,,$115,,0
+Untitled5,4031 Lakeside,0,0.0%,,0,$87,,0,,,,$0,,$87,,0
+Untitled7,801 Lincoln,0,0.0%,74,,$14,,34,,,$54,,,$68,,3
+Untitled8,917 Lincoln,0,0.0%,,2,$4,,3,,,,$5,,,$9,0
+Untitled9,946 8th,0,0.0%,70,,$8,,22,,,$21,,,$29,,2
+Virginia Park,S 5th St & Virginia,0,0.0%,,0,$29,,0,,,,$0,,$29,,0
+TOTAL,,"3,602",100.0%,"7,918,738",,"1,137,997",,"326,470",,,"$165,238",,,"$1,303,235",,"59,674"
+Streetlights,Outdoor Lighting (kWh),"5,227,998"
+"",Traffic Signals (kWh),"380,548"
+"",,Number,,CO2e,,
+"",,of,Fuel Use,(metric,% Total,Energy
+Department,Fuel and Vehicle Type,Vehicles,(gallons),tons),CO2e,(MMBtu)
+Building and,Gasoline,9,"1,593",15,1.1%,200
+Regulations,Auto - Mid Size,1,31,,,
+"",Light Truck/SUV/Pickup,8,"1,562",,,
+Employment,Gasoline,5,565,5,0.4%,71
+and Training,Auto - Mid Size,1,99,,,
+"",Auto - Subcompact/Compact,1,224,,,
+"",Light Truck/SUV/Pickup,3,243,,,
+Engineering,Gasoline,7,"1,443",12,0.9%,181
+"",Light Truck/SUV/Pickup,7,"1,443",,,
+"",Diesel,1,55,1,0.1%,7
+"",Heavy Truck,1,55,,,
+"",TOTAL,8,"1,498",13,0.9%,188
+Equipment,Gasoline,7,"1,159",10,0.7%,146
+Services,Auto - Mid Size,1,412,,,
+"",Light Truck/SUV/Pickup,5,717,,,
+"",Heavy Truck,1,30,,,
+Finance,Gasoline,9,"1,095",9,0.6%,138
+"",Auto - Mid Size,7,880,,,
+"",Light Truck/SUV/Pickup,2,216,,,
+Fire,Gasoline,24,"6,514",56,4.0%,818
+"",Auto - Full Size,6,"3,220",,,
+"",Auto - Mid Size,4,782,,,
+"",Heavy Truck,6,807,,,
+"",Light Truck/SUV/Pickup,7,"1,686",,,
+"",Unconfirmed,1,20,,,
+"",Diesel,17,"10,555",107,7.7%,"1,288"
+"",Heavy Truck,17,"10,555",,,
+"",TOTAL,41,"17,069",163,11.8%,"2,106"
+Housing and,Gasoline,3,510,4,0.3%,64
+Community,Auto - Mid Size,2,242,,,
+Development,Auto - Subcompact/Compact,1,268,,,
+Human,Gasoline,1,172,1,0.1%,22
+Resources,Auto - Mid Size,1,172,,,
+Information,Gasoline,4,552,5,0.4%,69
+Technology,Auto - Mid Size,1,166,,,
+"",Light Truck/SUV/Pickup,3,386,,,
+KCRT,Gasoline,1,186,2,0.1%,23
+"",Auto - Mid Size,1,186,,,
+"",,Number,,CO2e,,
+"",,of,Fuel Use,(metric,% Total,Energy
+Department,Fuel and Vehicle Type,Vehicles,(gallons),tons),CO2e,(MMBtu)
+Library,Gasoline,4,"1,249",11,0.8%,157
+"",Auto - Subcompact/Compact,1,164,,,
+"",Light Truck/SUV/Pickup,1,130,,,
+"",Vanpool Van,2,955,,,
+"",Diesel,1,225,2,0.1%,27
+"",Heavy Truck,1,225,,,
+"",TOTAL,5,"1,474",13,0.9%,184
+Mayor,Gasoline,1,100,1,0.1%,13
+"",Auto - Subcompact/Compact,1,100,,,
+Office of,Gasoline,1,273,2,0.1%,34
+Neighborhoo,,,,,,
+d Safety,Auto - Mid Size,1,273,,,
+Paratransit,Gasoline,9,"5,370",46,3.3%,674
+"",Auto - Full Size,1,198,,,
+"",Heavy Truck,6,"4,944",,,
+"",Light Truck/SUV/Pickup,1,109,,,
+"",Vanpool Van,1,119,,,
+Planning,Gasoline,3,512,4,0.3%,64
+"",Auto - Mid Size,3,512,,,
+Police,Gasoline,118,"72,621",627,45.3%,"9,121"
+"",Auto - Full Size,96,"67,940",,,
+"",Auto - Mid Size,2,145,,,
+"",Auto - Subcompact/Compact,2,278,,,
+"",Light Truck/SUV/Pickup,11,"2,146",,,
+"",Vanpool Van,5,"1,848",,,
+"",Unconfirmed,2,264,,,
+"",Diesel,3,118,1,0.1%,14
+"",Heavy Truck,3,118,,,
+"",TOTAL,121,"72,739",628,45.3%,"9,136"
+Port,Gasoline,3,423,4,0.3%,53
+"",Auto - Mid Size,1,79,,,
+"",Light Truck/SUV/Pickup,2,344,,,
+Public Works,Gasoline,80,"27,827",240,17.3%,"3,495"
+"",Auto - Mid Size,1,149,,,
+"",Auto - Subcompact/Compact,2,402,,,
+"",Heavy Truck,15,"8,565",,,
+"",Light Truck/SUV/Pickup,48,"13,950",,,
+"",Vanpool van,1,362,,,
+"",Unconfirmed,13,"4,399",,,
+"",Diesel,41,"13,517",136,9.8%,"1,649"
+"",Heavy Truck,23,"7,779",,,
+"",Light Truck/SUV/Pickup,13,"2,217",,,
+"",Unconfirmed,5,"3,521",,,
+"",TOTAL,121,"41,344",376,27.1%,"5,144"
+Recreation,Gasoline,5,"1,632",14,1.0%,205
+"",Auto - Mid Size,1,331,,,
+"",Light Truck/SUV/Pickup,4,"1,301",,,
+"",,Number,,CO2e,,
+"",,of,Fuel Use,(metric,% Total,Energy
+Department Fuel and Vehicle Type,,Vehicles,(gallons),tons),CO2e,(MMBtu)
+Redevelop- Gasoline,,9,"1,122",10,0.7%,141
+ment Auto - Mid Size,,5,537,,,
+Auto - Subcompact/Compact,,2,320,,,
+Light Truck/SUV/Pickup,,2,265,,,
+Veolia Gasoline,,4,"2,054",18,1.3%,258
+Light Truck/SUV/Pickup,,2,"1,213",,,
+Unconfirmed,,2,841,,,
+Diesel,,7,"4,102",42,3.0%,500
+Heavy Truck,,7,"4,102",,,
+TOTAL,,11,"6,155",59,4.3%,758
+TOTAL GASOLINE,,307,"126,972","1,096",79.1%,"15,947"
+TOTAL DIESEL,,70,"28,571",289,20.9%,"3,485"
+GRAND TOTAL,,377,"155,543","1,385",100.0%,"19,432"
+"",Number,Approximate Distance
+City of Residence,Employees,(miles)35
+Full-time Employees,,
+Richmond,189,4
+Fairfield,67,34
+Hercules,47,11
+Vallejo,42,20
+San Pablo,41,2
+Vacaville,38,20
+Oakland,33,16
+Pinole,33,9
+Suisin City,22,29
+Benicia,19,22
+El Sobrante,19,8
+Antioch,16,38
+El Cerrito,14,3
+Berkeley,13,8
+Rodeo,12,11
+Martinez,10,21
+Brentwood,9,46
+Sacramento,10,73
+San Francisco,8,17
+San Ramon,8,35
+Walnut Creek,8,24
+Concord,7,27
+Dublin,7,36
+Napa,7,34
+Oakley,7,43
+Pittsburg,7,33
+San Leandro,7,22
+Alameda,6,14
+Pleasant Hill,5,23
+American Canyon,4,23
+Hayward,4,28
+Lafayette,4,21
+Santa Rosa,4,49
+Newark,3,36
+Petaluma,3,33
+Bay Point,2,29
+Castro Valley,2,27
+Clayton,2,33
+El Dorado Hills,2,100
+Fremont,2,38
+Orinda,2,17
+San Jose,2,56
+Sonoma,2,38
+Winters,2,54
+"",Number,Approximate Distance
+City of Residence,Employees,(miles)36
+Full-time Employees (continued),,
+Albany,1,4
+Belmont,1,39
+Burlingame,1,31
+Cazadero,1,73
+Cordelia,1,27
+Denair,1,106
+Dixon,1,52
+Emeryville,1,8
+Forestville,1,57
+Galt,1,96
+Livermore,1,44
+Marin City,1,16
+Moraga,1,21
+Mountain House,1,60
+Pacheco,1,22
+Pleasanton,1,40
+Rocklin,1,95
+Rohnert Park,1,43
+San Lorenzo,1,25
+San Rafael,1,13
+Stockton,1,82
+Tiburon,1,17
+Union City,1,33
+"Vail, AZ",1,n/a37
+West Hills,1,n/a38
+Woodland,1,68
+TOTAL,777,-
+Part-Time Employees,,
+Richmond,98,4
+San Pablo,15,2
+Oakland,14,16
+El Sobrante,12,8
+Berkeley,8,8
+Hercules,4,11
+Pinole,4,9
+Albany,3,4
+Vallejo,3,20
+Antioch,2,38
+El Cerrito,2,3
+Martinez,2,21
+Rodeo,2,11
+San Leandro,2,22
+Fairfield,1,34
+"",Number,Approximate Distance
+City of Residence,Employees,(miles)39
+Part-Time Employees (continued),,
+Fremont,1,38
+San Francisco,1,17
+Suisin City,1,29
+TOTAL,175,-
+"",,,,Fuel Use of,2008,2005
+"",,,Fuel Use of,Employees,Estimated,Estimated
+"",,,Surveyed,Not,Total Fuel,Total Fuel
+"",,,Employees,Surveyed,Use,Use
+Employee Type,,Fuel Type,(gallons),(gallons),(gallons),(gallons)
+Full-Time,Gasoline,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,"25,571.7","5,634.3","31,206.1","30,844.1"
+"",Auto - Mid size,,"69,558.6","18,480.6","88,039.2","87,018.0"
+"",Auto - Sub-compact/Compact,,"31,761.3","9,353.0","41,114.3","40,637.4"
+"",Light Truck/SUV/Pickup,,"84,394.5","22,311.9","106,706.5","105,468.7"
+"",Motorcycle,,"2,272.9",563.4,"2,836.3","2,803.4"
+"",Diesel,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,130.2,78.5,208.7,206.3
+"",Auto - Mid size,,427.2,257.4,684.6,676.7
+"",Auto - Sub-compact/Compact,,216.2,130.3,346.5,342.5
+"",Light Truck/SUV/Pickup,,"2,710.9",310.8,"3,021.7","2,986.6"
+"",Motorcycle,,13.0,7.8,20.9,20.6
+Part-Time,Gasoline,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,158.9,"1,011.2","1,170.1","1,156.5"
+"",Auto - Mid size,,"1,137.1","3,316.8","4,453.9","4,402.2"
+"",Auto - Sub-compact/Compact,,541.2,"1,678.6","2,219.8","2,194.1"
+"",Light Truck/SUV/Pickup,,"1,051.5","4,004.4","5,055.9","4,997.3"
+"",Motorcycle,,14.9,101.1,116.0,114.7
+"",Diesel,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,0.0,14.1,14.1,13.9
+"",Auto - Mid size,,0.0,46.2,46.2,45.7
+"",Auto - Sub-compact/Compact,,0.0,23.4,23.4,23.1
+"",Light Truck/SUV/Pickup,,0.0,55.8,55.8,55.1
+"",Motorcycle,,0.0,1.4,1.4,1.4
+Youth,Gasoline,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,14.7,193.5,208.2,205.8
+"",Auto - Mid size,,48.2,634.6,682.8,674.9
+"",Auto - Sub-compact/Compact,,70.1,321.2,391.3,386.7
+"",Light Truck/SUV/Pickup,,303.6,766.2,"1,069.7","1,057.3"
+"",Motorcycle,,1.5,19.3,20.8,20.6
+"",Diesel,,,,,
+"",Vehicle Type,,,,,
+"",Auto - Full Size,,0.0,2.7,2.7,2.7
+"",Auto - Mid size,,0.0,8.8,8.8,8.7
+"",Auto - Sub-compact/Compact,,0.0,4.5,4.5,4.4
+"",Light Truck/SUV/Pickup,,0.0,10.7,10.7,10.5
+"",Motorcycle,,0.0,0.3,0.3,0.3
+"",Electricity Consumption,kWh,"4,246,195"
+Waste Water Treatment Plant,,,
+"",Natural Gas Consumption,Therms,"2,107"
+"",Electricity Consumption,kWh,"266,037"
+Water Usage,,,
+"",Natural Gas Consumption,Therms,n/a
+Waste,Total Landfill Waste (See Waste Table),Short Tons,"2,970"
