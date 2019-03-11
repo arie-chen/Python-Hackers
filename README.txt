@@ -1,11 +1,16 @@
+TODO:
+Convert code in iPython notebooks to configurable methods
+Find a way to clean the data so we only get important tables.
+
+
 Installing Relevant Software:
 
-In terminal:
-"pip" (or "pip3" for macOS) is used to retrieve python libraries. Ensure that Python3 and pip3 are installed on your operating system. The libraries required are tabula, tabula-py[cv], and requests. Open a terminal window and run the following commands.
+"pip" (or "pip3" depending on your configuration) is used to retrieve python libraries. Ensure that Python3 and pip are installed on your operating system. The libraries required are request, pypdf2, tabula, and tabula-py[cv]. Open a terminal window and run the following commands:
 
-pip3 requests 
-pip3 pypdf2    ### may need in the future
-pip3 tabula
-pip3 tabula-py[cv]
-pip3 camelot   ### may need in the future
+In terminal:
+pip requests 
+pip pypdf2
+pip tabula
+pip tabula-py[cv]
+pip camelot   ### may need in the future
 
