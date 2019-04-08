@@ -31,15 +31,15 @@ def get_tables(df,start=0, end=-1):
                         # open("foo.csv", "w")
                         #bobbert = tables[1]
                     for t in tables:
-                        t.columns = t.iloc[0]
-                        t.drop(t.index[0], inplace=True)
+                        #t.columns = t.iloc[0]
+                        #t.drop(t.index[0], inplace=True)
                         t['jurisdiction'] = str(row[1])
                         t['location_type'] = str(row[2])
                         t['table_number'] = x
                         #t['table_name'] = names[y]
                         x += 1
                         y += 1
-                        with open('foo.csv', 'a') as f:
+                        with open('extract_cities.csv', 'a') as f:
                             t.to_csv(f, header=False)
 #t.to_csv(str(row[1]) + " " + x + ".csv")
 
@@ -49,7 +49,7 @@ def get_tables(df,start=0, end=-1):
                         #	fd.write(t)
 
 
-					
+
                     #tables = tabula.convert_into(str(row[1])+'.pdf', str(row[1])+'.csv',output_format='csv',
                                               #multiple_tables=True, pages='all')
                     #os.remove(str(row[1])+'.pdf')
@@ -58,7 +58,7 @@ def get_tables(df,start=0, end=-1):
 
 def lookup_table(pdf_doc):
     string = r'([T|t]{1}able\s[\w+\d+].+)\n'
-    
+
     doc = PyPDF2.PdfFileReader(open(pdf_doc, 'rb'))
     pages = []
     names = []
@@ -67,16 +67,11 @@ def lookup_table(pdf_doc):
         text = page.extractText()
         if re.search(string, text):
             pages.append(i)
-            names += re.findall(r'[T|t]{1}able\s[\d+\w+][:|\.|\n](.+)\n', text)
+            names += re.findall(r'[T|t]{1}able\s[\d+\w*][:|\.|\n](.+)\n', text)
     return pages, names
 
-df = pd.read_csv('Counties.csv')
-a = get_tables(df,1,69)
+df = pd.read_csv('Cities.csv')
+a = get_tables(df,1,40)
 
 #pd.DataFrame(a).to_csv("file.csv", header=None, index=None)
  #Don't forget to add '.csv' at the end of the path
-
-
-
-
-
