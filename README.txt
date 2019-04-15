@@ -12,5 +12,5 @@ pip requests
 pip pypdf2
 pip tabula
 pip tabula-py[cv]
-pip camelot   ### may need in the future
+pip tika
 
