@@ -2,6 +2,7 @@ import pandas as pd
 from requests import get  # to make GET request
 import os
 import tabula
+import camelot
 from PyPDF2 import PdfFileReader 
 
 ## https://stackoverflow.com/questions/7243750/download-file-from-web-in-python-3
@@ -25,11 +26,14 @@ def get_csvs(source, row, col):
             doc_name = clean_phrase(df.columns[col] + "_" + df.iloc[counter, 1])
             pdf_name = doc_name + ".pdf"
             csv_name = doc_name + ".csv"
+            csv_name2 = doc_name + '2' + ".csv"
             
             download(element, pdf_name)
             try :
                 mypdf = PdfFileReader(open( pdf_name, 'rb'))
-                tabula.convert_into(pdf_name, csv_name, multiple_tables=True, pages='all')
+                tables = camelot.read_pdf(pdf_name, pages='all')
+                tables.export(csv_name2, f='csv')
+                #tabula.convert_into(pdf_name, csv_name, multiple_tables=True, pages='all')
             except:
                 print(pdf_name,' is invalid pdf')
             
