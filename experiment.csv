@@ -1,0 +1,1433 @@
+0,,Cumulative,GHG,Agoura Hills,City,1
+1,,GHG,Reduction,Agoura Hills,City,1
+2,Strategy,Reductions,Cost,Agoura Hills,City,1
+3,,"(MT CO2e),",Effectiveness,Agoura Hills,City,1
+4,,2012–2020,($/MT)*,Agoura Hills,City,1
+5,Use Biomethane in CNG Buses (well-to-wheels impacts),"528,555**",$174-379,Agoura Hills,City,1
+6,On-board Railcar Braking Energy Storage,"96,411",$180,Agoura Hills,City,1
+7,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"76,826","$4,922",Agoura Hills,City,1
+8,Building Indoor Lighting Upgrades: LEDs,"71,621",-$78,Agoura Hills,City,1
+9,Building Indoor Lighting Upgrades: Efficient Metal Halides,"46,226",-$117,Agoura Hills,City,1
+10,Wayside Energy Storage Substation (WESS),"17,289","$2,774",Agoura Hills,City,1
+11,Retrofit Lighting in Red Line Tunnel,"5,783",-$73,Agoura Hills,City,1
+12,Expand Use of Renewable Energy,"4,467","$2,303",Agoura Hills,City,1
+13,Municipal Recycled Water For Bus Washing,941,-$570,Agoura Hills,City,1
+14,Extension of Bus Wash On-Site Reclamation,544,"-$2,378",Agoura Hills,City,1
+15,Low Water Sanitary Fixtures,424,-$907,Agoura Hills,City,1
+16,Mobile Air Conditioning Replacement,353,"$3,103",Agoura Hills,City,1
+0,,Cumulative,,Reduction,Reduction in,Agoura Hills,City,2
+1,,GHG,,,GHG,Agoura Hills,City,2
+2,Package,Reductions,Net Cost,in Forecast,emissions,Agoura Hills,City,2
+3,,(MT CO2e),(2012-2020)*,GHG emissions,per boarding,Agoura Hills,City,2
+4,,2012-2020,,in 2020,from 2010 to 2020,Agoura Hills,City,2
+5,1. Short-Term Cost Saving Strategies,"66,616","-$8,121,116",0.6%,5.0%,Agoura Hills,City,2
+6,2. Short-Term and Mid-Term Strategies,"167,494","$67,443,140",4.3%,8.6%,Agoura Hills,City,2
+7,3. All Strategies with Tank-to-Wheels Benefits,"244,673","$446,719,774",7.4%,11.5%,Agoura Hills,City,2
+8,4. All Strategies with Well-to-Wheels Benefits,"696,402","$206,873,542",28.9%,32.1%,Agoura Hills,City,2
+0,,,CO2e reductions (MT),Agoura Hills,City,3
+1,Strategy,,,Agoura Hills,City,3
+2,,2014,"2020 Cumulative, 2012–2020",Agoura Hills,City,3
+3,Use Biomethane in CNG Buses (well-to-wheels impacts),"26,291","125,744 528,555",Agoura Hills,City,3
+4,On-board Railcar Braking Energy Storage,"6,288","18,616 96,411",Agoura Hills,City,3
+5,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"5,066","15,479 76,826",Agoura Hills,City,3
+6,Building Indoor Lighting Upgrades: LEDs,"2,890","2,890 71,621",Agoura Hills,City,3
+7,Building Indoor Lighting Upgrades: Efficient Metal Halides,"1,722","1,722 46,226",Agoura Hills,City,3
+8,Wayside Energy Storage Substation (WESS),836,"3,745 17,289",Agoura Hills,City,3
+9,Retrofit Lighting in Red Line Tunnel,699,"529 5,783",Agoura Hills,City,3
+10,Expand Use of Renewable Energy,536,"416 4,467",Agoura Hills,City,3
+11,Municipal Recycled Water For Bus Washing,105,105 941,Agoura Hills,City,3
+12,Extension of Bus Wash On-Site Reclamation,60,60 544,Agoura Hills,City,3
+13,Low Water Sanitary Fixtures,47,47 424,Agoura Hills,City,3
+14,Mobile Air Conditioning Replacement,0,101 353,Agoura Hills,City,3
+0,Strategy,Lifecycle Costs*,,Lifecycle Cost Unit,Investment Lifetime,,Payback Period,Agoura Hills,City,4
+1,On-board Railcar Braking Energy Storage,"-$78,619",,Per railcar,20 years,,7 years,Agoura Hills,City,4
+2,Mobile Air Conditioning Replacement,$546,,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+3,Use Biomethane in CNG Buses: Low Cost Scenario,"$286,079",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+4,Gasoline-Electric Hybrid or CNG Hybrid Buses,"$355,688",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+5,Use Biomethane in CNG Buses: High Cost Scenario,"$572,159",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+6,Wayside Energy Storage Substation (WESS),"$1,528,155",,Per substation,20 years,,n/a,Agoura Hills,City,4
+7,Expand Use of Renewable Energy,"$8,886,753",,Per 1.3 MWh project,30 years,,n/a,Agoura Hills,City,4
+0,,Short-Term,Short-Term,All Strategies,All Strategies,Agoura Hills,City,5
+1,Strategy,Cost Saving,and Mid-Term,with Tank-to-,with Well-to-,Agoura Hills,City,5
+2,,Strategies,Strategies,Wheels Benefits,Wheels Benefits*,Agoura Hills,City,5
+3,Building Indoor Lighting Upgrades,X,X,X,X,Agoura Hills,City,5
+4,Municipal Recycled Water for Bus Washing,X,X,X,X,Agoura Hills,City,5
+5,Extension of Bus Wash On-Site Reclamation,X,X,X,X,Agoura Hills,City,5
+6,Low Water Sanitary Fixtures,X,X,X,X,Agoura Hills,City,5
+7,Retrofit Lighting in Red Line Tunnel,X,X,X,X,Agoura Hills,City,5
+8,On-board Railcar Braking Energy Storage,,X,X,X,Agoura Hills,City,5
+9,Expand Use of Renewable Energy,,X,X,X,Agoura Hills,City,5
+10,Wayside Energy Storage Substation (WESS),,X,X,X,Agoura Hills,City,5
+11,Mobile Air Conditioning Replacement,,,X,X,Agoura Hills,City,5
+12,Gasoline-Electric Hybrid Buses,,,X,,Agoura Hills,City,5
+13,Biomethane,,,,X,Agoura Hills,City,5
+0,Service or Asset Type,Rationale for “Criticality”,What Does This Include or Exclude?,Agoura Hills,City,6
+1,Bus,,,Agoura Hills,City,6
+2,Bus Fleet,Over 1 million weekday boardings; FY10 budget,Includes: Existing bus fleet; Expected,Agoura Hills,City,6
+3,,is over $300 million; 2009 LRTP* projects costs,capital costs for new buses,Agoura Hills,City,6
+4,,to be over $10 billion for the 2005-2040 period,Excludes: Roads; Stop locations; Fleet has,Agoura Hills,City,6
+5,,,not disaggregated by routes or bus-type,Agoura Hills,City,6
+6,,,"(e.g., length/size)",Agoura Hills,City,6
+7,Bus Rapid Transit Service,"Over 200,000 weekday passenger miles",Includes: Right-of-way,Agoura Hills,City,6
+8,(Silver and Orange Lines),(representing over 6% of all bus passenger,,Agoura Hills,City,6
+9,,miles),,Agoura Hills,City,6
+10,Rail,,,Agoura Hills,City,6
+11,Heavy Rail (Red and Purple,"Over 140,000 daily boardings; Most frequented","Includes: Location of track, stations, power",Agoura Hills,City,6
+12,Lines),subway lines; Service to much of Downtown Los,supply and distribution,Agoura Hills,City,6
+13,,Angeles,,Agoura Hills,City,6
+14,"Light Rail (Blue, Green, and",Broad geographic range across the county;,"Includes: Location of track, stations, power",Agoura Hills,City,6
+15,Gold Lines),"approximately 150,000 daily boardings",supply and distribution,Agoura Hills,City,6
+16,Rail Rehabilitation,FY10 budget is over $30 million; LRTP lists costs,Includes: Upkeep costs for maintaining rails,Agoura Hills,City,6
+17,,to be over $9 billion for the 2005-2040 period,,Agoura Hills,City,6
+18,Rail Fleet,FY10 and FY11 budgets are over $50 million,Includes: Existing rail car fleet; Expected,Agoura Hills,City,6
+19,,,capital costs for new rail cars,Agoura Hills,City,6
+0,Facilities—,Estimated Rail Daily Connections to,Joint,Criticality,Agoura Hills,City,7
+1,Passenger Stations,Weekday Ridership* Other Lines**,Development,Index,Agoura Hills,City,7
+2,7th /Metro Center,,,,Agoura Hills,City,7
+3,"(Red, Purple, Blue, Silver)","39,000 50",Completed,7,Agoura Hills,City,7
+4,Union Station,,,,Agoura Hills,City,7
+5,"(Red, Purple, Gold)","30,000 36+Parking",Completed,7,Agoura Hills,City,7
+6,Imperial/Wilmington,,,,Agoura Hills,City,7
+7,"(Blue, Green)","18,000 10+Parking",,6,Agoura Hills,City,7
+8,North Hollywood,,,,Agoura Hills,City,7
+9,"(Red, Orange)","16,000 12+Parking",Under negotiation,7,Agoura Hills,City,7
+10,Wilshire/Vermont,,,,Agoura Hills,City,7
+11,"(Red, Purple)","13,000 5",Completed,6,Agoura Hills,City,7
+12,Pershing Square,,,,Agoura Hills,City,7
+13,"(Red, Purple, Silver)","11,000 50",,6,Agoura Hills,City,7
+14,Westlake,,,,Agoura Hills,City,7
+15,"(Red, Purple)","9,000 15",Under construction,7,Agoura Hills,City,7
+16,Hollywood/Highland,,,,Agoura Hills,City,7
+17,(Red),"8,000 2+Parking",Completed,6,Agoura Hills,City,7
+18,Universal City,,,,Agoura Hills,City,7
+19,(Red),"8,000 2 + Parking",Under negotiation,6,Agoura Hills,City,7
+20,Civic Center,,,,Agoura Hills,City,7
+21,"(Red, Purple, Silver)","5,000 50",,6,Agoura Hills,City,7
+22,Hollywood/Vine,,,,Agoura Hills,City,7
+23,(Red),"5,000 2+Parking",Completed,6,Agoura Hills,City,7
+24,Facilities—,,,,Agoura Hills,City,7
+25,Non-Passenger Properties,Rationale,,,Agoura Hills,City,7
+26,Division 13—,Main bus maintenance facility; Co-located/adjacent to Location 30 (Metro Support,,,Agoura Hills,City,7
+27,Bus Maintenance Facility,"Services Center), Location 99, Location 33 (OCI), Location 35 (Facilities Maintenance), Location 88 (Westside-Central Service Sector",,,Agoura Hills,City,7
+28,Location 61—,,,,Agoura Hills,City,7
+29,Red Line Maintenance of Way,Important rail maintenance location,,,Agoura Hills,City,7
+30,Location 66—,,,,Agoura Hills,City,7
+31,Blue Line Maintenance of Way,Important rail maintenance location,,,Agoura Hills,City,7
+32,Location 99—,,,,Agoura Hills,City,7
+33,Gateway Building,"Metro Headquarters, Adjacent to Union Stations",,,Agoura Hills,City,7
+0,Ridership,Connectivity,Score,Agoura Hills,City,8
+1,"Greater than or equal to 5,000 daily riders",Connected to 10 or more other transit lines,3,Agoura Hills,City,8
+2,"1,000-4,999 daily riders","Connected to 5-9 lines, or Has dedicated parking spaces/park-and-ride lot",2,Agoura Hills,City,8
+3,"Less than 1,000 daily riders",Less than 5 connections and no parking,1,Agoura Hills,City,8
+0,,Exposed to,,,,Agoura Hills,City,9
+1,Critical Asset,Extreme,Sensitivities Adaptive Capacity,,Vulnerable?,Agoura Hills,City,9
+2,,Heat?,,,,Agoura Hills,City,9
+3,,,Equipment failure,,,Agoura Hills,City,9
+4,Bus Fleet,Yes,and higher frequency Moderate: Bus fleet is,,,Agoura Hills,City,9
+5,,,of breakdown  relatively large,,Yes,Agoura Hills,City,9
+6,,,,,Possible:,Agoura Hills,City,9
+7,,,,,(depending on the,Agoura Hills,City,9
+8,Bus Rapid Transit right-of-way,,Pavement Moderate: Pavement likely,,,Agoura Hills,City,9
+9,(Silver and Orange Lines),Yes,degradation can be accelerated to be replaced relatively frequently,,expected frequency of pavement,Agoura Hills,City,9
+10,,,,,replacement),Agoura Hills,City,9
+11,,,Some station Moderate: Most systems,,Possible:,Agoura Hills,City,9
+12,Heavy Rail,Minimal,"systems (electrical, can be inspected (in",,(depending on,Agoura Hills,City,9
+13,(Red and Purple),(underground),air conditioning) may anticipation of heat events),,frequencies of,Agoura Hills,City,9
+14,,,not function optimally  or repaired/replaced,,occurrence and stations affected),Agoura Hills,City,9
+15,,,Rail buckling and,,,Agoura Hills,City,9
+16,,,higher risk of Moderate: Operations can,,,Agoura Hills,City,9
+17,"Light Rail  (Blue, Green, and Gold)",Yes,"equipment (e.g., electrical systems, be modified (e.g., speed reductions), but damage to",,Yes,Agoura Hills,City,9
+18,,,air conditioning) rails can still occur,,,Agoura Hills,City,9
+19,,,failure,,,Agoura Hills,City,9
+20,,,Construction Moderate: Construction,,,Agoura Hills,City,9
+21,,,speed16 and worker schedules can be,,,Agoura Hills,City,9
+22,Measure R construction work,Yes,health can be modified; exposure could,,Yes,Agoura Hills,City,9
+23,,,compromised by be lowered depending on,,,Agoura Hills,City,9
+24,,,extreme heat mode choices and locations,,,Agoura Hills,City,9
+25,Measure R planned assets,Possible,"Above sensitivities and adaptive capacity apply, depending on mode choices and locations",,Possible,Agoura Hills,City,9
+0,,,,,,,,Connectivity,,,,Agoura Hills,City,10
+1,,,,,Service Volume,,,,,,,Agoura Hills,City,10
+2,,,,,,,,Transit,,,,Agoura Hills,City,10
+3,,,,Sum of,,,,,,,,Agoura Hills,City,10
+4,Asset Type,Service Line,Asset Name,Boardings,,Real Estate,Parking (#,,,,Criticality,Agoura Hills,City,10
+5,,,,and Alightings,Qualitative Rating,,"Spaces, not including",Connectivity Rating,Qualitative Rating,,,Agoura Hills,City,10
+6,,,,(Daily,,,street parking),,,,,Agoura Hills,City,10
+7,,,,Weekday),,,,,,,,Agoura Hills,City,10
+8,,,,,,,,,,,Yes -,Agoura Hills,City,10
+9,,,,,,,,,,,connected,Agoura Hills,City,10
+10,Unknown,Division 13,,,,,,,,,to,Agoura Hills,City,10
+11,,,,,,,,,,,Gateway,Agoura Hills,City,10
+12,,,,,,,,,,,Building,Agoura Hills,City,10
+13,Unknown,Division 4 Non Revenue Vehicle,,,,,,,,,No,Agoura Hills,City,10
+14,Unknown,Division 16,,,,,,,,,??,Agoura Hills,City,10
+0,,Address,Size (sq. ft.),Priority,Agoura Hills,City,11
+1,Rail Related,,,,Agoura Hills,City,11
+2,Location 61 - Red Line Maintenance Of Way,"284 S. Santa Fe Avenue, L.A. (Maintenance of Way Shops)",,High,Agoura Hills,City,11
+3,Location 66 - Blue Line Maintenance Of Way,,"81,270",High,Agoura Hills,City,11
+0,Loc 24,"14557 Sherman Way, Van Nuys (old Div. 8)",,??,Agoura Hills,City,12
+1,Loc 32,"425 S. Main St., L.A. (SCRTD Headquarters Bldg., 4th & Main)",520,??,Agoura Hills,City,12
+2,Location 34 - Vernon Yards,"4462 Pacific Blvd., Vernon (Vernon Yards, LARy)","22,652",??,Agoura Hills,City,12
+3,Loc 51,"1900 S. Figueroa St., L.A. (Transit Police Headquarters)",,??,Agoura Hills,City,12
+4,Loc 55,"316 W. 3rd St., L.A. (Miracle on Broadway Transit Police substation)",,??,Agoura Hills,City,12
+5,Loc 56,(Open),,??,Agoura Hills,City,12
+6,Loc 57,(Open),,??,Agoura Hills,City,12
+7,Loc 58,(Open),,??,Agoura Hills,City,12
+8,Loc 59,(Open),,??,Agoura Hills,City,12
+9,Location 80 - Materials Warehouse,"628 Aliso St., LA, 90012","11,678",??,Agoura Hills,City,12
+10,Location 81 - Surplus Office Space (6th Flr.),"818 W. 7th St., LA, 90017","9,747",??,Agoura Hills,City,12
+11,"Location 82 - Office Space (6 flrs. 23,24,27,28,29 & 37)","707 Wilshire Blvd., LA, 90017","43,822",??,Agoura Hills,City,12
+12,Location 83 - Office/Warehouse Bldg.,"3730 Monterey Rd., El Monte, 91731","49,005",??,Agoura Hills,City,12
+13,Location 84 - San Fernando Valley Service Sector,"9760 Topanga Canyon Bl., Chatsworth, 91311","365,469",??,Agoura Hills,City,12
+14,Location 86 - South Bay Service Sector,"680 Knox St., Suite 150, Torrance,","171,191",??,Agoura Hills,City,12
+15,Location 87 - Gateway Cities Service Sector,"7878 Telegraph Rd., Downey, 90240","10,000",??,Agoura Hills,City,12
+16,Loc 99 USG,"Union Station - Gateway, includes the MTA building, the east portal to Union Station,  and Patsouras Plaza","186,680",High,Agoura Hills,City,12
+0,Sector,Scope 1,Scope 2,Scope 3,TOTAL,Alameda,City,1
+1,Residential,"66,554","16,145",0,"82,699",Alameda,City,1
+2,Commercial / Industrial,"31,547","27,304",0,"58,851",Alameda,City,1
+3,Transportation,"206,465",0,"4,274","210,739",Alameda,City,1
+4,Waste,"1,719",0,"12,650","14,368",Alameda,City,1
+5,Water/Wastewater,0,0,"2,156","2,156",Alameda,City,1
+6,TOTAL,"306,285","43,449","19,079","368,813",Alameda,City,1
+7,Percentage of Total CO2e,83%,12%,5%,100%,Alameda,City,1
+0,Scope 1 Emissions By,,Commercial /,,,,Alameda,City,2
+1,Sector,Residential,Industrial,Transportation,Waste,TOTAL,Alameda,City,2
+2,CO2e (metric tons),"66,554","31,547","206,465","1,719","306,285",Alameda,City,2
+3,% of Total CO2e,22%,10%,67%,1%,100%,Alameda,City,2
+0,2010 Community,,Commercial /,,Water /,,Alameda,City,3
+1,Emissions by Sector,Residential,Industrial Transportation,Waste,Wastewater,TOTAL,Alameda,City,3
+2,CO2e (metric tons),"82,699","58,851 210,739","14,368","2,156","368,813",Alameda,City,3
+3,% of Total CO2e,22%,16% 57%,4%,1%,100%,Alameda,City,3
+0,,,,Distribution,,Alameda,City,4
+1,Residential Emission,,,System,,Alameda,City,4
+2,Sources 2010,Electricity,Natural Gas,Losses,TOTAL,Alameda,City,4
+3,MTCO2e,"15,349","66,554",797,"82,699",Alameda,City,4
+4,% of Total CO2e,19%,80%,1%,100%,Alameda,City,4
+0,,,,Electricity,,,Alameda,City,5
+1,Commercial / Industrial,,,Distribution,,,Alameda,City,5
+2,Emission Sources 2010,Electricity,Natural Gas,System Losses,SF6 Emissions,TOTAL,Alameda,City,5
+3,CO2e (metric tons),"25,956","31,493","1,347",54,"58,851",Alameda,City,5
+4,% of Total CO2e,44%,54%,2%,0.1%,100%,Alameda,City,5
+0,Transportation Vehicle,Commercial,Passenger,,Other Public,,,Alameda,City,6
+1,Type Emissions Sources,Vehicles: Heavy,"Vehicles: Cars,",,"Transit: BART,",Off-road,,Alameda,City,6
+2,2010,Trucks,Light and,All Buses,Ferries,Vehicles,TOTAL,Alameda,City,6
+3,CO2e (metric tons),"41,687","132,458","3,357","4,274","28,962","210,739",Alameda,City,6
+4,% of Total CO2e,20%,63%,2%,2%,14%,100%,Alameda,City,6
+0,,,Original,Updated,,,,,,Alameda,City,7
+1,,,2005,2005,2010,Original,Updated,,Percent,Alameda,City,7
+2,,,Activity,Activity,Activity,2005,2005,2010,Change,Alameda,City,7
+3,Sector,,Data,Data,Data,MTCO2e,MTCO2e,MTCO2e,MTCO2e,Alameda,City,7
+4,Residential,,,,,,,,,Alameda,City,7
+5,,,"137,906,700","137,906,700","141,336,935","13,832","21,956","15,349",,Alameda,City,7
+6,Electricity,,kWh,kWh,kWh,,,,-30%,Alameda,City,7
+7,,,"12,180,175","12,180,175","12,520,503","75,252","64,775","66,554",,Alameda,City,7
+8,Natural Gas,,Therms,Therms,Therms,,,,3%,Alameda,City,7
+9,Total,,-,-,-,"89,084","86,731","81,903",-6%,Alameda,City,7
+10,Commercial/Industrial,,,,,,,,,Alameda,City,7
+11,,,"223,590,100","223,590,100","239,017,888",,,,,Alameda,City,7
+12,,,,,,"22,426","35,598",,,Alameda,City,7
+13,Electricity,,kWh,kWh,kWh,,,"25,956",-27%,Alameda,City,7
+14,,,"4,886,714","4,886,714","5,924,692",,,,,Alameda,City,7
+15,,,,,,"30,191","25,976",,,Alameda,City,7
+16,Natural Gas,,Therms,Therms,Therms,,,"31,493",21%,Alameda,City,7
+17,Total,,-,-,-,"52,617","61,574","57,449",-7%,Alameda,City,7
+18,Transportation,,,,,,,,,Alameda,City,7
+19,,,,"27,143,247","32,040,354",,,,,Alameda,City,7
+20,Commercial Vehicles,,,VMT,VMT,,"35,888","41,687",16%,Alameda,City,7
+21,,,,,,,,,,Alameda,City,7
+22,,,not,,"347,818,456",not,,,,Alameda,City,7
+23,,,,"367,643,598",,,,,,Alameda,City,7
+24,,,available,,VMT,available,,,,Alameda,City,7
+25,Passenger Vehicles,,,VMT,,,"153,497","132,458",-14%,Alameda,City,7
+26,,,,"2,330,839","1,993,931",,,,,Alameda,City,7
+27,Buses,,,VMT,VMT,,"4,120","3,357",-19%,Alameda,City,7
+28,,,,,,,,,,Alameda,City,7
+29,,,not,"397,117,684","381,852,741",,,,,Alameda,City,7
+30,Total,,available,VMT,VMT,"161,395","193,505","177,502",-8%,Alameda,City,7
+31,Waste,,,,,,,,,Alameda,City,7
+32,,,"59,024 tons;",,,,,,,Alameda,City,7
+33,,,"7,052 tons",,,,,,,Alameda,City,7
+34,,,additional,,,,,,,Alameda,City,7
+35,Total Landfilled Waste,,ADC,"49,962 tons","37,310 tons",0,"15,281","12,650",-17%,Alameda,City,7
+36,TOTAL Comparable Emissions,,,,,"303,096","357,091","329,504",-8%,Alameda,City,7
+0,,Cumulative,GHG,Alhambra,City,1
+1,,GHG,Reduction,Alhambra,City,1
+2,Strategy,Reductions,Cost,Alhambra,City,1
+3,,"(MT CO2e),",Effectiveness,Alhambra,City,1
+4,,2012–2020,($/MT)*,Alhambra,City,1
+5,Use Biomethane in CNG Buses (well-to-wheels impacts),"528,555**",$174-379,Alhambra,City,1
+6,On-board Railcar Braking Energy Storage,"96,411",$180,Alhambra,City,1
+7,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"76,826","$4,922",Alhambra,City,1
+8,Building Indoor Lighting Upgrades: LEDs,"71,621",-$78,Alhambra,City,1
+9,Building Indoor Lighting Upgrades: Efficient Metal Halides,"46,226",-$117,Alhambra,City,1
+10,Wayside Energy Storage Substation (WESS),"17,289","$2,774",Alhambra,City,1
+11,Retrofit Lighting in Red Line Tunnel,"5,783",-$73,Alhambra,City,1
+12,Expand Use of Renewable Energy,"4,467","$2,303",Alhambra,City,1
+13,Municipal Recycled Water For Bus Washing,941,-$570,Alhambra,City,1
+14,Extension of Bus Wash On-Site Reclamation,544,"-$2,378",Alhambra,City,1
+15,Low Water Sanitary Fixtures,424,-$907,Alhambra,City,1
+16,Mobile Air Conditioning Replacement,353,"$3,103",Alhambra,City,1
+0,,Cumulative,,Reduction,Reduction in,Alhambra,City,2
+1,,GHG,,,GHG,Alhambra,City,2
+2,Package,Reductions,Net Cost,in Forecast,emissions,Alhambra,City,2
+3,,(MT CO2e),(2012-2020)*,GHG emissions,per boarding,Alhambra,City,2
+4,,2012-2020,,in 2020,from 2010 to 2020,Alhambra,City,2
+5,1. Short-Term Cost Saving Strategies,"66,616","-$8,121,116",0.6%,5.0%,Alhambra,City,2
+6,2. Short-Term and Mid-Term Strategies,"167,494","$67,443,140",4.3%,8.6%,Alhambra,City,2
+7,3. All Strategies with Tank-to-Wheels Benefits,"244,673","$446,719,774",7.4%,11.5%,Alhambra,City,2
+8,4. All Strategies with Well-to-Wheels Benefits,"696,402","$206,873,542",28.9%,32.1%,Alhambra,City,2
+0,,,CO2e reductions (MT),Alhambra,City,3
+1,Strategy,,,Alhambra,City,3
+2,,2014,"2020 Cumulative, 2012–2020",Alhambra,City,3
+3,Use Biomethane in CNG Buses (well-to-wheels impacts),"26,291","125,744 528,555",Alhambra,City,3
+4,On-board Railcar Braking Energy Storage,"6,288","18,616 96,411",Alhambra,City,3
+5,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"5,066","15,479 76,826",Alhambra,City,3
+6,Building Indoor Lighting Upgrades: LEDs,"2,890","2,890 71,621",Alhambra,City,3
+7,Building Indoor Lighting Upgrades: Efficient Metal Halides,"1,722","1,722 46,226",Alhambra,City,3
+8,Wayside Energy Storage Substation (WESS),836,"3,745 17,289",Alhambra,City,3
+9,Retrofit Lighting in Red Line Tunnel,699,"529 5,783",Alhambra,City,3
+10,Expand Use of Renewable Energy,536,"416 4,467",Alhambra,City,3
+11,Municipal Recycled Water For Bus Washing,105,105 941,Alhambra,City,3
+12,Extension of Bus Wash On-Site Reclamation,60,60 544,Alhambra,City,3
+13,Low Water Sanitary Fixtures,47,47 424,Alhambra,City,3
+14,Mobile Air Conditioning Replacement,0,101 353,Alhambra,City,3
+0,Strategy,Lifecycle Costs*,,Lifecycle Cost Unit,Investment Lifetime,,Payback Period,Alhambra,City,4
+1,On-board Railcar Braking Energy Storage,"-$78,619",,Per railcar,20 years,,7 years,Alhambra,City,4
+2,Mobile Air Conditioning Replacement,$546,,Per bus,13.5 years,,n/a,Alhambra,City,4
+3,Use Biomethane in CNG Buses: Low Cost Scenario,"$286,079",,Per bus,13.5 years,,n/a,Alhambra,City,4
+4,Gasoline-Electric Hybrid or CNG Hybrid Buses,"$355,688",,Per bus,13.5 years,,n/a,Alhambra,City,4
+5,Use Biomethane in CNG Buses: High Cost Scenario,"$572,159",,Per bus,13.5 years,,n/a,Alhambra,City,4
+6,Wayside Energy Storage Substation (WESS),"$1,528,155",,Per substation,20 years,,n/a,Alhambra,City,4
+7,Expand Use of Renewable Energy,"$8,886,753",,Per 1.3 MWh project,30 years,,n/a,Alhambra,City,4
+0,,Short-Term,Short-Term,All Strategies,All Strategies,Alhambra,City,5
+1,Strategy,Cost Saving,and Mid-Term,with Tank-to-,with Well-to-,Alhambra,City,5
+2,,Strategies,Strategies,Wheels Benefits,Wheels Benefits*,Alhambra,City,5
+3,Building Indoor Lighting Upgrades,X,X,X,X,Alhambra,City,5
+4,Municipal Recycled Water for Bus Washing,X,X,X,X,Alhambra,City,5
+5,Extension of Bus Wash On-Site Reclamation,X,X,X,X,Alhambra,City,5
+6,Low Water Sanitary Fixtures,X,X,X,X,Alhambra,City,5
+7,Retrofit Lighting in Red Line Tunnel,X,X,X,X,Alhambra,City,5
+8,On-board Railcar Braking Energy Storage,,X,X,X,Alhambra,City,5
+9,Expand Use of Renewable Energy,,X,X,X,Alhambra,City,5
+10,Wayside Energy Storage Substation (WESS),,X,X,X,Alhambra,City,5
+11,Mobile Air Conditioning Replacement,,,X,X,Alhambra,City,5
+12,Gasoline-Electric Hybrid Buses,,,X,,Alhambra,City,5
+13,Biomethane,,,,X,Alhambra,City,5
+0,Service or Asset Type,Rationale for “Criticality”,What Does This Include or Exclude?,Alhambra,City,6
+1,Bus,,,Alhambra,City,6
+2,Bus Fleet,Over 1 million weekday boardings; FY10 budget,Includes: Existing bus fleet; Expected,Alhambra,City,6
+3,,is over $300 million; 2009 LRTP* projects costs,capital costs for new buses,Alhambra,City,6
+4,,to be over $10 billion for the 2005-2040 period,Excludes: Roads; Stop locations; Fleet has,Alhambra,City,6
+5,,,not disaggregated by routes or bus-type,Alhambra,City,6
+6,,,"(e.g., length/size)",Alhambra,City,6
+7,Bus Rapid Transit Service,"Over 200,000 weekday passenger miles",Includes: Right-of-way,Alhambra,City,6
+8,(Silver and Orange Lines),(representing over 6% of all bus passenger,,Alhambra,City,6
+9,,miles),,Alhambra,City,6
+10,Rail,,,Alhambra,City,6
+11,Heavy Rail (Red and Purple,"Over 140,000 daily boardings; Most frequented","Includes: Location of track, stations, power",Alhambra,City,6
+12,Lines),subway lines; Service to much of Downtown Los,supply and distribution,Alhambra,City,6
+13,,Angeles,,Alhambra,City,6
+14,"Light Rail (Blue, Green, and",Broad geographic range across the county;,"Includes: Location of track, stations, power",Alhambra,City,6
+15,Gold Lines),"approximately 150,000 daily boardings",supply and distribution,Alhambra,City,6
+16,Rail Rehabilitation,FY10 budget is over $30 million; LRTP lists costs,Includes: Upkeep costs for maintaining rails,Alhambra,City,6
+17,,to be over $9 billion for the 2005-2040 period,,Alhambra,City,6
+18,Rail Fleet,FY10 and FY11 budgets are over $50 million,Includes: Existing rail car fleet; Expected,Alhambra,City,6
+19,,,capital costs for new rail cars,Alhambra,City,6
+0,Facilities—,Estimated Rail Daily Connections to,Joint,Criticality,Alhambra,City,7
+1,Passenger Stations,Weekday Ridership* Other Lines**,Development,Index,Alhambra,City,7
+2,7th /Metro Center,,,,Alhambra,City,7
+3,"(Red, Purple, Blue, Silver)","39,000 50",Completed,7,Alhambra,City,7
+4,Union Station,,,,Alhambra,City,7
+5,"(Red, Purple, Gold)","30,000 36+Parking",Completed,7,Alhambra,City,7
+6,Imperial/Wilmington,,,,Alhambra,City,7
+7,"(Blue, Green)","18,000 10+Parking",,6,Alhambra,City,7
+8,North Hollywood,,,,Alhambra,City,7
+9,"(Red, Orange)","16,000 12+Parking",Under negotiation,7,Alhambra,City,7
+10,Wilshire/Vermont,,,,Alhambra,City,7
+11,"(Red, Purple)","13,000 5",Completed,6,Alhambra,City,7
+12,Pershing Square,,,,Alhambra,City,7
+13,"(Red, Purple, Silver)","11,000 50",,6,Alhambra,City,7
+14,Westlake,,,,Alhambra,City,7
+15,"(Red, Purple)","9,000 15",Under construction,7,Alhambra,City,7
+16,Hollywood/Highland,,,,Alhambra,City,7
+17,(Red),"8,000 2+Parking",Completed,6,Alhambra,City,7
+18,Universal City,,,,Alhambra,City,7
+19,(Red),"8,000 2 + Parking",Under negotiation,6,Alhambra,City,7
+20,Civic Center,,,,Alhambra,City,7
+21,"(Red, Purple, Silver)","5,000 50",,6,Alhambra,City,7
+22,Hollywood/Vine,,,,Alhambra,City,7
+23,(Red),"5,000 2+Parking",Completed,6,Alhambra,City,7
+24,Facilities—,,,,Alhambra,City,7
+25,Non-Passenger Properties,Rationale,,,Alhambra,City,7
+26,Division 13—,Main bus maintenance facility; Co-located/adjacent to Location 30 (Metro Support,,,Alhambra,City,7
+27,Bus Maintenance Facility,"Services Center), Location 99, Location 33 (OCI), Location 35 (Facilities Maintenance), Location 88 (Westside-Central Service Sector",,,Alhambra,City,7
+28,Location 61—,,,,Alhambra,City,7
+29,Red Line Maintenance of Way,Important rail maintenance location,,,Alhambra,City,7
+30,Location 66—,,,,Alhambra,City,7
+31,Blue Line Maintenance of Way,Important rail maintenance location,,,Alhambra,City,7
+32,Location 99—,,,,Alhambra,City,7
+33,Gateway Building,"Metro Headquarters, Adjacent to Union Stations",,,Alhambra,City,7
+0,Ridership,Connectivity,Score,Alhambra,City,8
+1,"Greater than or equal to 5,000 daily riders",Connected to 10 or more other transit lines,3,Alhambra,City,8
+2,"1,000-4,999 daily riders","Connected to 5-9 lines, or Has dedicated parking spaces/park-and-ride lot",2,Alhambra,City,8
+3,"Less than 1,000 daily riders",Less than 5 connections and no parking,1,Alhambra,City,8
+0,,Exposed to,,,,Alhambra,City,9
+1,Critical Asset,Extreme,Sensitivities Adaptive Capacity,,Vulnerable?,Alhambra,City,9
+2,,Heat?,,,,Alhambra,City,9
+3,,,Equipment failure,,,Alhambra,City,9
+4,Bus Fleet,Yes,and higher frequency Moderate: Bus fleet is,,,Alhambra,City,9
+5,,,of breakdown  relatively large,,Yes,Alhambra,City,9
+6,,,,,Possible:,Alhambra,City,9
+7,,,,,(depending on the,Alhambra,City,9
+8,Bus Rapid Transit right-of-way,,Pavement Moderate: Pavement likely,,,Alhambra,City,9
+9,(Silver and Orange Lines),Yes,degradation can be accelerated to be replaced relatively frequently,,expected frequency of pavement,Alhambra,City,9
+10,,,,,replacement),Alhambra,City,9
+11,,,Some station Moderate: Most systems,,Possible:,Alhambra,City,9
+12,Heavy Rail,Minimal,"systems (electrical, can be inspected (in",,(depending on,Alhambra,City,9
+13,(Red and Purple),(underground),air conditioning) may anticipation of heat events),,frequencies of,Alhambra,City,9
+14,,,not function optimally  or repaired/replaced,,occurrence and stations affected),Alhambra,City,9
+15,,,Rail buckling and,,,Alhambra,City,9
+16,,,higher risk of Moderate: Operations can,,,Alhambra,City,9
+17,"Light Rail  (Blue, Green, and Gold)",Yes,"equipment (e.g., electrical systems, be modified (e.g., speed reductions), but damage to",,Yes,Alhambra,City,9
+18,,,air conditioning) rails can still occur,,,Alhambra,City,9
+19,,,failure,,,Alhambra,City,9
+20,,,Construction Moderate: Construction,,,Alhambra,City,9
+21,,,speed16 and worker schedules can be,,,Alhambra,City,9
+22,Measure R construction work,Yes,health can be modified; exposure could,,Yes,Alhambra,City,9
+23,,,compromised by be lowered depending on,,,Alhambra,City,9
+24,,,extreme heat mode choices and locations,,,Alhambra,City,9
+25,Measure R planned assets,Possible,"Above sensitivities and adaptive capacity apply, depending on mode choices and locations",,Possible,Alhambra,City,9
+0,,,,,,,,Connectivity,,,,Alhambra,City,10
+1,,,,,Service Volume,,,,,,,Alhambra,City,10
+2,,,,,,,,Transit,,,,Alhambra,City,10
+3,,,,Sum of,,,,,,,,Alhambra,City,10
+4,Asset Type,Service Line,Asset Name,Boardings,,Real Estate,Parking (#,,,,Criticality,Alhambra,City,10
+5,,,,and Alightings,Qualitative Rating,,"Spaces, not including",Connectivity Rating,Qualitative Rating,,,Alhambra,City,10
+6,,,,(Daily,,,street parking),,,,,Alhambra,City,10
+7,,,,Weekday),,,,,,,,Alhambra,City,10
+8,,,,,,,,,,,Yes -,Alhambra,City,10
+9,,,,,,,,,,,connected,Alhambra,City,10
+10,Unknown,Division 13,,,,,,,,,to,Alhambra,City,10
+11,,,,,,,,,,,Gateway,Alhambra,City,10
+12,,,,,,,,,,,Building,Alhambra,City,10
+13,Unknown,Division 4 Non Revenue Vehicle,,,,,,,,,No,Alhambra,City,10
+14,Unknown,Division 16,,,,,,,,,??,Alhambra,City,10
+0,,Address,Size (sq. ft.),Priority,Alhambra,City,11
+1,Rail Related,,,,Alhambra,City,11
+2,Location 61 - Red Line Maintenance Of Way,"284 S. Santa Fe Avenue, L.A. (Maintenance of Way Shops)",,High,Alhambra,City,11
+3,Location 66 - Blue Line Maintenance Of Way,,"81,270",High,Alhambra,City,11
+0,Loc 24,"14557 Sherman Way, Van Nuys (old Div. 8)",,??,Alhambra,City,12
+1,Loc 32,"425 S. Main St., L.A. (SCRTD Headquarters Bldg., 4th & Main)",520,??,Alhambra,City,12
+2,Location 34 - Vernon Yards,"4462 Pacific Blvd., Vernon (Vernon Yards, LARy)","22,652",??,Alhambra,City,12
+3,Loc 51,"1900 S. Figueroa St., L.A. (Transit Police Headquarters)",,??,Alhambra,City,12
+4,Loc 55,"316 W. 3rd St., L.A. (Miracle on Broadway Transit Police substation)",,??,Alhambra,City,12
+5,Loc 56,(Open),,??,Alhambra,City,12
+6,Loc 57,(Open),,??,Alhambra,City,12
+7,Loc 58,(Open),,??,Alhambra,City,12
+8,Loc 59,(Open),,??,Alhambra,City,12
+9,Location 80 - Materials Warehouse,"628 Aliso St., LA, 90012","11,678",??,Alhambra,City,12
+10,Location 81 - Surplus Office Space (6th Flr.),"818 W. 7th St., LA, 90017","9,747",??,Alhambra,City,12
+11,"Location 82 - Office Space (6 flrs. 23,24,27,28,29 & 37)","707 Wilshire Blvd., LA, 90017","43,822",??,Alhambra,City,12
+12,Location 83 - Office/Warehouse Bldg.,"3730 Monterey Rd., El Monte, 91731","49,005",??,Alhambra,City,12
+13,Location 84 - San Fernando Valley Service Sector,"9760 Topanga Canyon Bl., Chatsworth, 91311","365,469",??,Alhambra,City,12
+14,Location 86 - South Bay Service Sector,"680 Knox St., Suite 150, Torrance,","171,191",??,Alhambra,City,12
+15,Location 87 - Gateway Cities Service Sector,"7878 Telegraph Rd., Downey, 90240","10,000",??,Alhambra,City,12
+16,Loc 99 USG,"Union Station - Gateway, includes the MTA building, the east portal to Union Station,  and Patsouras Plaza","186,680",High,Alhambra,City,12
+0,"sector, default trip generation rates as a function",regulation under AB 32 all require greenhouse,Aliso Viejo,City,1
+1,of land use were used to quantify trip-related,gas inventories to be tracked and reported on a,Aliso Viejo,City,1
+2,greenhouse gas emissions.  The City has no direct,calendar year basis. Aliso Viejo community and,Aliso Viejo,City,1
+0,automobiles.  The resulting annual inventory in,with such control systems.  Total annual disposal,Aliso Viejo,City,2
+1,"2008 was 188,835 metric tons of CO2(e)","of 17,512 tons of non-recycled trash (about 1.3",Aliso Viejo,City,2
+2,emissions.,pounds per resident per day and around 2.3,Aliso Viejo,City,2
+3,,pounds per employee per workday) generated,Aliso Viejo,City,2
+4,Solid Waste,"10,160 metric tons of CO2(e) emissions in 2008.",Aliso Viejo,City,2
+5,The solid waste sector includes emissions,,Aliso Viejo,City,2
+6,"associated with collection, processing and",Water Consumption,Aliso Viejo,City,2
+7,disposal of solid waste. Fugitive CH4 emissions,The water sector includes emissions from energy,Aliso Viejo,City,2
+8,"are released from solid waste facilities; that is,","associated with water treatment, distribution,",Aliso Viejo,City,2
+9,from landfills that accept organic waste.,and conveyance of water to Aliso Viejo as well as,Aliso Viejo,City,2
+10,Emissions generated from solid waste disposal,wastewater treatment and discharge. The,Aliso Viejo,City,2
+11,"are primarily CO2, which occur under aerobic",California Energy Commission (CEC) has,Aliso Viejo,City,2
+12,"conditions, and CH4, which are generated under",published water-energy intensity reports that,Aliso Viejo,City,2
+13,anaerobic conditions. Biogenic CO2 emissions are,provide estimates of energy required for,Aliso Viejo,City,2
+14,"considered part of the short-term carbon cycle,","conveyance, treatment, and distribution of water",Aliso Viejo,City,2
+15,and are typically not included in greenhouse gas,and for treatment and discharge of wastewater.,Aliso Viejo,City,2
+16,emissions inventories.,Many communities of Southern California must,Aliso Viejo,City,2
+17,,import their water supplies hundreds of miles,Aliso Viejo,City,2
+18,The City waste haul contractor (CR&R) provided,from remote locations via the Colorado River and,Aliso Viejo,City,2
+0,"sector, default trip generation rates as a function",regulation under AB 32 all require greenhouse,Aliso Viejo,City,3
+1,of land use were used to quantify trip-related,gas inventories to be tracked and reported on a,Aliso Viejo,City,3
+2,greenhouse gas emissions.  The City has no direct,calendar year basis. Aliso Viejo community and,Aliso Viejo,City,3
+0,automobiles.  The resulting annual inventory in,with such control systems.  Total annual disposal,Aliso Viejo,City,4
+1,"2008 was 188,835 metric tons of CO2(e)","of 17,512 tons of non-recycled trash (about 1.3",Aliso Viejo,City,4
+2,emissions.,pounds per resident per day and around 2.3,Aliso Viejo,City,4
+3,,pounds per employee per workday) generated,Aliso Viejo,City,4
+4,Solid Waste,"10,160 metric tons of CO2(e) emissions in 2008.",Aliso Viejo,City,4
+5,The solid waste sector includes emissions,,Aliso Viejo,City,4
+6,"associated with collection, processing and",Water Consumption,Aliso Viejo,City,4
+7,disposal of solid waste. Fugitive CH4 emissions,The water sector includes emissions from energy,Aliso Viejo,City,4
+8,"are released from solid waste facilities; that is,","associated with water treatment, distribution,",Aliso Viejo,City,4
+9,from landfills that accept organic waste.,and conveyance of water to Aliso Viejo as well as,Aliso Viejo,City,4
+10,Emissions generated from solid waste disposal,wastewater treatment and discharge. The,Aliso Viejo,City,4
+11,"are primarily CO2, which occur under aerobic",California Energy Commission (CEC) has,Aliso Viejo,City,4
+12,"conditions, and CH4, which are generated under",published water-energy intensity reports that,Aliso Viejo,City,4
+13,anaerobic conditions. Biogenic CO2 emissions are,provide estimates of energy required for,Aliso Viejo,City,4
+14,"considered part of the short-term carbon cycle,","conveyance, treatment, and distribution of water",Aliso Viejo,City,4
+15,and are typically not included in greenhouse gas,and for treatment and discharge of wastewater.,Aliso Viejo,City,4
+16,emissions inventories.,Many communities of Southern California must,Aliso Viejo,City,4
+17,,import their water supplies hundreds of miles,Aliso Viejo,City,4
+18,The City waste haul contractor (CR&R) provided,from remote locations via the Colorado River and,Aliso Viejo,City,4
+0,"sector, default trip generation rates as a function",regulation under AB 32 all require greenhouse,Aliso Viejo,City,5
+1,of land use were used to quantify trip-related,gas inventories to be tracked and reported on a,Aliso Viejo,City,5
+2,greenhouse gas emissions.  The City has no direct,calendar year basis. Aliso Viejo community and,Aliso Viejo,City,5
+0,automobiles.  The resulting annual inventory in,with such control systems.  Total annual disposal,Aliso Viejo,City,6
+1,"2008 was 188,835 metric tons of CO2(e)","of 17,512 tons of non-recycled trash (about 1.3",Aliso Viejo,City,6
+2,emissions.,pounds per resident per day and around 2.3,Aliso Viejo,City,6
+3,,pounds per employee per workday) generated,Aliso Viejo,City,6
+4,Solid Waste,"10,160 metric tons of CO2(e) emissions in 2008.",Aliso Viejo,City,6
+5,The solid waste sector includes emissions,,Aliso Viejo,City,6
+6,"associated with collection, processing and",Water Consumption,Aliso Viejo,City,6
+7,disposal of solid waste. Fugitive CH4 emissions,The water sector includes emissions from energy,Aliso Viejo,City,6
+8,"are released from solid waste facilities; that is,","associated with water treatment, distribution,",Aliso Viejo,City,6
+9,from landfills that accept organic waste.,and conveyance of water to Aliso Viejo as well as,Aliso Viejo,City,6
+10,Emissions generated from solid waste disposal,wastewater treatment and discharge. The,Aliso Viejo,City,6
+11,"are primarily CO2, which occur under aerobic",California Energy Commission (CEC) has,Aliso Viejo,City,6
+12,"conditions, and CH4, which are generated under",published water-energy intensity reports that,Aliso Viejo,City,6
+13,anaerobic conditions. Biogenic CO2 emissions are,provide estimates of energy required for,Aliso Viejo,City,6
+14,"considered part of the short-term carbon cycle,","conveyance, treatment, and distribution of water",Aliso Viejo,City,6
+15,and are typically not included in greenhouse gas,and for treatment and discharge of wastewater.,Aliso Viejo,City,6
+16,emissions inventories.,Many communities of Southern California must,Aliso Viejo,City,6
+17,,import their water supplies hundreds of miles,Aliso Viejo,City,6
+18,The City waste haul contractor (CR&R) provided,from remote locations via the Colorado River and,Aliso Viejo,City,6
+0,,2005,2010,2020,2035,,American Canyon,City,1
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,1
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,1
+3,Commercial/Industrial,,,,,,American Canyon,City,1
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,1
+5,Commercial/Industrial,,,,,,American Canyon,City,1
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,1
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,1
+8,Residential Natural,,,,,,American Canyon,City,1
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,1
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,1
+11,"Transportation, on-",,,,,,American Canyon,City,1
+12,road,"41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,1
+13,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,1
+14,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,1
+15,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,1
+0,,2005,2010,% Increase,2005,2010,% Increase,American Canyon,City,2
+1,,Electricity,Electricity,in,Natural Gas,Natural Gas,in,American Canyon,City,2
+2,Emission Sector,(kWh),(kWh),Electricity,(therms),(therms),Electricity,American Canyon,City,2
+3,Residential,"33,089,639","38,523,051",16%,"2,334,933","2,769,981",19%,American Canyon,City,2
+4,Non-Residential,"40,273,744","64,084,298",59%,"3,827,445","4,609,425",20%,American Canyon,City,2
+5,Total,"73,363,383","102,607,349",40%,"6,162,378","7,379,406",20%,American Canyon,City,2
+0,Wastewater,"7,263",6.7%,"8,656",7.2%,American Canyon,City,3
+1,Total,"107,608",100%,"120,201",100%,American Canyon,City,3
+0,90000,2005,American Canyon,City,4
+1,80000,2010,American Canyon,City,4
+2,70000,2005,American Canyon,City,4
+3,60000,,American Canyon,City,4
+4,50000,,American Canyon,City,4
+5,40000,,American Canyon,City,4
+6,30000,,American Canyon,City,4
+7,20000,,American Canyon,City,4
+8,10000,,American Canyon,City,4
+0,,2005,2010,,2005,2010,,American Canyon,City,5
+1,,Electricity,Electricity,%,Natural Gas,Natural Gas,%,American Canyon,City,5
+2,Emission Sector,(kWh),(kWh),Increase,(therms),(therms),Change,American Canyon,City,5
+3,Buildings and Facilities,"297,768","597,963",101%,643,"9,316","1,349%",American Canyon,City,5
+4,Streetlights,"224,030","448,358",100%,0,0,N/A,American Canyon,City,5
+5,Water Supply,"3,266,943","6,461,419",98%,0,0,N/A,American Canyon,City,5
+6,TOTAL,"3,788,741","7,507,740",98%,643,"9,316","1,349%",American Canyon,City,5
+0,,,,2010 kWh,American Canyon,City,6
+1,Premise Type,Business Activity4,Service Address,(electricity),American Canyon,City,6
+2,Commercial or industrial,Wastewater Plant,151 Mezzetta Ct,"2,889,000",American Canyon,City,6
+3,Commercial or industrial,Water Treatment Plant,250 Kirkland Ranch Rd,"413,760",American Canyon,City,6
+4,Commercial or industrial,Wastewater Treatment Plant,W/O Rancho del Mar-sub,"196,320",American Canyon,City,6
+5,Commercial or industrial,Police/Fire Department,911 Donaldson Way East,"143,520",American Canyon,City,6
+6,Commercial or industrial,ND,396 Wetlands Edge Rd,"80,350",American Canyon,City,6
+7,Commercial or industrial,City Hall,4381 Broadway Ste 107,"74,636",American Canyon,City,6
+8,Streetlight site,Civic Center Complex,300 Crawford Way,"58,550",American Canyon,City,6
+9,Commercial or Industrial,City Hall,4381 Broadway St,"55,826",American Canyon,City,6
+10,Streetlight site,ND,3423 Broadway St Ste D6,"51,631",American Canyon,City,6
+11,Streetlight site,Civic Center Complex,300 Crawford way,"47,152",American Canyon,City,6
+12,TOTAL,,,"4,010,745",American Canyon,City,6
+0,Solid Waste,ND,0.0%,90,4.8%,American Canyon,City,7
+1,Water (electricity used for pumping and,,,,,American Canyon,City,7
+2,conveyance),731,85.9%,"1,304",69.8%,American Canyon,City,7
+3,TOTAL,850,100%,"1,868",100%,American Canyon,City,7
+0,,,,,,2010-2020,2010-2035,American Canyon,City,8
+1,,,,,,Growth,Growth,American Canyon,City,8
+2,Sector,2005,2010,2020,2035,Estimate,Estimate,American Canyon,City,8
+3,Population (residents),"14,197","19,454","26,589","30,334",37%,56%,American Canyon,City,8
+4,Community-wide Employment (jobs),"2,230","2,920","3,333","3,953",14%,35%,American Canyon,City,8
+5,Municipal Employment (jobs),70,80,96,110,20%,37%,American Canyon,City,8
+0,,2005,2010,2020,2035,,American Canyon,City,9
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,9
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,9
+3,Commercial/Industrial,,,,,,American Canyon,City,9
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,9
+5,Commercial/Industrial,,,,,,American Canyon,City,9
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,9
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,9
+8,Residential Natural,,,,,,American Canyon,City,9
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,9
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,9
+11,"Transportation, on- road","41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,9
+12,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,9
+13,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,9
+14,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,9
+0,,,Costs,,American Canyon,City,10
+1,,Low,Medium,High,American Canyon,City,10
+2,High,1,1,2,American Canyon,City,10
+3,Medium,1,2,3,American Canyon,City,10
+4,Low,2,3,3,American Canyon,City,10
+0,C-1,Targeted Energy Efficiency Outreach to Non-,Incentive or,1,"3,005 MT CO2e",American Canyon,City,11
+1,,Residential Energy Customers. Use PG&E,"rebate,",,,American Canyon,City,11
+2,,data to target specific Non-Residential customer,outreach and,,,American Canyon,City,11
+3,,sectors for participation in PG&E programs or,education,,,American Canyon,City,11
+4,,"other local, regional, or state programs.",,,,American Canyon,City,11
+5,C-2,Develop a Voluntary Non-Residential Energy,Outreach and,1,118 MT CO2e,American Canyon,City,11
+6,,Efficiency Checklist. Build upon the energy,education,,,American Canyon,City,11
+7,,disclosure requirements of AB 1103 to develop a,,,,American Canyon,City,11
+8,,voluntary Non-Residential energy efficiency,,,,American Canyon,City,11
+9,,checklist that will be available at the time of,,,,American Canyon,City,11
+10,,building sale.,,,,American Canyon,City,11
+11,C-3,Participate in a Non-residential Property,Outreach and,1,"1,841 MT CO2e",American Canyon,City,11
+12,,Assessed Clean Energy (PACE) Program.,education/,,,American Canyon,City,11
+13,,Provide additional financing opportunities for,incentive,,,American Canyon,City,11
+14,,energy efficiency improvements for commercial,,,,American Canyon,City,11
+15,,structures by participating in a Property,,,,American Canyon,City,11
+16,,Assessed Clean Energy (PACE) program.,,,,American Canyon,City,11
+0,C-4,Targeted Energy Efficiency Outreach to,Incentive or,1,"1,084 MT CO2e",American Canyon,City,12
+1,,Residential Energy Customers. Increase,rebate/,,,American Canyon,City,12
+2,,participation in the residential customer sector,outreach and,,,American Canyon,City,12
+3,,"for participation in PG&E programs, including",education,,,American Canyon,City,12
+4,,"Energy Upgrade California, and programs that",,,,American Canyon,City,12
+5,,provide rebates for energy efficient appliances,,,,American Canyon,City,12
+6,,and retrofits. Increase participation in,,,,American Canyon,City,12
+7,,weatherization programs.,,,,American Canyon,City,12
+8,C-5,Voluntary Energy Efficiency Checklist for,Outreach and,1,356 MT CO2e,American Canyon,City,12
+9,,Residential Development. Develop a voluntary,education,,,American Canyon,City,12
+10,,energy efficiency checklist that will be available,,,,American Canyon,City,12
+11,,at the time of residential home sale.,,,,American Canyon,City,12
+0,C-6,Savings By Design for New Non-Residential,Mandatory,1,Supporting Measure,American Canyon,City,13
+1,,Construction. Require participation in PG&E’s,requirement,,,American Canyon,City,13
+2,,Savings by Design Program (or future iterations,,,,American Canyon,City,13
+3,,of such a program) for all new Non-Residential,,,,American Canyon,City,13
+4,,new construction projects.,,,,American Canyon,City,13
+5,C-7,Require Energy Efficiency Beyond State,Incentive,1,399 MT CO2e,American Canyon,City,13
+6,,Code for New Non-Residential Construction.,through 2016;,,,American Canyon,City,13
+7,,"Through 2013, provide a streamlined permit",Mandatory,,,American Canyon,City,13
+8,,process for new Non-Residential construction,starting in,,,American Canyon,City,13
+9,,projects that incorporate energy efficiency,2017,,,American Canyon,City,13
+10,,"improvements over Title 24, include all items on",,,,American Canyon,City,13
+11,,"a voluntary energy efficiency checklist, or",,,,American Canyon,City,13
+12,,include renewable energy improvements.,,,,American Canyon,City,13
+13,,"Starting in 2014 or 2017, require that all new",,,,American Canyon,City,13
+14,,construction achieve Tier 1 of Title 24 standards,,,,American Canyon,City,13
+15,,(15 percent more stringent than the mandatory,,,,American Canyon,City,13
+16,,standards.),,,,American Canyon,City,13
+0,,,Costs,,American Canyon,City,14
+1,,Low,Medium,High,American Canyon,City,14
+2,High,1,1,2,American Canyon,City,14
+3,Medium,1,2,3,American Canyon,City,14
+4,Low,2,3,3,American Canyon,City,14
+0,M-1,Increase Participation in PG&E Rebate and,Incentive or,1,16 MT CO2e,American Canyon,City,15
+1,,Incentive Programs. Increase participation in,"rebate, outreach",,,American Canyon,City,15
+2,,PG&E programs applicable to municipal,and education,,,American Canyon,City,15
+3,,"operations, such as: PG&E SmartRate Program,",,,,American Canyon,City,15
+4,,"PG&E SmartAC, PG&E Commercial HVAC",,,,American Canyon,City,15
+5,,"Quality Maintenance Program, and PG&E Zero",,,,American Canyon,City,15
+6,,Net Energy Pilot Program,,,,American Canyon,City,15
+7,M-2,Audits and Improvements in Municipal,Incentive or,1,152 MT CO2e,American Canyon,City,15
+8,,Facilities. Partner with PG&E to conduct energy,"rebate, outreach",,,American Canyon,City,15
+9,,efficiency assessments and audit the largest,and education,,,American Canyon,City,15
+10,,municipal buildings and operations for energy,,,,American Canyon,City,15
+11,,saving opportunities. Implement,,,,American Canyon,City,15
+12,,recommendations from energy efficiency,,,,American Canyon,City,15
+13,,assessments and audits. (See GHG Inventory,,,,American Canyon,City,15
+14,,report for a list of the City's top 10 energy,,,,American Canyon,City,15
+15,,consuming buildings/facilities.),,,,American Canyon,City,15
+16,M-3,Benchmark Municipal Facilities. Conduct,Monitoring and,1,Supporting Measure,American Canyon,City,15
+17,,"benchmarking to analyze, track, and rate the",tracking,,,American Canyon,City,15
+18,,performance of high energy-using municipal,,,,American Canyon,City,15
+19,,facilities using a tool such as the ENERGY,,,,American Canyon,City,15
+20,,STAR Portfolio Manager.,,,,American Canyon,City,15
+21,M-4,Street Light Retrofits. Complete retrofits of,Incentive or,2,Medium,American Canyon,City,15
+22,,street lighting to light-emitting diode (LED) units.,rebate,,,American Canyon,City,15
+0,M-6,Communication with PG&E and NCEW. City,Education and,1,Supporting Measure,American Canyon,City,16
+1,,staff will maintain open lines of communication,Outreach,,,American Canyon,City,16
+2,,with PG&E and Napa County Energy Watch to,,,,American Canyon,City,16
+3,,ensure staff is aware of current applicable,,,,American Canyon,City,16
+4,,programs.,,,,American Canyon,City,16
+5,M-7,Staff Training. Continue staff training and,Education and,1,Supporting Measure,American Canyon,City,16
+6,,regularly disseminate information relating to,Outreach,,,American Canyon,City,16
+7,,energy awareness.,,,,American Canyon,City,16
+0,,2005,2010,2020,2035,,American Canyon,City,17
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,17
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,17
+3,Commercial/Industrial,,,,,,American Canyon,City,17
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,17
+5,Commercial/Industrial,,,,,,American Canyon,City,17
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,17
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,17
+8,Residential Natural,,,,,,American Canyon,City,17
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,17
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,17
+11,"Transportation, on-",,,,,,American Canyon,City,17
+12,road,"41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,17
+13,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,17
+14,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,17
+15,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,17
+0,,2005,2010,% Increase,2005,2010,% Increase,American Canyon,City,18
+1,,Electricity,Electricity,in,Natural Gas,Natural Gas,in,American Canyon,City,18
+2,Emission Sector,(kWh),(kWh),Electricity,(therms),(therms),Electricity,American Canyon,City,18
+3,Residential,"33,089,639","38,523,051",16%,"2,334,933","2,769,981",19%,American Canyon,City,18
+4,Non-Residential,"40,273,744","64,084,298",59%,"3,827,445","4,609,425",20%,American Canyon,City,18
+5,Total,"73,363,383","102,607,349",40%,"6,162,378","7,379,406",20%,American Canyon,City,18
+0,Wastewater,"7,263",6.7%,"8,656",7.2%,American Canyon,City,19
+1,Total,"107,608",100%,"120,201",100%,American Canyon,City,19
+0,90000,2005,American Canyon,City,20
+1,80000,2010,American Canyon,City,20
+2,70000,2005,American Canyon,City,20
+3,60000,,American Canyon,City,20
+4,50000,,American Canyon,City,20
+5,40000,,American Canyon,City,20
+6,30000,,American Canyon,City,20
+7,20000,,American Canyon,City,20
+8,10000,,American Canyon,City,20
+0,,2005,2010,,2005,2010,,American Canyon,City,21
+1,,Electricity,Electricity,%,Natural Gas,Natural Gas,%,American Canyon,City,21
+2,Emission Sector,(kWh),(kWh),Increase,(therms),(therms),Change,American Canyon,City,21
+3,Buildings and Facilities,"297,768","597,963",101%,643,"9,316","1,349%",American Canyon,City,21
+4,Streetlights,"224,030","448,358",100%,0,0,N/A,American Canyon,City,21
+5,Water Supply,"3,266,943","6,461,419",98%,0,0,N/A,American Canyon,City,21
+6,TOTAL,"3,788,741","7,507,740",98%,643,"9,316","1,349%",American Canyon,City,21
+0,,,,2010 kWh,American Canyon,City,22
+1,Premise Type,Business Activity4,Service Address,(electricity),American Canyon,City,22
+2,Commercial or industrial,Wastewater Plant,151 Mezzetta Ct,"2,889,000",American Canyon,City,22
+3,Commercial or industrial,Water Treatment Plant,250 Kirkland Ranch Rd,"413,760",American Canyon,City,22
+4,Commercial or industrial,Wastewater Treatment Plant,W/O Rancho del Mar-sub,"196,320",American Canyon,City,22
+5,Commercial or industrial,Police/Fire Department,911 Donaldson Way East,"143,520",American Canyon,City,22
+6,Commercial or industrial,ND,396 Wetlands Edge Rd,"80,350",American Canyon,City,22
+7,Commercial or industrial,City Hall,4381 Broadway Ste 107,"74,636",American Canyon,City,22
+8,Streetlight site,Civic Center Complex,300 Crawford Way,"58,550",American Canyon,City,22
+9,Commercial or Industrial,City Hall,4381 Broadway St,"55,826",American Canyon,City,22
+10,Streetlight site,ND,3423 Broadway St Ste D6,"51,631",American Canyon,City,22
+11,Streetlight site,Civic Center Complex,300 Crawford way,"47,152",American Canyon,City,22
+12,TOTAL,,,"4,010,745",American Canyon,City,22
+0,Solid Waste,ND,0.0%,90,4.8%,American Canyon,City,23
+1,Water (electricity used for pumping and,,,,,American Canyon,City,23
+2,conveyance),731,85.9%,"1,304",69.8%,American Canyon,City,23
+3,TOTAL,850,100%,"1,868",100%,American Canyon,City,23
+0,,,,,,2010-2020,2010-2035,American Canyon,City,24
+1,,,,,,Growth,Growth,American Canyon,City,24
+2,Sector,2005,2010,2020,2035,Estimate,Estimate,American Canyon,City,24
+3,Population (residents),"14,197","19,454","26,589","30,334",37%,56%,American Canyon,City,24
+4,Community-wide Employment (jobs),"2,230","2,920","3,333","3,953",14%,35%,American Canyon,City,24
+5,Municipal Employment (jobs),70,80,96,110,20%,37%,American Canyon,City,24
+0,,2005,2010,2020,2035,,American Canyon,City,25
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,25
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,25
+3,Commercial/Industrial,,,,,,American Canyon,City,25
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,25
+5,Commercial/Industrial,,,,,,American Canyon,City,25
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,25
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,25
+8,Residential Natural,,,,,,American Canyon,City,25
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,25
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,25
+11,"Transportation, on- road","41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,25
+12,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,25
+13,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,25
+14,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,25
+0,,,Costs,,American Canyon,City,26
+1,,Low,Medium,High,American Canyon,City,26
+2,High,1,1,2,American Canyon,City,26
+3,Medium,1,2,3,American Canyon,City,26
+4,Low,2,3,3,American Canyon,City,26
+0,C-1,Targeted Energy Efficiency Outreach to Non-,Incentive or,1,"3,005 MT CO2e",American Canyon,City,27
+1,,Residential Energy Customers. Use PG&E,"rebate,",,,American Canyon,City,27
+2,,data to target specific Non-Residential customer,outreach and,,,American Canyon,City,27
+3,,sectors for participation in PG&E programs or,education,,,American Canyon,City,27
+4,,"other local, regional, or state programs.",,,,American Canyon,City,27
+5,C-2,Develop a Voluntary Non-Residential Energy,Outreach and,1,118 MT CO2e,American Canyon,City,27
+6,,Efficiency Checklist. Build upon the energy,education,,,American Canyon,City,27
+7,,disclosure requirements of AB 1103 to develop a,,,,American Canyon,City,27
+8,,voluntary Non-Residential energy efficiency,,,,American Canyon,City,27
+9,,checklist that will be available at the time of,,,,American Canyon,City,27
+10,,building sale.,,,,American Canyon,City,27
+11,C-3,Participate in a Non-residential Property,Outreach and,1,"1,841 MT CO2e",American Canyon,City,27
+12,,Assessed Clean Energy (PACE) Program.,education/,,,American Canyon,City,27
+13,,Provide additional financing opportunities for,incentive,,,American Canyon,City,27
+14,,energy efficiency improvements for commercial,,,,American Canyon,City,27
+15,,structures by participating in a Property,,,,American Canyon,City,27
+16,,Assessed Clean Energy (PACE) program.,,,,American Canyon,City,27
+0,C-4,Targeted Energy Efficiency Outreach to,Incentive or,1,"1,084 MT CO2e",American Canyon,City,28
+1,,Residential Energy Customers. Increase,rebate/,,,American Canyon,City,28
+2,,participation in the residential customer sector,outreach and,,,American Canyon,City,28
+3,,"for participation in PG&E programs, including",education,,,American Canyon,City,28
+4,,"Energy Upgrade California, and programs that",,,,American Canyon,City,28
+5,,provide rebates for energy efficient appliances,,,,American Canyon,City,28
+6,,and retrofits. Increase participation in,,,,American Canyon,City,28
+7,,weatherization programs.,,,,American Canyon,City,28
+8,C-5,Voluntary Energy Efficiency Checklist for,Outreach and,1,356 MT CO2e,American Canyon,City,28
+9,,Residential Development. Develop a voluntary,education,,,American Canyon,City,28
+10,,energy efficiency checklist that will be available,,,,American Canyon,City,28
+11,,at the time of residential home sale.,,,,American Canyon,City,28
+0,C-6,Savings By Design for New Non-Residential,Mandatory,1,Supporting Measure,American Canyon,City,29
+1,,Construction. Require participation in PG&E’s,requirement,,,American Canyon,City,29
+2,,Savings by Design Program (or future iterations,,,,American Canyon,City,29
+3,,of such a program) for all new Non-Residential,,,,American Canyon,City,29
+4,,new construction projects.,,,,American Canyon,City,29
+5,C-7,Require Energy Efficiency Beyond State,Incentive,1,399 MT CO2e,American Canyon,City,29
+6,,Code for New Non-Residential Construction.,through 2016;,,,American Canyon,City,29
+7,,"Through 2013, provide a streamlined permit",Mandatory,,,American Canyon,City,29
+8,,process for new Non-Residential construction,starting in,,,American Canyon,City,29
+9,,projects that incorporate energy efficiency,2017,,,American Canyon,City,29
+10,,"improvements over Title 24, include all items on",,,,American Canyon,City,29
+11,,"a voluntary energy efficiency checklist, or",,,,American Canyon,City,29
+12,,include renewable energy improvements.,,,,American Canyon,City,29
+13,,"Starting in 2014 or 2017, require that all new",,,,American Canyon,City,29
+14,,construction achieve Tier 1 of Title 24 standards,,,,American Canyon,City,29
+15,,(15 percent more stringent than the mandatory,,,,American Canyon,City,29
+16,,standards.),,,,American Canyon,City,29
+0,,,Costs,,American Canyon,City,30
+1,,Low,Medium,High,American Canyon,City,30
+2,High,1,1,2,American Canyon,City,30
+3,Medium,1,2,3,American Canyon,City,30
+4,Low,2,3,3,American Canyon,City,30
+0,M-1,Increase Participation in PG&E Rebate and,Incentive or,1,16 MT CO2e,American Canyon,City,31
+1,,Incentive Programs. Increase participation in,"rebate, outreach",,,American Canyon,City,31
+2,,PG&E programs applicable to municipal,and education,,,American Canyon,City,31
+3,,"operations, such as: PG&E SmartRate Program,",,,,American Canyon,City,31
+4,,"PG&E SmartAC, PG&E Commercial HVAC",,,,American Canyon,City,31
+5,,"Quality Maintenance Program, and PG&E Zero",,,,American Canyon,City,31
+6,,Net Energy Pilot Program,,,,American Canyon,City,31
+7,M-2,Audits and Improvements in Municipal,Incentive or,1,152 MT CO2e,American Canyon,City,31
+8,,Facilities. Partner with PG&E to conduct energy,"rebate, outreach",,,American Canyon,City,31
+9,,efficiency assessments and audit the largest,and education,,,American Canyon,City,31
+10,,municipal buildings and operations for energy,,,,American Canyon,City,31
+11,,saving opportunities. Implement,,,,American Canyon,City,31
+12,,recommendations from energy efficiency,,,,American Canyon,City,31
+13,,assessments and audits. (See GHG Inventory,,,,American Canyon,City,31
+14,,report for a list of the City's top 10 energy,,,,American Canyon,City,31
+15,,consuming buildings/facilities.),,,,American Canyon,City,31
+16,M-3,Benchmark Municipal Facilities. Conduct,Monitoring and,1,Supporting Measure,American Canyon,City,31
+17,,"benchmarking to analyze, track, and rate the",tracking,,,American Canyon,City,31
+18,,performance of high energy-using municipal,,,,American Canyon,City,31
+19,,facilities using a tool such as the ENERGY,,,,American Canyon,City,31
+20,,STAR Portfolio Manager.,,,,American Canyon,City,31
+21,M-4,Street Light Retrofits. Complete retrofits of,Incentive or,2,Medium,American Canyon,City,31
+22,,street lighting to light-emitting diode (LED) units.,rebate,,,American Canyon,City,31
+0,M-6,Communication with PG&E and NCEW. City,Education and,1,Supporting Measure,American Canyon,City,32
+1,,staff will maintain open lines of communication,Outreach,,,American Canyon,City,32
+2,,with PG&E and Napa County Energy Watch to,,,,American Canyon,City,32
+3,,ensure staff is aware of current applicable,,,,American Canyon,City,32
+4,,programs.,,,,American Canyon,City,32
+5,M-7,Staff Training. Continue staff training and,Education and,1,Supporting Measure,American Canyon,City,32
+6,,regularly disseminate information relating to,Outreach,,,American Canyon,City,32
+7,,energy awareness.,,,,American Canyon,City,32
+0,,2005,2010,2020,2035,,American Canyon,City,33
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,33
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,33
+3,Commercial/Industrial,,,,,,American Canyon,City,33
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,33
+5,Commercial/Industrial,,,,,,American Canyon,City,33
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,33
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,33
+8,Residential Natural,,,,,,American Canyon,City,33
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,33
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,33
+11,"Transportation, on-",,,,,,American Canyon,City,33
+12,road,"41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,33
+13,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,33
+14,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,33
+15,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,33
+0,,2005,2010,% Increase,2005,2010,% Increase,American Canyon,City,34
+1,,Electricity,Electricity,in,Natural Gas,Natural Gas,in,American Canyon,City,34
+2,Emission Sector,(kWh),(kWh),Electricity,(therms),(therms),Electricity,American Canyon,City,34
+3,Residential,"33,089,639","38,523,051",16%,"2,334,933","2,769,981",19%,American Canyon,City,34
+4,Non-Residential,"40,273,744","64,084,298",59%,"3,827,445","4,609,425",20%,American Canyon,City,34
+5,Total,"73,363,383","102,607,349",40%,"6,162,378","7,379,406",20%,American Canyon,City,34
+0,Wastewater,"7,263",6.7%,"8,656",7.2%,American Canyon,City,35
+1,Total,"107,608",100%,"120,201",100%,American Canyon,City,35
+0,90000,2005,American Canyon,City,36
+1,80000,2010,American Canyon,City,36
+2,70000,2005,American Canyon,City,36
+3,60000,,American Canyon,City,36
+4,50000,,American Canyon,City,36
+5,40000,,American Canyon,City,36
+6,30000,,American Canyon,City,36
+7,20000,,American Canyon,City,36
+8,10000,,American Canyon,City,36
+0,,2005,2010,,2005,2010,,American Canyon,City,37
+1,,Electricity,Electricity,%,Natural Gas,Natural Gas,%,American Canyon,City,37
+2,Emission Sector,(kWh),(kWh),Increase,(therms),(therms),Change,American Canyon,City,37
+3,Buildings and Facilities,"297,768","597,963",101%,643,"9,316","1,349%",American Canyon,City,37
+4,Streetlights,"224,030","448,358",100%,0,0,N/A,American Canyon,City,37
+5,Water Supply,"3,266,943","6,461,419",98%,0,0,N/A,American Canyon,City,37
+6,TOTAL,"3,788,741","7,507,740",98%,643,"9,316","1,349%",American Canyon,City,37
+0,,,,2010 kWh,American Canyon,City,38
+1,Premise Type,Business Activity4,Service Address,(electricity),American Canyon,City,38
+2,Commercial or industrial,Wastewater Plant,151 Mezzetta Ct,"2,889,000",American Canyon,City,38
+3,Commercial or industrial,Water Treatment Plant,250 Kirkland Ranch Rd,"413,760",American Canyon,City,38
+4,Commercial or industrial,Wastewater Treatment Plant,W/O Rancho del Mar-sub,"196,320",American Canyon,City,38
+5,Commercial or industrial,Police/Fire Department,911 Donaldson Way East,"143,520",American Canyon,City,38
+6,Commercial or industrial,ND,396 Wetlands Edge Rd,"80,350",American Canyon,City,38
+7,Commercial or industrial,City Hall,4381 Broadway Ste 107,"74,636",American Canyon,City,38
+8,Streetlight site,Civic Center Complex,300 Crawford Way,"58,550",American Canyon,City,38
+9,Commercial or Industrial,City Hall,4381 Broadway St,"55,826",American Canyon,City,38
+10,Streetlight site,ND,3423 Broadway St Ste D6,"51,631",American Canyon,City,38
+11,Streetlight site,Civic Center Complex,300 Crawford way,"47,152",American Canyon,City,38
+12,TOTAL,,,"4,010,745",American Canyon,City,38
+0,Solid Waste,ND,0.0%,90,4.8%,American Canyon,City,39
+1,Water (electricity used for pumping and,,,,,American Canyon,City,39
+2,conveyance),731,85.9%,"1,304",69.8%,American Canyon,City,39
+3,TOTAL,850,100%,"1,868",100%,American Canyon,City,39
+0,,,,,,2010-2020,2010-2035,American Canyon,City,40
+1,,,,,,Growth,Growth,American Canyon,City,40
+2,Sector,2005,2010,2020,2035,Estimate,Estimate,American Canyon,City,40
+3,Population (residents),"14,197","19,454","26,589","30,334",37%,56%,American Canyon,City,40
+4,Community-wide Employment (jobs),"2,230","2,920","3,333","3,953",14%,35%,American Canyon,City,40
+5,Municipal Employment (jobs),70,80,96,110,20%,37%,American Canyon,City,40
+0,,2005,2010,2020,2035,,American Canyon,City,41
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,41
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,41
+3,Commercial/Industrial,,,,,,American Canyon,City,41
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,41
+5,Commercial/Industrial,,,,,,American Canyon,City,41
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,41
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,41
+8,Residential Natural,,,,,,American Canyon,City,41
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,41
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,41
+11,"Transportation, on- road","41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,41
+12,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,41
+13,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,41
+14,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,41
+0,,,Costs,,American Canyon,City,42
+1,,Low,Medium,High,American Canyon,City,42
+2,High,1,1,2,American Canyon,City,42
+3,Medium,1,2,3,American Canyon,City,42
+4,Low,2,3,3,American Canyon,City,42
+0,C-1,Targeted Energy Efficiency Outreach to Non-,Incentive or,1,"3,005 MT CO2e",American Canyon,City,43
+1,,Residential Energy Customers. Use PG&E,"rebate,",,,American Canyon,City,43
+2,,data to target specific Non-Residential customer,outreach and,,,American Canyon,City,43
+3,,sectors for participation in PG&E programs or,education,,,American Canyon,City,43
+4,,"other local, regional, or state programs.",,,,American Canyon,City,43
+5,C-2,Develop a Voluntary Non-Residential Energy,Outreach and,1,118 MT CO2e,American Canyon,City,43
+6,,Efficiency Checklist. Build upon the energy,education,,,American Canyon,City,43
+7,,disclosure requirements of AB 1103 to develop a,,,,American Canyon,City,43
+8,,voluntary Non-Residential energy efficiency,,,,American Canyon,City,43
+9,,checklist that will be available at the time of,,,,American Canyon,City,43
+10,,building sale.,,,,American Canyon,City,43
+11,C-3,Participate in a Non-residential Property,Outreach and,1,"1,841 MT CO2e",American Canyon,City,43
+12,,Assessed Clean Energy (PACE) Program.,education/,,,American Canyon,City,43
+13,,Provide additional financing opportunities for,incentive,,,American Canyon,City,43
+14,,energy efficiency improvements for commercial,,,,American Canyon,City,43
+15,,structures by participating in a Property,,,,American Canyon,City,43
+16,,Assessed Clean Energy (PACE) program.,,,,American Canyon,City,43
+0,C-4,Targeted Energy Efficiency Outreach to,Incentive or,1,"1,084 MT CO2e",American Canyon,City,44
+1,,Residential Energy Customers. Increase,rebate/,,,American Canyon,City,44
+2,,participation in the residential customer sector,outreach and,,,American Canyon,City,44
+3,,"for participation in PG&E programs, including",education,,,American Canyon,City,44
+4,,"Energy Upgrade California, and programs that",,,,American Canyon,City,44
+5,,provide rebates for energy efficient appliances,,,,American Canyon,City,44
+6,,and retrofits. Increase participation in,,,,American Canyon,City,44
+7,,weatherization programs.,,,,American Canyon,City,44
+8,C-5,Voluntary Energy Efficiency Checklist for,Outreach and,1,356 MT CO2e,American Canyon,City,44
+9,,Residential Development. Develop a voluntary,education,,,American Canyon,City,44
+10,,energy efficiency checklist that will be available,,,,American Canyon,City,44
+11,,at the time of residential home sale.,,,,American Canyon,City,44
+0,C-6,Savings By Design for New Non-Residential,Mandatory,1,Supporting Measure,American Canyon,City,45
+1,,Construction. Require participation in PG&E’s,requirement,,,American Canyon,City,45
+2,,Savings by Design Program (or future iterations,,,,American Canyon,City,45
+3,,of such a program) for all new Non-Residential,,,,American Canyon,City,45
+4,,new construction projects.,,,,American Canyon,City,45
+5,C-7,Require Energy Efficiency Beyond State,Incentive,1,399 MT CO2e,American Canyon,City,45
+6,,Code for New Non-Residential Construction.,through 2016;,,,American Canyon,City,45
+7,,"Through 2013, provide a streamlined permit",Mandatory,,,American Canyon,City,45
+8,,process for new Non-Residential construction,starting in,,,American Canyon,City,45
+9,,projects that incorporate energy efficiency,2017,,,American Canyon,City,45
+10,,"improvements over Title 24, include all items on",,,,American Canyon,City,45
+11,,"a voluntary energy efficiency checklist, or",,,,American Canyon,City,45
+12,,include renewable energy improvements.,,,,American Canyon,City,45
+13,,"Starting in 2014 or 2017, require that all new",,,,American Canyon,City,45
+14,,construction achieve Tier 1 of Title 24 standards,,,,American Canyon,City,45
+15,,(15 percent more stringent than the mandatory,,,,American Canyon,City,45
+16,,standards.),,,,American Canyon,City,45
+0,,,Costs,,American Canyon,City,46
+1,,Low,Medium,High,American Canyon,City,46
+2,High,1,1,2,American Canyon,City,46
+3,Medium,1,2,3,American Canyon,City,46
+4,Low,2,3,3,American Canyon,City,46
+0,M-1,Increase Participation in PG&E Rebate and,Incentive or,1,16 MT CO2e,American Canyon,City,47
+1,,Incentive Programs. Increase participation in,"rebate, outreach",,,American Canyon,City,47
+2,,PG&E programs applicable to municipal,and education,,,American Canyon,City,47
+3,,"operations, such as: PG&E SmartRate Program,",,,,American Canyon,City,47
+4,,"PG&E SmartAC, PG&E Commercial HVAC",,,,American Canyon,City,47
+5,,"Quality Maintenance Program, and PG&E Zero",,,,American Canyon,City,47
+6,,Net Energy Pilot Program,,,,American Canyon,City,47
+7,M-2,Audits and Improvements in Municipal,Incentive or,1,152 MT CO2e,American Canyon,City,47
+8,,Facilities. Partner with PG&E to conduct energy,"rebate, outreach",,,American Canyon,City,47
+9,,efficiency assessments and audit the largest,and education,,,American Canyon,City,47
+10,,municipal buildings and operations for energy,,,,American Canyon,City,47
+11,,saving opportunities. Implement,,,,American Canyon,City,47
+12,,recommendations from energy efficiency,,,,American Canyon,City,47
+13,,assessments and audits. (See GHG Inventory,,,,American Canyon,City,47
+14,,report for a list of the City's top 10 energy,,,,American Canyon,City,47
+15,,consuming buildings/facilities.),,,,American Canyon,City,47
+16,M-3,Benchmark Municipal Facilities. Conduct,Monitoring and,1,Supporting Measure,American Canyon,City,47
+17,,"benchmarking to analyze, track, and rate the",tracking,,,American Canyon,City,47
+18,,performance of high energy-using municipal,,,,American Canyon,City,47
+19,,facilities using a tool such as the ENERGY,,,,American Canyon,City,47
+20,,STAR Portfolio Manager.,,,,American Canyon,City,47
+21,M-4,Street Light Retrofits. Complete retrofits of,Incentive or,2,Medium,American Canyon,City,47
+22,,street lighting to light-emitting diode (LED) units.,rebate,,,American Canyon,City,47
+0,M-6,Communication with PG&E and NCEW. City,Education and,1,Supporting Measure,American Canyon,City,48
+1,,staff will maintain open lines of communication,Outreach,,,American Canyon,City,48
+2,,with PG&E and Napa County Energy Watch to,,,,American Canyon,City,48
+3,,ensure staff is aware of current applicable,,,,American Canyon,City,48
+4,,programs.,,,,American Canyon,City,48
+5,M-7,Staff Training. Continue staff training and,Education and,1,Supporting Measure,American Canyon,City,48
+6,,regularly disseminate information relating to,Outreach,,,American Canyon,City,48
+7,,energy awareness.,,,,American Canyon,City,48
+0,,Cumulative,GHG,Agoura Hills,City,1
+1,,GHG,Reduction,Agoura Hills,City,1
+2,Strategy,Reductions,Cost,Agoura Hills,City,1
+3,,"(MT CO2e),",Effectiveness,Agoura Hills,City,1
+4,,2012–2020,($/MT)*,Agoura Hills,City,1
+5,Use Biomethane in CNG Buses (well-to-wheels impacts),"528,555**",$174-379,Agoura Hills,City,1
+6,On-board Railcar Braking Energy Storage,"96,411",$180,Agoura Hills,City,1
+7,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"76,826","$4,922",Agoura Hills,City,1
+8,Building Indoor Lighting Upgrades: LEDs,"71,621",-$78,Agoura Hills,City,1
+9,Building Indoor Lighting Upgrades: Efficient Metal Halides,"46,226",-$117,Agoura Hills,City,1
+10,Wayside Energy Storage Substation (WESS),"17,289","$2,774",Agoura Hills,City,1
+11,Retrofit Lighting in Red Line Tunnel,"5,783",-$73,Agoura Hills,City,1
+12,Expand Use of Renewable Energy,"4,467","$2,303",Agoura Hills,City,1
+13,Municipal Recycled Water For Bus Washing,941,-$570,Agoura Hills,City,1
+14,Extension of Bus Wash On-Site Reclamation,544,"-$2,378",Agoura Hills,City,1
+15,Low Water Sanitary Fixtures,424,-$907,Agoura Hills,City,1
+16,Mobile Air Conditioning Replacement,353,"$3,103",Agoura Hills,City,1
+0,,Cumulative,,Reduction,Reduction in,Agoura Hills,City,2
+1,,GHG,,,GHG,Agoura Hills,City,2
+2,Package,Reductions,Net Cost,in Forecast,emissions,Agoura Hills,City,2
+3,,(MT CO2e),(2012-2020)*,GHG emissions,per boarding,Agoura Hills,City,2
+4,,2012-2020,,in 2020,from 2010 to 2020,Agoura Hills,City,2
+5,1. Short-Term Cost Saving Strategies,"66,616","-$8,121,116",0.6%,5.0%,Agoura Hills,City,2
+6,2. Short-Term and Mid-Term Strategies,"167,494","$67,443,140",4.3%,8.6%,Agoura Hills,City,2
+7,3. All Strategies with Tank-to-Wheels Benefits,"244,673","$446,719,774",7.4%,11.5%,Agoura Hills,City,2
+8,4. All Strategies with Well-to-Wheels Benefits,"696,402","$206,873,542",28.9%,32.1%,Agoura Hills,City,2
+0,,,CO2e reductions (MT),Agoura Hills,City,3
+1,Strategy,,,Agoura Hills,City,3
+2,,2014,"2020 Cumulative, 2012–2020",Agoura Hills,City,3
+3,Use Biomethane in CNG Buses (well-to-wheels impacts),"26,291","125,744 528,555",Agoura Hills,City,3
+4,On-board Railcar Braking Energy Storage,"6,288","18,616 96,411",Agoura Hills,City,3
+5,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"5,066","15,479 76,826",Agoura Hills,City,3
+6,Building Indoor Lighting Upgrades: LEDs,"2,890","2,890 71,621",Agoura Hills,City,3
+7,Building Indoor Lighting Upgrades: Efficient Metal Halides,"1,722","1,722 46,226",Agoura Hills,City,3
+8,Wayside Energy Storage Substation (WESS),836,"3,745 17,289",Agoura Hills,City,3
+9,Retrofit Lighting in Red Line Tunnel,699,"529 5,783",Agoura Hills,City,3
+10,Expand Use of Renewable Energy,536,"416 4,467",Agoura Hills,City,3
+11,Municipal Recycled Water For Bus Washing,105,105 941,Agoura Hills,City,3
+12,Extension of Bus Wash On-Site Reclamation,60,60 544,Agoura Hills,City,3
+13,Low Water Sanitary Fixtures,47,47 424,Agoura Hills,City,3
+14,Mobile Air Conditioning Replacement,0,101 353,Agoura Hills,City,3
+0,Strategy,Lifecycle Costs*,,Lifecycle Cost Unit,Investment Lifetime,,Payback Period,Agoura Hills,City,4
+1,On-board Railcar Braking Energy Storage,"-$78,619",,Per railcar,20 years,,7 years,Agoura Hills,City,4
+2,Mobile Air Conditioning Replacement,$546,,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+3,Use Biomethane in CNG Buses: Low Cost Scenario,"$286,079",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+4,Gasoline-Electric Hybrid or CNG Hybrid Buses,"$355,688",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+5,Use Biomethane in CNG Buses: High Cost Scenario,"$572,159",,Per bus,13.5 years,,n/a,Agoura Hills,City,4
+6,Wayside Energy Storage Substation (WESS),"$1,528,155",,Per substation,20 years,,n/a,Agoura Hills,City,4
+7,Expand Use of Renewable Energy,"$8,886,753",,Per 1.3 MWh project,30 years,,n/a,Agoura Hills,City,4
+0,,Short-Term,Short-Term,All Strategies,All Strategies,Agoura Hills,City,5
+1,Strategy,Cost Saving,and Mid-Term,with Tank-to-,with Well-to-,Agoura Hills,City,5
+2,,Strategies,Strategies,Wheels Benefits,Wheels Benefits*,Agoura Hills,City,5
+3,Building Indoor Lighting Upgrades,X,X,X,X,Agoura Hills,City,5
+4,Municipal Recycled Water for Bus Washing,X,X,X,X,Agoura Hills,City,5
+5,Extension of Bus Wash On-Site Reclamation,X,X,X,X,Agoura Hills,City,5
+6,Low Water Sanitary Fixtures,X,X,X,X,Agoura Hills,City,5
+7,Retrofit Lighting in Red Line Tunnel,X,X,X,X,Agoura Hills,City,5
+8,On-board Railcar Braking Energy Storage,,X,X,X,Agoura Hills,City,5
+9,Expand Use of Renewable Energy,,X,X,X,Agoura Hills,City,5
+10,Wayside Energy Storage Substation (WESS),,X,X,X,Agoura Hills,City,5
+11,Mobile Air Conditioning Replacement,,,X,X,Agoura Hills,City,5
+12,Gasoline-Electric Hybrid Buses,,,X,,Agoura Hills,City,5
+13,Biomethane,,,,X,Agoura Hills,City,5
+0,Service or Asset Type,Rationale for “Criticality”,What Does This Include or Exclude?,Agoura Hills,City,6
+1,Bus,,,Agoura Hills,City,6
+2,Bus Fleet,Over 1 million weekday boardings; FY10 budget,Includes: Existing bus fleet; Expected,Agoura Hills,City,6
+3,,is over $300 million; 2009 LRTP* projects costs,capital costs for new buses,Agoura Hills,City,6
+4,,to be over $10 billion for the 2005-2040 period,Excludes: Roads; Stop locations; Fleet has,Agoura Hills,City,6
+5,,,not disaggregated by routes or bus-type,Agoura Hills,City,6
+6,,,"(e.g., length/size)",Agoura Hills,City,6
+7,Bus Rapid Transit Service,"Over 200,000 weekday passenger miles",Includes: Right-of-way,Agoura Hills,City,6
+8,(Silver and Orange Lines),(representing over 6% of all bus passenger,,Agoura Hills,City,6
+9,,miles),,Agoura Hills,City,6
+10,Rail,,,Agoura Hills,City,6
+11,Heavy Rail (Red and Purple,"Over 140,000 daily boardings; Most frequented","Includes: Location of track, stations, power",Agoura Hills,City,6
+12,Lines),subway lines; Service to much of Downtown Los,supply and distribution,Agoura Hills,City,6
+13,,Angeles,,Agoura Hills,City,6
+14,"Light Rail (Blue, Green, and",Broad geographic range across the county;,"Includes: Location of track, stations, power",Agoura Hills,City,6
+15,Gold Lines),"approximately 150,000 daily boardings",supply and distribution,Agoura Hills,City,6
+16,Rail Rehabilitation,FY10 budget is over $30 million; LRTP lists costs,Includes: Upkeep costs for maintaining rails,Agoura Hills,City,6
+17,,to be over $9 billion for the 2005-2040 period,,Agoura Hills,City,6
+18,Rail Fleet,FY10 and FY11 budgets are over $50 million,Includes: Existing rail car fleet; Expected,Agoura Hills,City,6
+19,,,capital costs for new rail cars,Agoura Hills,City,6
+0,Facilities—,Estimated Rail Daily Connections to,Joint,Criticality,Agoura Hills,City,7
+1,Passenger Stations,Weekday Ridership* Other Lines**,Development,Index,Agoura Hills,City,7
+2,7th /Metro Center,,,,Agoura Hills,City,7
+3,"(Red, Purple, Blue, Silver)","39,000 50",Completed,7,Agoura Hills,City,7
+4,Union Station,,,,Agoura Hills,City,7
+5,"(Red, Purple, Gold)","30,000 36+Parking",Completed,7,Agoura Hills,City,7
+6,Imperial/Wilmington,,,,Agoura Hills,City,7
+7,"(Blue, Green)","18,000 10+Parking",,6,Agoura Hills,City,7
+8,North Hollywood,,,,Agoura Hills,City,7
+9,"(Red, Orange)","16,000 12+Parking",Under negotiation,7,Agoura Hills,City,7
+10,Wilshire/Vermont,,,,Agoura Hills,City,7
+11,"(Red, Purple)","13,000 5",Completed,6,Agoura Hills,City,7
+12,Pershing Square,,,,Agoura Hills,City,7
+13,"(Red, Purple, Silver)","11,000 50",,6,Agoura Hills,City,7
+14,Westlake,,,,Agoura Hills,City,7
+15,"(Red, Purple)","9,000 15",Under construction,7,Agoura Hills,City,7
+16,Hollywood/Highland,,,,Agoura Hills,City,7
+17,(Red),"8,000 2+Parking",Completed,6,Agoura Hills,City,7
+18,Universal City,,,,Agoura Hills,City,7
+19,(Red),"8,000 2 + Parking",Under negotiation,6,Agoura Hills,City,7
+20,Civic Center,,,,Agoura Hills,City,7
+21,"(Red, Purple, Silver)","5,000 50",,6,Agoura Hills,City,7
+22,Hollywood/Vine,,,,Agoura Hills,City,7
+23,(Red),"5,000 2+Parking",Completed,6,Agoura Hills,City,7
+24,Facilities—,,,,Agoura Hills,City,7
+25,Non-Passenger Properties,Rationale,,,Agoura Hills,City,7
+26,Division 13—,Main bus maintenance facility; Co-located/adjacent to Location 30 (Metro Support,,,Agoura Hills,City,7
+27,Bus Maintenance Facility,"Services Center), Location 99, Location 33 (OCI), Location 35 (Facilities Maintenance), Location 88 (Westside-Central Service Sector",,,Agoura Hills,City,7
+28,Location 61—,,,,Agoura Hills,City,7
+29,Red Line Maintenance of Way,Important rail maintenance location,,,Agoura Hills,City,7
+30,Location 66—,,,,Agoura Hills,City,7
+31,Blue Line Maintenance of Way,Important rail maintenance location,,,Agoura Hills,City,7
+32,Location 99—,,,,Agoura Hills,City,7
+33,Gateway Building,"Metro Headquarters, Adjacent to Union Stations",,,Agoura Hills,City,7
+0,Ridership,Connectivity,Score,Agoura Hills,City,8
+1,"Greater than or equal to 5,000 daily riders",Connected to 10 or more other transit lines,3,Agoura Hills,City,8
+2,"1,000-4,999 daily riders","Connected to 5-9 lines, or Has dedicated parking spaces/park-and-ride lot",2,Agoura Hills,City,8
+3,"Less than 1,000 daily riders",Less than 5 connections and no parking,1,Agoura Hills,City,8
+0,,Exposed to,,,,Agoura Hills,City,9
+1,Critical Asset,Extreme,Sensitivities Adaptive Capacity,,Vulnerable?,Agoura Hills,City,9
+2,,Heat?,,,,Agoura Hills,City,9
+3,,,Equipment failure,,,Agoura Hills,City,9
+4,Bus Fleet,Yes,and higher frequency Moderate: Bus fleet is,,,Agoura Hills,City,9
+5,,,of breakdown  relatively large,,Yes,Agoura Hills,City,9
+6,,,,,Possible:,Agoura Hills,City,9
+7,,,,,(depending on the,Agoura Hills,City,9
+8,Bus Rapid Transit right-of-way,,Pavement Moderate: Pavement likely,,,Agoura Hills,City,9
+9,(Silver and Orange Lines),Yes,degradation can be accelerated to be replaced relatively frequently,,expected frequency of pavement,Agoura Hills,City,9
+10,,,,,replacement),Agoura Hills,City,9
+11,,,Some station Moderate: Most systems,,Possible:,Agoura Hills,City,9
+12,Heavy Rail,Minimal,"systems (electrical, can be inspected (in",,(depending on,Agoura Hills,City,9
+13,(Red and Purple),(underground),air conditioning) may anticipation of heat events),,frequencies of,Agoura Hills,City,9
+14,,,not function optimally  or repaired/replaced,,occurrence and stations affected),Agoura Hills,City,9
+15,,,Rail buckling and,,,Agoura Hills,City,9
+16,,,higher risk of Moderate: Operations can,,,Agoura Hills,City,9
+17,"Light Rail  (Blue, Green, and Gold)",Yes,"equipment (e.g., electrical systems, be modified (e.g., speed reductions), but damage to",,Yes,Agoura Hills,City,9
+18,,,air conditioning) rails can still occur,,,Agoura Hills,City,9
+19,,,failure,,,Agoura Hills,City,9
+20,,,Construction Moderate: Construction,,,Agoura Hills,City,9
+21,,,speed16 and worker schedules can be,,,Agoura Hills,City,9
+22,Measure R construction work,Yes,health can be modified; exposure could,,Yes,Agoura Hills,City,9
+23,,,compromised by be lowered depending on,,,Agoura Hills,City,9
+24,,,extreme heat mode choices and locations,,,Agoura Hills,City,9
+25,Measure R planned assets,Possible,"Above sensitivities and adaptive capacity apply, depending on mode choices and locations",,Possible,Agoura Hills,City,9
+0,,,,,,,,Connectivity,,,,Agoura Hills,City,10
+1,,,,,Service Volume,,,,,,,Agoura Hills,City,10
+2,,,,,,,,Transit,,,,Agoura Hills,City,10
+3,,,,Sum of,,,,,,,,Agoura Hills,City,10
+4,Asset Type,Service Line,Asset Name,Boardings,,Real Estate,Parking (#,,,,Criticality,Agoura Hills,City,10
+5,,,,and Alightings,Qualitative Rating,,"Spaces, not including",Connectivity Rating,Qualitative Rating,,,Agoura Hills,City,10
+6,,,,(Daily,,,street parking),,,,,Agoura Hills,City,10
+7,,,,Weekday),,,,,,,,Agoura Hills,City,10
+8,,,,,,,,,,,Yes -,Agoura Hills,City,10
+9,,,,,,,,,,,connected,Agoura Hills,City,10
+10,Unknown,Division 13,,,,,,,,,to,Agoura Hills,City,10
+11,,,,,,,,,,,Gateway,Agoura Hills,City,10
+12,,,,,,,,,,,Building,Agoura Hills,City,10
+13,Unknown,Division 4 Non Revenue Vehicle,,,,,,,,,No,Agoura Hills,City,10
+14,Unknown,Division 16,,,,,,,,,??,Agoura Hills,City,10
+0,,Address,Size (sq. ft.),Priority,Agoura Hills,City,11
+1,Rail Related,,,,Agoura Hills,City,11
+2,Location 61 - Red Line Maintenance Of Way,"284 S. Santa Fe Avenue, L.A. (Maintenance of Way Shops)",,High,Agoura Hills,City,11
+3,Location 66 - Blue Line Maintenance Of Way,,"81,270",High,Agoura Hills,City,11
+0,Loc 24,"14557 Sherman Way, Van Nuys (old Div. 8)",,??,Agoura Hills,City,12
+1,Loc 32,"425 S. Main St., L.A. (SCRTD Headquarters Bldg., 4th & Main)",520,??,Agoura Hills,City,12
+2,Location 34 - Vernon Yards,"4462 Pacific Blvd., Vernon (Vernon Yards, LARy)","22,652",??,Agoura Hills,City,12
+3,Loc 51,"1900 S. Figueroa St., L.A. (Transit Police Headquarters)",,??,Agoura Hills,City,12
+4,Loc 55,"316 W. 3rd St., L.A. (Miracle on Broadway Transit Police substation)",,??,Agoura Hills,City,12
+5,Loc 56,(Open),,??,Agoura Hills,City,12
+6,Loc 57,(Open),,??,Agoura Hills,City,12
+7,Loc 58,(Open),,??,Agoura Hills,City,12
+8,Loc 59,(Open),,??,Agoura Hills,City,12
+9,Location 80 - Materials Warehouse,"628 Aliso St., LA, 90012","11,678",??,Agoura Hills,City,12
+10,Location 81 - Surplus Office Space (6th Flr.),"818 W. 7th St., LA, 90017","9,747",??,Agoura Hills,City,12
+11,"Location 82 - Office Space (6 flrs. 23,24,27,28,29 & 37)","707 Wilshire Blvd., LA, 90017","43,822",??,Agoura Hills,City,12
+12,Location 83 - Office/Warehouse Bldg.,"3730 Monterey Rd., El Monte, 91731","49,005",??,Agoura Hills,City,12
+13,Location 84 - San Fernando Valley Service Sector,"9760 Topanga Canyon Bl., Chatsworth, 91311","365,469",??,Agoura Hills,City,12
+14,Location 86 - South Bay Service Sector,"680 Knox St., Suite 150, Torrance,","171,191",??,Agoura Hills,City,12
+15,Location 87 - Gateway Cities Service Sector,"7878 Telegraph Rd., Downey, 90240","10,000",??,Agoura Hills,City,12
+16,Loc 99 USG,"Union Station - Gateway, includes the MTA building, the east portal to Union Station,  and Patsouras Plaza","186,680",High,Agoura Hills,City,12
+0,Sector,Scope 1,Scope 2,Scope 3,TOTAL,Alameda,City,1
+1,Residential,"66,554","16,145",0,"82,699",Alameda,City,1
+2,Commercial / Industrial,"31,547","27,304",0,"58,851",Alameda,City,1
+3,Transportation,"206,465",0,"4,274","210,739",Alameda,City,1
+4,Waste,"1,719",0,"12,650","14,368",Alameda,City,1
+5,Water/Wastewater,0,0,"2,156","2,156",Alameda,City,1
+6,TOTAL,"306,285","43,449","19,079","368,813",Alameda,City,1
+7,Percentage of Total CO2e,83%,12%,5%,100%,Alameda,City,1
+0,Scope 1 Emissions By,,Commercial /,,,,Alameda,City,2
+1,Sector,Residential,Industrial,Transportation,Waste,TOTAL,Alameda,City,2
+2,CO2e (metric tons),"66,554","31,547","206,465","1,719","306,285",Alameda,City,2
+3,% of Total CO2e,22%,10%,67%,1%,100%,Alameda,City,2
+0,2010 Community,,Commercial /,,Water /,,Alameda,City,3
+1,Emissions by Sector,Residential,Industrial Transportation,Waste,Wastewater,TOTAL,Alameda,City,3
+2,CO2e (metric tons),"82,699","58,851 210,739","14,368","2,156","368,813",Alameda,City,3
+3,% of Total CO2e,22%,16% 57%,4%,1%,100%,Alameda,City,3
+0,,,,Distribution,,Alameda,City,4
+1,Residential Emission,,,System,,Alameda,City,4
+2,Sources 2010,Electricity,Natural Gas,Losses,TOTAL,Alameda,City,4
+3,MTCO2e,"15,349","66,554",797,"82,699",Alameda,City,4
+4,% of Total CO2e,19%,80%,1%,100%,Alameda,City,4
+0,,,,Electricity,,,Alameda,City,5
+1,Commercial / Industrial,,,Distribution,,,Alameda,City,5
+2,Emission Sources 2010,Electricity,Natural Gas,System Losses,SF6 Emissions,TOTAL,Alameda,City,5
+3,CO2e (metric tons),"25,956","31,493","1,347",54,"58,851",Alameda,City,5
+4,% of Total CO2e,44%,54%,2%,0.1%,100%,Alameda,City,5
+0,Transportation Vehicle,Commercial,Passenger,,Other Public,,,Alameda,City,6
+1,Type Emissions Sources,Vehicles: Heavy,"Vehicles: Cars,",,"Transit: BART,",Off-road,,Alameda,City,6
+2,2010,Trucks,Light and,All Buses,Ferries,Vehicles,TOTAL,Alameda,City,6
+3,CO2e (metric tons),"41,687","132,458","3,357","4,274","28,962","210,739",Alameda,City,6
+4,% of Total CO2e,20%,63%,2%,2%,14%,100%,Alameda,City,6
+0,,,Original,Updated,,,,,,Alameda,City,7
+1,,,2005,2005,2010,Original,Updated,,Percent,Alameda,City,7
+2,,,Activity,Activity,Activity,2005,2005,2010,Change,Alameda,City,7
+3,Sector,,Data,Data,Data,MTCO2e,MTCO2e,MTCO2e,MTCO2e,Alameda,City,7
+4,Residential,,,,,,,,,Alameda,City,7
+5,,,"137,906,700","137,906,700","141,336,935","13,832","21,956","15,349",,Alameda,City,7
+6,Electricity,,kWh,kWh,kWh,,,,-30%,Alameda,City,7
+7,,,"12,180,175","12,180,175","12,520,503","75,252","64,775","66,554",,Alameda,City,7
+8,Natural Gas,,Therms,Therms,Therms,,,,3%,Alameda,City,7
+9,Total,,-,-,-,"89,084","86,731","81,903",-6%,Alameda,City,7
+10,Commercial/Industrial,,,,,,,,,Alameda,City,7
+11,,,"223,590,100","223,590,100","239,017,888",,,,,Alameda,City,7
+12,,,,,,"22,426","35,598",,,Alameda,City,7
+13,Electricity,,kWh,kWh,kWh,,,"25,956",-27%,Alameda,City,7
+14,,,"4,886,714","4,886,714","5,924,692",,,,,Alameda,City,7
+15,,,,,,"30,191","25,976",,,Alameda,City,7
+16,Natural Gas,,Therms,Therms,Therms,,,"31,493",21%,Alameda,City,7
+17,Total,,-,-,-,"52,617","61,574","57,449",-7%,Alameda,City,7
+18,Transportation,,,,,,,,,Alameda,City,7
+19,,,,"27,143,247","32,040,354",,,,,Alameda,City,7
+20,Commercial Vehicles,,,VMT,VMT,,"35,888","41,687",16%,Alameda,City,7
+21,,,,,,,,,,Alameda,City,7
+22,,,not,,"347,818,456",not,,,,Alameda,City,7
+23,,,,"367,643,598",,,,,,Alameda,City,7
+24,,,available,,VMT,available,,,,Alameda,City,7
+25,Passenger Vehicles,,,VMT,,,"153,497","132,458",-14%,Alameda,City,7
+26,,,,"2,330,839","1,993,931",,,,,Alameda,City,7
+27,Buses,,,VMT,VMT,,"4,120","3,357",-19%,Alameda,City,7
+28,,,,,,,,,,Alameda,City,7
+29,,,not,"397,117,684","381,852,741",,,,,Alameda,City,7
+30,Total,,available,VMT,VMT,"161,395","193,505","177,502",-8%,Alameda,City,7
+31,Waste,,,,,,,,,Alameda,City,7
+32,,,"59,024 tons;",,,,,,,Alameda,City,7
+33,,,"7,052 tons",,,,,,,Alameda,City,7
+34,,,additional,,,,,,,Alameda,City,7
+35,Total Landfilled Waste,,ADC,"49,962 tons","37,310 tons",0,"15,281","12,650",-17%,Alameda,City,7
+36,TOTAL Comparable Emissions,,,,,"303,096","357,091","329,504",-8%,Alameda,City,7
+0,"sector, default trip generation rates as a function",regulation under AB 32 all require greenhouse,Aliso Viejo,City,1
+1,of land use were used to quantify trip-related,gas inventories to be tracked and reported on a,Aliso Viejo,City,1
+2,greenhouse gas emissions.  The City has no direct,calendar year basis. Aliso Viejo community and,Aliso Viejo,City,1
+0,automobiles.  The resulting annual inventory in,with such control systems.  Total annual disposal,Aliso Viejo,City,2
+1,"2008 was 188,835 metric tons of CO2(e)","of 17,512 tons of non-recycled trash (about 1.3",Aliso Viejo,City,2
+2,emissions.,pounds per resident per day and around 2.3,Aliso Viejo,City,2
+3,,pounds per employee per workday) generated,Aliso Viejo,City,2
+4,Solid Waste,"10,160 metric tons of CO2(e) emissions in 2008.",Aliso Viejo,City,2
+5,The solid waste sector includes emissions,,Aliso Viejo,City,2
+6,"associated with collection, processing and",Water Consumption,Aliso Viejo,City,2
+7,disposal of solid waste. Fugitive CH4 emissions,The water sector includes emissions from energy,Aliso Viejo,City,2
+8,"are released from solid waste facilities; that is,","associated with water treatment, distribution,",Aliso Viejo,City,2
+9,from landfills that accept organic waste.,and conveyance of water to Aliso Viejo as well as,Aliso Viejo,City,2
+10,Emissions generated from solid waste disposal,wastewater treatment and discharge. The,Aliso Viejo,City,2
+11,"are primarily CO2, which occur under aerobic",California Energy Commission (CEC) has,Aliso Viejo,City,2
+12,"conditions, and CH4, which are generated under",published water-energy intensity reports that,Aliso Viejo,City,2
+13,anaerobic conditions. Biogenic CO2 emissions are,provide estimates of energy required for,Aliso Viejo,City,2
+14,"considered part of the short-term carbon cycle,","conveyance, treatment, and distribution of water",Aliso Viejo,City,2
+15,and are typically not included in greenhouse gas,and for treatment and discharge of wastewater.,Aliso Viejo,City,2
+16,emissions inventories.,Many communities of Southern California must,Aliso Viejo,City,2
+17,,import their water supplies hundreds of miles,Aliso Viejo,City,2
+18,The City waste haul contractor (CR&R) provided,from remote locations via the Colorado River and,Aliso Viejo,City,2
+0,,2005,2010,2020,2035,,American Canyon,City,1
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,1
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,1
+3,Commercial/Industrial,,,,,,American Canyon,City,1
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,1
+5,Commercial/Industrial,,,,,,American Canyon,City,1
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,1
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,1
+8,Residential Natural,,,,,,American Canyon,City,1
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,1
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,1
+11,"Transportation, on-",,,,,,American Canyon,City,1
+12,road,"41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,1
+13,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,1
+14,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,1
+15,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,1
+0,,2005,2010,% Increase,2005,2010,% Increase,American Canyon,City,2
+1,,Electricity,Electricity,in,Natural Gas,Natural Gas,in,American Canyon,City,2
+2,Emission Sector,(kWh),(kWh),Electricity,(therms),(therms),Electricity,American Canyon,City,2
+3,Residential,"33,089,639","38,523,051",16%,"2,334,933","2,769,981",19%,American Canyon,City,2
+4,Non-Residential,"40,273,744","64,084,298",59%,"3,827,445","4,609,425",20%,American Canyon,City,2
+5,Total,"73,363,383","102,607,349",40%,"6,162,378","7,379,406",20%,American Canyon,City,2
+0,Wastewater,"7,263",6.7%,"8,656",7.2%,American Canyon,City,3
+1,Total,"107,608",100%,"120,201",100%,American Canyon,City,3
+0,90000,2005,American Canyon,City,4
+1,80000,2010,American Canyon,City,4
+2,70000,2005,American Canyon,City,4
+3,60000,,American Canyon,City,4
+4,50000,,American Canyon,City,4
+5,40000,,American Canyon,City,4
+6,30000,,American Canyon,City,4
+7,20000,,American Canyon,City,4
+8,10000,,American Canyon,City,4
+0,,2005,2010,,2005,2010,,American Canyon,City,5
+1,,Electricity,Electricity,%,Natural Gas,Natural Gas,%,American Canyon,City,5
+2,Emission Sector,(kWh),(kWh),Increase,(therms),(therms),Change,American Canyon,City,5
+3,Buildings and Facilities,"297,768","597,963",101%,643,"9,316","1,349%",American Canyon,City,5
+4,Streetlights,"224,030","448,358",100%,0,0,N/A,American Canyon,City,5
+5,Water Supply,"3,266,943","6,461,419",98%,0,0,N/A,American Canyon,City,5
+6,TOTAL,"3,788,741","7,507,740",98%,643,"9,316","1,349%",American Canyon,City,5
+0,,,,2010 kWh,American Canyon,City,6
+1,Premise Type,Business Activity4,Service Address,(electricity),American Canyon,City,6
+2,Commercial or industrial,Wastewater Plant,151 Mezzetta Ct,"2,889,000",American Canyon,City,6
+3,Commercial or industrial,Water Treatment Plant,250 Kirkland Ranch Rd,"413,760",American Canyon,City,6
+4,Commercial or industrial,Wastewater Treatment Plant,W/O Rancho del Mar-sub,"196,320",American Canyon,City,6
+5,Commercial or industrial,Police/Fire Department,911 Donaldson Way East,"143,520",American Canyon,City,6
+6,Commercial or industrial,ND,396 Wetlands Edge Rd,"80,350",American Canyon,City,6
+7,Commercial or industrial,City Hall,4381 Broadway Ste 107,"74,636",American Canyon,City,6
+8,Streetlight site,Civic Center Complex,300 Crawford Way,"58,550",American Canyon,City,6
+9,Commercial or Industrial,City Hall,4381 Broadway St,"55,826",American Canyon,City,6
+10,Streetlight site,ND,3423 Broadway St Ste D6,"51,631",American Canyon,City,6
+11,Streetlight site,Civic Center Complex,300 Crawford way,"47,152",American Canyon,City,6
+12,TOTAL,,,"4,010,745",American Canyon,City,6
+0,Solid Waste,ND,0.0%,90,4.8%,American Canyon,City,7
+1,Water (electricity used for pumping and,,,,,American Canyon,City,7
+2,conveyance),731,85.9%,"1,304",69.8%,American Canyon,City,7
+3,TOTAL,850,100%,"1,868",100%,American Canyon,City,7
+0,,,,,,2010-2020,2010-2035,American Canyon,City,8
+1,,,,,,Growth,Growth,American Canyon,City,8
+2,Sector,2005,2010,2020,2035,Estimate,Estimate,American Canyon,City,8
+3,Population (residents),"14,197","19,454","26,589","30,334",37%,56%,American Canyon,City,8
+4,Community-wide Employment (jobs),"2,230","2,920","3,333","3,953",14%,35%,American Canyon,City,8
+5,Municipal Employment (jobs),70,80,96,110,20%,37%,American Canyon,City,8
+0,,2005,2010,2020,2035,,American Canyon,City,9
+1,Emission Sector,Emissions,Emissions,Emissions,Emissions,Growth Proxy,American Canyon,City,9
+2,Agriculture,11,12,12,12,City Planning Department Estimate,American Canyon,City,9
+3,Commercial/Industrial,,,,,,American Canyon,City,9
+4,Electricity,"8,892","13,043","14,889","17,659",Community-wide Employment,American Canyon,City,9
+5,Commercial/Industrial,,,,,,American Canyon,City,9
+6,Natural Gas,"20,484","24,690","28,185","33,427",Community-wide Employment,American Canyon,City,9
+7,Residential Electricity,"7,396","7,841","10,716","12,226",Population,American Canyon,City,9
+8,Residential Natural,,,,,,American Canyon,City,9
+9,Gas,"12,424","14,738","20,143","22,980",Population,American Canyon,City,9
+10,"Transportation, off- road","2,006","2,373","2,976","3,456",Average of Population and Community-wide Employment,American Canyon,City,9
+11,"Transportation, on- road","41,664","43,874","55,994","66,317",Average of Population and Community-wide Employment,American Canyon,City,9
+12,Solid Waste,"7,469","4,974","6,239","7,246",Average of Population and Community-wide Employment,American Canyon,City,9
+13,Wastewater,"7,263","8,656","10,856","12,609",Average of Population and Community-wide Employment,American Canyon,City,9
+14,Total,"107,608","120,201","150,011","175,931",,American Canyon,City,9
+0,,,Costs,,American Canyon,City,10
+1,,Low,Medium,High,American Canyon,City,10
+2,High,1,1,2,American Canyon,City,10
+3,Medium,1,2,3,American Canyon,City,10
+4,Low,2,3,3,American Canyon,City,10
+0,C-1,Targeted Energy Efficiency Outreach to Non-,Incentive or,1,"3,005 MT CO2e",American Canyon,City,11
+1,,Residential Energy Customers. Use PG&E,"rebate,",,,American Canyon,City,11
+2,,data to target specific Non-Residential customer,outreach and,,,American Canyon,City,11
+3,,sectors for participation in PG&E programs or,education,,,American Canyon,City,11
+4,,"other local, regional, or state programs.",,,,American Canyon,City,11
+5,C-2,Develop a Voluntary Non-Residential Energy,Outreach and,1,118 MT CO2e,American Canyon,City,11
+6,,Efficiency Checklist. Build upon the energy,education,,,American Canyon,City,11
+7,,disclosure requirements of AB 1103 to develop a,,,,American Canyon,City,11
+8,,voluntary Non-Residential energy efficiency,,,,American Canyon,City,11
+9,,checklist that will be available at the time of,,,,American Canyon,City,11
+10,,building sale.,,,,American Canyon,City,11
+11,C-3,Participate in a Non-residential Property,Outreach and,1,"1,841 MT CO2e",American Canyon,City,11
+12,,Assessed Clean Energy (PACE) Program.,education/,,,American Canyon,City,11
+13,,Provide additional financing opportunities for,incentive,,,American Canyon,City,11
+14,,energy efficiency improvements for commercial,,,,American Canyon,City,11
+15,,structures by participating in a Property,,,,American Canyon,City,11
+16,,Assessed Clean Energy (PACE) program.,,,,American Canyon,City,11
+0,C-4,Targeted Energy Efficiency Outreach to,Incentive or,1,"1,084 MT CO2e",American Canyon,City,12
+1,,Residential Energy Customers. Increase,rebate/,,,American Canyon,City,12
+2,,participation in the residential customer sector,outreach and,,,American Canyon,City,12
+3,,"for participation in PG&E programs, including",education,,,American Canyon,City,12
+4,,"Energy Upgrade California, and programs that",,,,American Canyon,City,12
+5,,provide rebates for energy efficient appliances,,,,American Canyon,City,12
+6,,and retrofits. Increase participation in,,,,American Canyon,City,12
+7,,weatherization programs.,,,,American Canyon,City,12
+8,C-5,Voluntary Energy Efficiency Checklist for,Outreach and,1,356 MT CO2e,American Canyon,City,12
+9,,Residential Development. Develop a voluntary,education,,,American Canyon,City,12
+10,,energy efficiency checklist that will be available,,,,American Canyon,City,12
+11,,at the time of residential home sale.,,,,American Canyon,City,12
+0,C-6,Savings By Design for New Non-Residential,Mandatory,1,Supporting Measure,American Canyon,City,13
+1,,Construction. Require participation in PG&E’s,requirement,,,American Canyon,City,13
+2,,Savings by Design Program (or future iterations,,,,American Canyon,City,13
+3,,of such a program) for all new Non-Residential,,,,American Canyon,City,13
+4,,new construction projects.,,,,American Canyon,City,13
+5,C-7,Require Energy Efficiency Beyond State,Incentive,1,399 MT CO2e,American Canyon,City,13
+6,,Code for New Non-Residential Construction.,through 2016;,,,American Canyon,City,13
+7,,"Through 2013, provide a streamlined permit",Mandatory,,,American Canyon,City,13
+8,,process for new Non-Residential construction,starting in,,,American Canyon,City,13
+9,,projects that incorporate energy efficiency,2017,,,American Canyon,City,13
+10,,"improvements over Title 24, include all items on",,,,American Canyon,City,13
+11,,"a voluntary energy efficiency checklist, or",,,,American Canyon,City,13
+12,,include renewable energy improvements.,,,,American Canyon,City,13
+13,,"Starting in 2014 or 2017, require that all new",,,,American Canyon,City,13
+14,,construction achieve Tier 1 of Title 24 standards,,,,American Canyon,City,13
+15,,(15 percent more stringent than the mandatory,,,,American Canyon,City,13
+16,,standards.),,,,American Canyon,City,13
+0,,,Costs,,American Canyon,City,14
+1,,Low,Medium,High,American Canyon,City,14
+2,High,1,1,2,American Canyon,City,14
+3,Medium,1,2,3,American Canyon,City,14
+4,Low,2,3,3,American Canyon,City,14
+0,M-1,Increase Participation in PG&E Rebate and,Incentive or,1,16 MT CO2e,American Canyon,City,15
+1,,Incentive Programs. Increase participation in,"rebate, outreach",,,American Canyon,City,15
+2,,PG&E programs applicable to municipal,and education,,,American Canyon,City,15
+3,,"operations, such as: PG&E SmartRate Program,",,,,American Canyon,City,15
+4,,"PG&E SmartAC, PG&E Commercial HVAC",,,,American Canyon,City,15
+5,,"Quality Maintenance Program, and PG&E Zero",,,,American Canyon,City,15
+6,,Net Energy Pilot Program,,,,American Canyon,City,15
+7,M-2,Audits and Improvements in Municipal,Incentive or,1,152 MT CO2e,American Canyon,City,15
+8,,Facilities. Partner with PG&E to conduct energy,"rebate, outreach",,,American Canyon,City,15
+9,,efficiency assessments and audit the largest,and education,,,American Canyon,City,15
+10,,municipal buildings and operations for energy,,,,American Canyon,City,15
+11,,saving opportunities. Implement,,,,American Canyon,City,15
+12,,recommendations from energy efficiency,,,,American Canyon,City,15
+13,,assessments and audits. (See GHG Inventory,,,,American Canyon,City,15
+14,,report for a list of the City's top 10 energy,,,,American Canyon,City,15
+15,,consuming buildings/facilities.),,,,American Canyon,City,15
+16,M-3,Benchmark Municipal Facilities. Conduct,Monitoring and,1,Supporting Measure,American Canyon,City,15
+17,,"benchmarking to analyze, track, and rate the",tracking,,,American Canyon,City,15
+18,,performance of high energy-using municipal,,,,American Canyon,City,15
+19,,facilities using a tool such as the ENERGY,,,,American Canyon,City,15
+20,,STAR Portfolio Manager.,,,,American Canyon,City,15
+21,M-4,Street Light Retrofits. Complete retrofits of,Incentive or,2,Medium,American Canyon,City,15
+22,,street lighting to light-emitting diode (LED) units.,rebate,,,American Canyon,City,15
+0,M-6,Communication with PG&E and NCEW. City,Education and,1,Supporting Measure,American Canyon,City,16
+1,,staff will maintain open lines of communication,Outreach,,,American Canyon,City,16
+2,,with PG&E and Napa County Energy Watch to,,,,American Canyon,City,16
+3,,ensure staff is aware of current applicable,,,,American Canyon,City,16
+4,,programs.,,,,American Canyon,City,16
+5,M-7,Staff Training. Continue staff training and,Education and,1,Supporting Measure,American Canyon,City,16
+6,,regularly disseminate information relating to,Outreach,,,American Canyon,City,16
+7,,energy awareness.,,,,American Canyon,City,16

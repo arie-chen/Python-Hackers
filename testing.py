@@ -20,17 +20,20 @@ def download(url, file_name):
 def get_tables(csv,start=0, end=-1):
     df = pd.read_csv(csv)
     tables = []
+    file_name = []
+    links = []
     for row in df[start:end].values:
         x=1
         for i in row:
             if 'http' in str(i):
                 if '200' in str(requests.get(str(i))):
-                    if 'application/pdf' in str(requests.get(str(i)).headers['Content-Type']):
+                    if 'application/pdf' in str(requests.get(str(i)).headers['Content-Type']) and str(i) not in links:
+                        links.append(str(i))
                         download(str(i), str(row[1])+'.pdf')
                         pages, names = lookup_table(str(row[1])+'.pdf')
                         print(pages,names)
                         tables += tabula.read_pdf(str(row[1])+'.pdf',multiple_tables=True, pages=pages)
-                        y=0
+                        y = 0
                             # open("foo.csv", "w")
                             #bobbert = tables[1]
                         for t in tables:
@@ -44,11 +47,12 @@ def get_tables(csv,start=0, end=-1):
                                 x += 1
                                 y += 1
                                 print(t)
-                                with open('b.csv', 'a') as f:
+                                with open('experiment.csv', 'a') as f:
                                     t.to_csv(f, header=False)
                             except:
                                 continue
                         tables=[]
+                        os.remove(str(row[1])+'.pdf')
 
 #tables = []
 #t.to_csv(str(row[1]) + " " + x + ".csv")
@@ -77,11 +81,11 @@ def lookup_table(pdf_doc):
         text = page.extractText()
         if re.search(string, text):
             pages.append(i)
-            names += re.findall(r'[T|t]{1}able\s[\d+\w*][:|\.|\n](.+)\n', text)
+            names += re.findall(r'[T|t]{1}able\s[\d*\w*][:|\.|\n|-](.+)\n', text)
     return pages, names
 
 
-get_tables('Cities.csv',1,30)
+get_tables('Cities.csv',1,10)
 
 #pd.DataFrame(a).to_csv("file.csv", header=None, index=None)
  #Don't forget to add '.csv' at the end of the path
