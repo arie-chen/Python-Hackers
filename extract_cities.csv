@@ -886,3 +886,429 @@
 14,Location 86 - South Bay Service Sector,"680 Knox St., Suite 150, Torrance,","171,191",??,Arcadia,City,36
 15,Location 87 - Gateway Cities Service Sector,"7878 Telegraph Rd., Downey, 90240","10,000",??,Arcadia,City,36
 16,Loc 99 USG,"Union Station - Gateway, includes the MTA building, the east portal to Union Station,  and Patsouras Plaza","186,680",High,Arcadia,City,36
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Apple Valley,City,1
+1,,Annual kwh,No. of,kwh per,Annual kwh,No. of,kwh per,Apple Valley,City,1
+2,Sector,Consumed,Accounts,Account,Consumed,Accounts,Account,Apple Valley,City,1
+3,Residential,"195,613,488","23,316","8,390","215,490,704","25,882","8,325",Apple Valley,City,1
+4,Commercial,"79,780,787",301,"265,052","116,611,263","1,902","61,309",Apple Valley,City,1
+5,Industrial,"13,799,465","1,848","7,467","4,077,631",557,"7,320",Apple Valley,City,1
+6,Subtotal:,"93,580,252","2,149","43,545","120,688,894","2,459","49,080",Apple Valley,City,1
+7,Streetlight,"3,905,754",160,"24,411","5,210,015",200,"26,050",Apple Valley,City,1
+8,Water,,,,,,,Apple Valley,City,1
+9,Pumping,"16,783,859",96,"174,832","12,625,027",92,"137,228",Apple Valley,City,1
+10,Total:,"309,883,353","25,721",,"354,014,640","28,663",,Apple Valley,City,1
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Apple Valley,City,2
+1,,,,VMT,,,,Apple Valley,City,2
+2,,,,,,,VMT Pe,Apple Valley,City,2
+3,,Total VMT,Population,Per,Total VMT,Population,,Apple Valley,City,2
+4,,,,,,,Residen,Apple Valley,City,2
+5,Sector,,,Resident,,,,Apple Valley,City,2
+6,"Residents,",,,,,,,Apple Valley,City,2
+7,"Workers, and","776,790,000","63,754","12,184","861,349,070","70,173","12,275",Apple Valley,City,2
+8,Passers-by,,,,,,,Apple Valley,City,2
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2012,,Apple Valley,City,3
+1,,Tons,,Tons Per,Tons,,Tons Per,Apple Valley,City,3
+2,,,Population,,,Population,,Apple Valley,City,3
+3,Sector,Disposed,,Resident,Disposed,,Resident,Apple Valley,City,3
+4,Solid Waste,,,,,,,Apple Valley,City,3
+5,Disposed in,"75,619","63,754",1.19,"45,987","70,173",0.65,Apple Valley,City,3
+6,Landfills,,,,,,,Apple Valley,City,3
+,0,1,2,jurisdiction,location_type,table_number
+0,,2005,2013,Apple Valley,City,4
+1,Sector,Tons CO2e,Tons CO2e,Apple Valley,City,4
+2,Buildings and Facilities,801,"1,136",Apple Valley,City,4
+3,Streetlights and Traffic Signals,193,349,Apple Valley,City,4
+4,Wastewater Facilities,106,376,Apple Valley,City,4
+5,Employee Commute,347,281,Apple Valley,City,4
+6,Town Fleet,256,438,Apple Valley,City,4
+7,Police Fleet,364,600,Apple Valley,City,4
+8,Solid Waste,71,11,Apple Valley,City,4
+9,Total,"2,138","3,191",Apple Valley,City,4
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 kWh,2013 kWh,Apple Valley,City,5
+1,Buildings & Facilities Existing in 20051,"842,006","531,076",Apple Valley,City,5
+2,Buildings & Facilities Built After 20051,---,"1,465,827",Apple Valley,City,5
+3,Subtotal:,"842,006","1,996,903",Apple Valley,City,5
+4,Streetlights & Traffic Signals,"543,201","725,619",Apple Valley,City,5
+5,Pumping Facilities,"298,043","782,108",Apple Valley,City,5
+6,Total:,"1,683,250","3,504,630",Apple Valley,City,5
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 Tons of CO2e,2013 Tons of CO2e,Apple Valley,City,6
+1,Town Municipal Fleet,256,438,Apple Valley,City,6
+2,Sheriff’s Department Fleet,364,600,Apple Valley,City,6
+3,Town Employee Commute,347,281,Apple Valley,City,6
+4,Total:,967,"1,319",Apple Valley,City,6
+,0,1,jurisdiction,location_type,table_number
+0,ND-8.,Utilize the Collaborative for High Performance Schools (CHPS) best practices for,Apple Valley,City,7
+,0,1,jurisdiction,location_type,table_number
+0,,,Apple Valley,City,8
+1,ND-1.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
+2,,"Density Residential zone along Bear Valley Road, Highway 18, Dale Evans Parkway,",Apple Valley,City,8
+3,,"Apple Valley Road, Navajo Road, Central Road, and Kiowa Road.",Apple Valley,City,8
+4,,,Apple Valley,City,8
+5,ND-2.,"Develop a mixed-use project in the Mixed Use zone along Bear Valley Road,",Apple Valley,City,8
+6,,"Highway 18, Dale Evans Parkway, Apple Valley Road, Navajo Road, Central Road,",Apple Valley,City,8
+7,,and Kiowa Road.,Apple Valley,City,8
+8,,,Apple Valley,City,8
+9,ND-3.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
+10,,Density Residential zone along the High Desert Corridor.,Apple Valley,City,8
+11,,,Apple Valley,City,8
+12,ND-4.,Develop a mixed-use project in the Mixed Use zone along the High Desert Corridor.,Apple Valley,City,8
+13,,,Apple Valley,City,8
+14,ND-5.,"Develop a new infill or redevelopment project along Bear Valley Road, near its",Apple Valley,City,8
+15,,"intersections with Apple Valley Road, Kiowa Road and Navajo Road; or along",Apple Valley,City,8
+16,,Highway 18.,Apple Valley,City,8
+17,,,Apple Valley,City,8
+18,ND-6.,"For projects within the North Apple Valley Industrial Specific Plan, develop",Apple Valley,City,8
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Arcadia,City,1
+1,,Annual kwh,No. of,kwh per,Annual kwh,No. of,kwh per,Arcadia,City,1
+2,Sector,Consumed,Accounts,Account,Consumed,Accounts,Account,Arcadia,City,1
+3,Residential,"195,613,488","23,316","8,390","215,490,704","25,882","8,325",Arcadia,City,1
+4,Commercial,"79,780,787",301,"265,052","116,611,263","1,902","61,309",Arcadia,City,1
+5,Industrial,"13,799,465","1,848","7,467","4,077,631",557,"7,320",Arcadia,City,1
+6,Subtotal:,"93,580,252","2,149","43,545","120,688,894","2,459","49,080",Arcadia,City,1
+7,Streetlight,"3,905,754",160,"24,411","5,210,015",200,"26,050",Arcadia,City,1
+8,Water,,,,,,,Arcadia,City,1
+9,Pumping,"16,783,859",96,"174,832","12,625,027",92,"137,228",Arcadia,City,1
+10,Total:,"309,883,353","25,721",,"354,014,640","28,663",,Arcadia,City,1
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Arcadia,City,2
+1,,,,VMT,,,,Arcadia,City,2
+2,,,,,,,VMT Pe,Arcadia,City,2
+3,,Total VMT,Population,Per,Total VMT,Population,,Arcadia,City,2
+4,,,,,,,Residen,Arcadia,City,2
+5,Sector,,,Resident,,,,Arcadia,City,2
+6,"Residents,",,,,,,,Arcadia,City,2
+7,"Workers, and","776,790,000","63,754","12,184","861,349,070","70,173","12,275",Arcadia,City,2
+8,Passers-by,,,,,,,Arcadia,City,2
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2012,,Arcadia,City,3
+1,,Tons,,Tons Per,Tons,,Tons Per,Arcadia,City,3
+2,,,Population,,,Population,,Arcadia,City,3
+3,Sector,Disposed,,Resident,Disposed,,Resident,Arcadia,City,3
+4,Solid Waste,,,,,,,Arcadia,City,3
+5,Disposed in,"75,619","63,754",1.19,"45,987","70,173",0.65,Arcadia,City,3
+6,Landfills,,,,,,,Arcadia,City,3
+,0,1,2,jurisdiction,location_type,table_number
+0,,2005,2013,Arcadia,City,4
+1,Sector,Tons CO2e,Tons CO2e,Arcadia,City,4
+2,Buildings and Facilities,801,"1,136",Arcadia,City,4
+3,Streetlights and Traffic Signals,193,349,Arcadia,City,4
+4,Wastewater Facilities,106,376,Arcadia,City,4
+5,Employee Commute,347,281,Arcadia,City,4
+6,Town Fleet,256,438,Arcadia,City,4
+7,Police Fleet,364,600,Arcadia,City,4
+8,Solid Waste,71,11,Arcadia,City,4
+9,Total,"2,138","3,191",Arcadia,City,4
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 kWh,2013 kWh,Arcadia,City,5
+1,Buildings & Facilities Existing in 20051,"842,006","531,076",Arcadia,City,5
+2,Buildings & Facilities Built After 20051,---,"1,465,827",Arcadia,City,5
+3,Subtotal:,"842,006","1,996,903",Arcadia,City,5
+4,Streetlights & Traffic Signals,"543,201","725,619",Arcadia,City,5
+5,Pumping Facilities,"298,043","782,108",Arcadia,City,5
+6,Total:,"1,683,250","3,504,630",Arcadia,City,5
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 Tons of CO2e,2013 Tons of CO2e,Arcadia,City,6
+1,Town Municipal Fleet,256,438,Arcadia,City,6
+2,Sheriff’s Department Fleet,364,600,Arcadia,City,6
+3,Town Employee Commute,347,281,Arcadia,City,6
+4,Total:,967,"1,319",Arcadia,City,6
+,0,1,jurisdiction,location_type,table_number
+0,ND-8.,Utilize the Collaborative for High Performance Schools (CHPS) best practices for,Arcadia,City,7
+,0,1,jurisdiction,location_type,table_number
+0,,,Arcadia,City,8
+1,ND-1.,Develop a residential project at a density of at least 15 units per acre in the Medium,Arcadia,City,8
+2,,"Density Residential zone along Bear Valley Road, Highway 18, Dale Evans Parkway,",Arcadia,City,8
+3,,"Apple Valley Road, Navajo Road, Central Road, and Kiowa Road.",Arcadia,City,8
+4,,,Arcadia,City,8
+5,ND-2.,"Develop a mixed-use project in the Mixed Use zone along Bear Valley Road,",Arcadia,City,8
+6,,"Highway 18, Dale Evans Parkway, Apple Valley Road, Navajo Road, Central Road,",Arcadia,City,8
+7,,and Kiowa Road.,Arcadia,City,8
+8,,,Arcadia,City,8
+9,ND-3.,Develop a residential project at a density of at least 15 units per acre in the Medium,Arcadia,City,8
+10,,Density Residential zone along the High Desert Corridor.,Arcadia,City,8
+11,,,Arcadia,City,8
+12,ND-4.,Develop a mixed-use project in the Mixed Use zone along the High Desert Corridor.,Arcadia,City,8
+13,,,Arcadia,City,8
+14,ND-5.,"Develop a new infill or redevelopment project along Bear Valley Road, near its",Arcadia,City,8
+15,,"intersections with Apple Valley Road, Kiowa Road and Navajo Road; or along",Arcadia,City,8
+16,,Highway 18.,Arcadia,City,8
+17,,,Arcadia,City,8
+18,ND-6.,"For projects within the North Apple Valley Industrial Specific Plan, develop",Arcadia,City,8
+,0,1,2,jurisdiction,location_type,table_number
+0,,Cumulative,GHG,Arcadia,City,9
+1,,GHG,Reduction,Arcadia,City,9
+2,Strategy,Reductions,Cost,Arcadia,City,9
+3,,"(MT CO2e),",Effectiveness,Arcadia,City,9
+4,,2012–2020,($/MT)*,Arcadia,City,9
+5,Use Biomethane in CNG Buses (well-to-wheels impacts),"528,555**",$174-379,Arcadia,City,9
+6,On-board Railcar Braking Energy Storage,"96,411",$180,Arcadia,City,9
+7,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"76,826","$4,922",Arcadia,City,9
+8,Building Indoor Lighting Upgrades: LEDs,"71,621",-$78,Arcadia,City,9
+9,Building Indoor Lighting Upgrades: Efficient Metal Halides,"46,226",-$117,Arcadia,City,9
+10,Wayside Energy Storage Substation (WESS),"17,289","$2,774",Arcadia,City,9
+11,Retrofit Lighting in Red Line Tunnel,"5,783",-$73,Arcadia,City,9
+12,Expand Use of Renewable Energy,"4,467","$2,303",Arcadia,City,9
+13,Municipal Recycled Water For Bus Washing,941,-$570,Arcadia,City,9
+14,Extension of Bus Wash On-Site Reclamation,544,"-$2,378",Arcadia,City,9
+15,Low Water Sanitary Fixtures,424,-$907,Arcadia,City,9
+16,Mobile Air Conditioning Replacement,353,"$3,103",Arcadia,City,9
+,0,1,2,3,4,jurisdiction,location_type,table_number
+0,,Cumulative,,Reduction,Reduction in,Arcadia,City,10
+1,,GHG,,,GHG,Arcadia,City,10
+2,Package,Reductions,Net Cost,in Forecast,emissions,Arcadia,City,10
+3,,(MT CO2e),(2012-2020)*,GHG emissions,per boarding,Arcadia,City,10
+4,,2012-2020,,in 2020,from 2010 to 2020,Arcadia,City,10
+5,1. Short-Term Cost Saving Strategies,"66,616","-$8,121,116",0.6%,5.0%,Arcadia,City,10
+6,2. Short-Term and Mid-Term Strategies,"167,494","$67,443,140",4.3%,8.6%,Arcadia,City,10
+7,3. All Strategies with Tank-to-Wheels Benefits,"244,673","$446,719,774",7.4%,11.5%,Arcadia,City,10
+8,4. All Strategies with Well-to-Wheels Benefits,"696,402","$206,873,542",28.9%,32.1%,Arcadia,City,10
+,0,1,2,jurisdiction,location_type,table_number
+0,,,CO2e reductions (MT),Arcadia,City,11
+1,Strategy,,,Arcadia,City,11
+2,,2014,"2020 Cumulative, 2012–2020",Arcadia,City,11
+3,Use Biomethane in CNG Buses (well-to-wheels impacts),"26,291","125,744 528,555",Arcadia,City,11
+4,On-board Railcar Braking Energy Storage,"6,288","18,616 96,411",Arcadia,City,11
+5,Gasoline-Electric Hybrid Buses (tank-to-wheels impacts),"5,066","15,479 76,826",Arcadia,City,11
+6,Building Indoor Lighting Upgrades: LEDs,"2,890","2,890 71,621",Arcadia,City,11
+7,Building Indoor Lighting Upgrades: Efficient Metal Halides,"1,722","1,722 46,226",Arcadia,City,11
+8,Wayside Energy Storage Substation (WESS),836,"3,745 17,289",Arcadia,City,11
+9,Retrofit Lighting in Red Line Tunnel,699,"529 5,783",Arcadia,City,11
+10,Expand Use of Renewable Energy,536,"416 4,467",Arcadia,City,11
+11,Municipal Recycled Water For Bus Washing,105,105 941,Arcadia,City,11
+12,Extension of Bus Wash On-Site Reclamation,60,60 544,Arcadia,City,11
+13,Low Water Sanitary Fixtures,47,47 424,Arcadia,City,11
+14,Mobile Air Conditioning Replacement,0,101 353,Arcadia,City,11
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,Strategy,Lifecycle Costs*,,Lifecycle Cost Unit,Investment Lifetime,,Payback Period,Arcadia,City,12
+1,On-board Railcar Braking Energy Storage,"-$78,619",,Per railcar,20 years,,7 years,Arcadia,City,12
+2,Mobile Air Conditioning Replacement,$546,,Per bus,13.5 years,,n/a,Arcadia,City,12
+3,Use Biomethane in CNG Buses: Low Cost Scenario,"$286,079",,Per bus,13.5 years,,n/a,Arcadia,City,12
+4,Gasoline-Electric Hybrid or CNG Hybrid Buses,"$355,688",,Per bus,13.5 years,,n/a,Arcadia,City,12
+5,Use Biomethane in CNG Buses: High Cost Scenario,"$572,159",,Per bus,13.5 years,,n/a,Arcadia,City,12
+6,Wayside Energy Storage Substation (WESS),"$1,528,155",,Per substation,20 years,,n/a,Arcadia,City,12
+7,Expand Use of Renewable Energy,"$8,886,753",,Per 1.3 MWh project,30 years,,n/a,Arcadia,City,12
+,0,1,2,3,4,jurisdiction,location_type,table_number
+0,,Short-Term,Short-Term,All Strategies,All Strategies,Arcadia,City,13
+1,Strategy,Cost Saving,and Mid-Term,with Tank-to-,with Well-to-,Arcadia,City,13
+2,,Strategies,Strategies,Wheels Benefits,Wheels Benefits*,Arcadia,City,13
+3,Building Indoor Lighting Upgrades,X,X,X,X,Arcadia,City,13
+4,Municipal Recycled Water for Bus Washing,X,X,X,X,Arcadia,City,13
+5,Extension of Bus Wash On-Site Reclamation,X,X,X,X,Arcadia,City,13
+6,Low Water Sanitary Fixtures,X,X,X,X,Arcadia,City,13
+7,Retrofit Lighting in Red Line Tunnel,X,X,X,X,Arcadia,City,13
+8,On-board Railcar Braking Energy Storage,,X,X,X,Arcadia,City,13
+9,Expand Use of Renewable Energy,,X,X,X,Arcadia,City,13
+10,Wayside Energy Storage Substation (WESS),,X,X,X,Arcadia,City,13
+11,Mobile Air Conditioning Replacement,,,X,X,Arcadia,City,13
+12,Gasoline-Electric Hybrid Buses,,,X,,Arcadia,City,13
+13,Biomethane,,,,X,Arcadia,City,13
+,0,1,2,jurisdiction,location_type,table_number
+0,Service or Asset Type,Rationale for “Criticality”,What Does This Include or Exclude?,Arcadia,City,14
+1,Bus,,,Arcadia,City,14
+2,Bus Fleet,Over 1 million weekday boardings; FY10 budget,Includes: Existing bus fleet; Expected,Arcadia,City,14
+3,,is over $300 million; 2009 LRTP* projects costs,capital costs for new buses,Arcadia,City,14
+4,,to be over $10 billion for the 2005-2040 period,Excludes: Roads; Stop locations; Fleet has,Arcadia,City,14
+5,,,not disaggregated by routes or bus-type,Arcadia,City,14
+6,,,"(e.g., length/size)",Arcadia,City,14
+7,Bus Rapid Transit Service,"Over 200,000 weekday passenger miles",Includes: Right-of-way,Arcadia,City,14
+8,(Silver and Orange Lines),(representing over 6% of all bus passenger,,Arcadia,City,14
+9,,miles),,Arcadia,City,14
+10,Rail,,,Arcadia,City,14
+11,Heavy Rail (Red and Purple,"Over 140,000 daily boardings; Most frequented","Includes: Location of track, stations, power",Arcadia,City,14
+12,Lines),subway lines; Service to much of Downtown Los,supply and distribution,Arcadia,City,14
+13,,Angeles,,Arcadia,City,14
+14,"Light Rail (Blue, Green, and",Broad geographic range across the county;,"Includes: Location of track, stations, power",Arcadia,City,14
+15,Gold Lines),"approximately 150,000 daily boardings",supply and distribution,Arcadia,City,14
+16,Rail Rehabilitation,FY10 budget is over $30 million; LRTP lists costs,Includes: Upkeep costs for maintaining rails,Arcadia,City,14
+17,,to be over $9 billion for the 2005-2040 period,,Arcadia,City,14
+18,Rail Fleet,FY10 and FY11 budgets are over $50 million,Includes: Existing rail car fleet; Expected,Arcadia,City,14
+19,,,capital costs for new rail cars,Arcadia,City,14
+,0,1,2,3,jurisdiction,location_type,table_number
+0,Facilities—,Estimated Rail Daily Connections to,Joint,Criticality,Arcadia,City,15
+1,Passenger Stations,Weekday Ridership* Other Lines**,Development,Index,Arcadia,City,15
+2,7th /Metro Center,,,,Arcadia,City,15
+3,"(Red, Purple, Blue, Silver)","39,000 50",Completed,7,Arcadia,City,15
+4,Union Station,,,,Arcadia,City,15
+5,"(Red, Purple, Gold)","30,000 36+Parking",Completed,7,Arcadia,City,15
+6,Imperial/Wilmington,,,,Arcadia,City,15
+7,"(Blue, Green)","18,000 10+Parking",,6,Arcadia,City,15
+8,North Hollywood,,,,Arcadia,City,15
+9,"(Red, Orange)","16,000 12+Parking",Under negotiation,7,Arcadia,City,15
+10,Wilshire/Vermont,,,,Arcadia,City,15
+11,"(Red, Purple)","13,000 5",Completed,6,Arcadia,City,15
+12,Pershing Square,,,,Arcadia,City,15
+13,"(Red, Purple, Silver)","11,000 50",,6,Arcadia,City,15
+14,Westlake,,,,Arcadia,City,15
+15,"(Red, Purple)","9,000 15",Under construction,7,Arcadia,City,15
+16,Hollywood/Highland,,,,Arcadia,City,15
+17,(Red),"8,000 2+Parking",Completed,6,Arcadia,City,15
+18,Universal City,,,,Arcadia,City,15
+19,(Red),"8,000 2 + Parking",Under negotiation,6,Arcadia,City,15
+20,Civic Center,,,,Arcadia,City,15
+21,"(Red, Purple, Silver)","5,000 50",,6,Arcadia,City,15
+22,Hollywood/Vine,,,,Arcadia,City,15
+23,(Red),"5,000 2+Parking",Completed,6,Arcadia,City,15
+24,Facilities—,,,,Arcadia,City,15
+25,Non-Passenger Properties,Rationale,,,Arcadia,City,15
+26,Division 13—,Main bus maintenance facility; Co-located/adjacent to Location 30 (Metro Support,,,Arcadia,City,15
+27,Bus Maintenance Facility,"Services Center), Location 99, Location 33 (OCI), Location 35 (Facilities Maintenance), Location 88 (Westside-Central Service Sector",,,Arcadia,City,15
+28,Location 61—,,,,Arcadia,City,15
+29,Red Line Maintenance of Way,Important rail maintenance location,,,Arcadia,City,15
+30,Location 66—,,,,Arcadia,City,15
+31,Blue Line Maintenance of Way,Important rail maintenance location,,,Arcadia,City,15
+32,Location 99—,,,,Arcadia,City,15
+33,Gateway Building,"Metro Headquarters, Adjacent to Union Stations",,,Arcadia,City,15
+,0,1,2,jurisdiction,location_type,table_number
+0,Ridership,Connectivity,Score,Arcadia,City,16
+1,"Greater than or equal to 5,000 daily riders",Connected to 10 or more other transit lines,3,Arcadia,City,16
+2,"1,000-4,999 daily riders","Connected to 5-9 lines, or Has dedicated parking spaces/park-and-ride lot",2,Arcadia,City,16
+3,"Less than 1,000 daily riders",Less than 5 connections and no parking,1,Arcadia,City,16
+,0,1,2,3,4,jurisdiction,location_type,table_number
+0,,Exposed to,,,,Arcadia,City,17
+1,Critical Asset,Extreme,Sensitivities Adaptive Capacity,,Vulnerable?,Arcadia,City,17
+2,,Heat?,,,,Arcadia,City,17
+3,,,Equipment failure,,,Arcadia,City,17
+4,Bus Fleet,Yes,and higher frequency Moderate: Bus fleet is,,,Arcadia,City,17
+5,,,of breakdown  relatively large,,Yes,Arcadia,City,17
+6,,,,,Possible:,Arcadia,City,17
+7,,,,,(depending on the,Arcadia,City,17
+8,Bus Rapid Transit right-of-way,,Pavement Moderate: Pavement likely,,,Arcadia,City,17
+9,(Silver and Orange Lines),Yes,degradation can be accelerated to be replaced relatively frequently,,expected frequency of pavement,Arcadia,City,17
+10,,,,,replacement),Arcadia,City,17
+11,,,Some station Moderate: Most systems,,Possible:,Arcadia,City,17
+12,Heavy Rail,Minimal,"systems (electrical, can be inspected (in",,(depending on,Arcadia,City,17
+13,(Red and Purple),(underground),air conditioning) may anticipation of heat events),,frequencies of,Arcadia,City,17
+14,,,not function optimally  or repaired/replaced,,occurrence and stations affected),Arcadia,City,17
+15,,,Rail buckling and,,,Arcadia,City,17
+16,,,higher risk of Moderate: Operations can,,,Arcadia,City,17
+17,"Light Rail  (Blue, Green, and Gold)",Yes,"equipment (e.g., electrical systems, be modified (e.g., speed reductions), but damage to",,Yes,Arcadia,City,17
+18,,,air conditioning) rails can still occur,,,Arcadia,City,17
+19,,,failure,,,Arcadia,City,17
+20,,,Construction Moderate: Construction,,,Arcadia,City,17
+21,,,speed16 and worker schedules can be,,,Arcadia,City,17
+22,Measure R construction work,Yes,health can be modified; exposure could,,Yes,Arcadia,City,17
+23,,,compromised by be lowered depending on,,,Arcadia,City,17
+24,,,extreme heat mode choices and locations,,,Arcadia,City,17
+25,Measure R planned assets,Possible,"Above sensitivities and adaptive capacity apply, depending on mode choices and locations",,Possible,Arcadia,City,17
+,0,1,2,3,4,5,6,7,8,9,10,jurisdiction,location_type,table_number
+0,,,,,,,,Connectivity,,,,Arcadia,City,18
+1,,,,,Service Volume,,,,,,,Arcadia,City,18
+2,,,,,,,,Transit,,,,Arcadia,City,18
+3,,,,Sum of,,,,,,,,Arcadia,City,18
+4,Asset Type,Service Line,Asset Name,Boardings,,Real Estate,Parking (#,,,,Criticality,Arcadia,City,18
+5,,,,and Alightings,Qualitative Rating,,"Spaces, not including",Connectivity Rating,Qualitative Rating,,,Arcadia,City,18
+6,,,,(Daily,,,street parking),,,,,Arcadia,City,18
+7,,,,Weekday),,,,,,,,Arcadia,City,18
+8,,,,,,,,,,,Yes -,Arcadia,City,18
+9,,,,,,,,,,,connected,Arcadia,City,18
+10,Unknown,Division 13,,,,,,,,,to,Arcadia,City,18
+11,,,,,,,,,,,Gateway,Arcadia,City,18
+12,,,,,,,,,,,Building,Arcadia,City,18
+13,Unknown,Division 4 Non Revenue Vehicle,,,,,,,,,No,Arcadia,City,18
+14,Unknown,Division 16,,,,,,,,,??,Arcadia,City,18
+,0,1,2,3,jurisdiction,location_type,table_number
+0,,Address,Size (sq. ft.),Priority,Arcadia,City,19
+1,Rail Related,,,,Arcadia,City,19
+2,Location 61 - Red Line Maintenance Of Way,"284 S. Santa Fe Avenue, L.A. (Maintenance of Way Shops)",,High,Arcadia,City,19
+3,Location 66 - Blue Line Maintenance Of Way,,"81,270",High,Arcadia,City,19
+,0,1,2,3,jurisdiction,location_type,table_number
+0,Loc 24,"14557 Sherman Way, Van Nuys (old Div. 8)",,??,Arcadia,City,20
+1,Loc 32,"425 S. Main St., L.A. (SCRTD Headquarters Bldg., 4th & Main)",520,??,Arcadia,City,20
+2,Location 34 - Vernon Yards,"4462 Pacific Blvd., Vernon (Vernon Yards, LARy)","22,652",??,Arcadia,City,20
+3,Loc 51,"1900 S. Figueroa St., L.A. (Transit Police Headquarters)",,??,Arcadia,City,20
+4,Loc 55,"316 W. 3rd St., L.A. (Miracle on Broadway Transit Police substation)",,??,Arcadia,City,20
+5,Loc 56,(Open),,??,Arcadia,City,20
+6,Loc 57,(Open),,??,Arcadia,City,20
+7,Loc 58,(Open),,??,Arcadia,City,20
+8,Loc 59,(Open),,??,Arcadia,City,20
+9,Location 80 - Materials Warehouse,"628 Aliso St., LA, 90012","11,678",??,Arcadia,City,20
+10,Location 81 - Surplus Office Space (6th Flr.),"818 W. 7th St., LA, 90017","9,747",??,Arcadia,City,20
+11,"Location 82 - Office Space (6 flrs. 23,24,27,28,29 & 37)","707 Wilshire Blvd., LA, 90017","43,822",??,Arcadia,City,20
+12,Location 83 - Office/Warehouse Bldg.,"3730 Monterey Rd., El Monte, 91731","49,005",??,Arcadia,City,20
+13,Location 84 - San Fernando Valley Service Sector,"9760 Topanga Canyon Bl., Chatsworth, 91311","365,469",??,Arcadia,City,20
+14,Location 86 - South Bay Service Sector,"680 Knox St., Suite 150, Torrance,","171,191",??,Arcadia,City,20
+15,Location 87 - Gateway Cities Service Sector,"7878 Telegraph Rd., Downey, 90240","10,000",??,Arcadia,City,20
+16,Loc 99 USG,"Union Station - Gateway, includes the MTA building, the east portal to Union Station,  and Patsouras Plaza","186,680",High,Arcadia,City,20
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Apple Valley,City,1
+1,,Annual kwh,No. of,kwh per,Annual kwh,No. of,kwh per,Apple Valley,City,1
+2,Sector,Consumed,Accounts,Account,Consumed,Accounts,Account,Apple Valley,City,1
+3,Residential,"195,613,488","23,316","8,390","215,490,704","25,882","8,325",Apple Valley,City,1
+4,Commercial,"79,780,787",301,"265,052","116,611,263","1,902","61,309",Apple Valley,City,1
+5,Industrial,"13,799,465","1,848","7,467","4,077,631",557,"7,320",Apple Valley,City,1
+6,Subtotal:,"93,580,252","2,149","43,545","120,688,894","2,459","49,080",Apple Valley,City,1
+7,Streetlight,"3,905,754",160,"24,411","5,210,015",200,"26,050",Apple Valley,City,1
+8,Water,,,,,,,Apple Valley,City,1
+9,Pumping,"16,783,859",96,"174,832","12,625,027",92,"137,228",Apple Valley,City,1
+10,Total:,"309,883,353","25,721",,"354,014,640","28,663",,Apple Valley,City,1
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2013,,Apple Valley,City,2
+1,,,,VMT,,,,Apple Valley,City,2
+2,,,,,,,VMT Pe,Apple Valley,City,2
+3,,Total VMT,Population,Per,Total VMT,Population,,Apple Valley,City,2
+4,,,,,,,Residen,Apple Valley,City,2
+5,Sector,,,Resident,,,,Apple Valley,City,2
+6,"Residents,",,,,,,,Apple Valley,City,2
+7,"Workers, and","776,790,000","63,754","12,184","861,349,070","70,173","12,275",Apple Valley,City,2
+8,Passers-by,,,,,,,Apple Valley,City,2
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
+0,,,2005,,,2012,,Apple Valley,City,3
+1,,Tons,,Tons Per,Tons,,Tons Per,Apple Valley,City,3
+2,,,Population,,,Population,,Apple Valley,City,3
+3,Sector,Disposed,,Resident,Disposed,,Resident,Apple Valley,City,3
+4,Solid Waste,,,,,,,Apple Valley,City,3
+5,Disposed in,"75,619","63,754",1.19,"45,987","70,173",0.65,Apple Valley,City,3
+6,Landfills,,,,,,,Apple Valley,City,3
+,0,1,2,jurisdiction,location_type,table_number
+0,,2005,2013,Apple Valley,City,4
+1,Sector,Tons CO2e,Tons CO2e,Apple Valley,City,4
+2,Buildings and Facilities,801,"1,136",Apple Valley,City,4
+3,Streetlights and Traffic Signals,193,349,Apple Valley,City,4
+4,Wastewater Facilities,106,376,Apple Valley,City,4
+5,Employee Commute,347,281,Apple Valley,City,4
+6,Town Fleet,256,438,Apple Valley,City,4
+7,Police Fleet,364,600,Apple Valley,City,4
+8,Solid Waste,71,11,Apple Valley,City,4
+9,Total,"2,138","3,191",Apple Valley,City,4
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 kWh,2013 kWh,Apple Valley,City,5
+1,Buildings & Facilities Existing in 20051,"842,006","531,076",Apple Valley,City,5
+2,Buildings & Facilities Built After 20051,---,"1,465,827",Apple Valley,City,5
+3,Subtotal:,"842,006","1,996,903",Apple Valley,City,5
+4,Streetlights & Traffic Signals,"543,201","725,619",Apple Valley,City,5
+5,Pumping Facilities,"298,043","782,108",Apple Valley,City,5
+6,Total:,"1,683,250","3,504,630",Apple Valley,City,5
+,0,1,2,jurisdiction,location_type,table_number
+0,Sector,2005 Tons of CO2e,2013 Tons of CO2e,Apple Valley,City,6
+1,Town Municipal Fleet,256,438,Apple Valley,City,6
+2,Sheriff’s Department Fleet,364,600,Apple Valley,City,6
+3,Town Employee Commute,347,281,Apple Valley,City,6
+4,Total:,967,"1,319",Apple Valley,City,6
+,0,1,jurisdiction,location_type,table_number
+0,ND-8.,Utilize the Collaborative for High Performance Schools (CHPS) best practices for,Apple Valley,City,7
+,0,1,jurisdiction,location_type,table_number
+0,,,Apple Valley,City,8
+1,ND-1.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
+2,,"Density Residential zone along Bear Valley Road, Highway 18, Dale Evans Parkway,",Apple Valley,City,8
+3,,"Apple Valley Road, Navajo Road, Central Road, and Kiowa Road.",Apple Valley,City,8
+4,,,Apple Valley,City,8
+5,ND-2.,"Develop a mixed-use project in the Mixed Use zone along Bear Valley Road,",Apple Valley,City,8
+6,,"Highway 18, Dale Evans Parkway, Apple Valley Road, Navajo Road, Central Road,",Apple Valley,City,8
+7,,and Kiowa Road.,Apple Valley,City,8
+8,,,Apple Valley,City,8
+9,ND-3.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
+10,,Density Residential zone along the High Desert Corridor.,Apple Valley,City,8
+11,,,Apple Valley,City,8
+12,ND-4.,Develop a mixed-use project in the Mixed Use zone along the High Desert Corridor.,Apple Valley,City,8
+13,,,Apple Valley,City,8
+14,ND-5.,"Develop a new infill or redevelopment project along Bear Valley Road, near its",Apple Valley,City,8
+15,,"intersections with Apple Valley Road, Kiowa Road and Navajo Road; or along",Apple Valley,City,8
+16,,Highway 18.,Apple Valley,City,8
+17,,,Apple Valley,City,8
+18,ND-6.,"For projects within the North Apple Valley Industrial Specific Plan, develop",Apple Valley,City,8
