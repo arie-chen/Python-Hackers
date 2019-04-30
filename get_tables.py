@@ -27,39 +27,20 @@ def clean_phrase(phrase):
 def get_tables(df, start=0, end=-1, col=15):
     tables = []
 
-    for counter, element in enumerate(df.iloc[start:end, col], start):
-        if type(element) is str and ".pdf" in element:
-            doc_name = clean_phrase(df.columns[col] + "_" + df.iloc[counter, 1])
+    for row, element in enumerate(df.iloc[start:end, col], start):
+        if is_valid_pdf(element):
+            doc_name = clean_phrase(df.columns[col] + "_" + df.iloc[row, 1])
             pdf_name = doc_name + ".pdf"
-            csv_name = doc_name + ".csv"
             download(element, pdf_name)
-            try :
-                mypdf = PdfFileReader(open( pdf_name, 'rb'))
-                #tabula.convert_into(pdf_name, csv_name, multiple_tables=True, pages='all')
-            except:
-                print(pdf_name,' is invalid pdf')
-                break
-            pages, names = lookup_table(pdf_name)
-            print(pages, names)
-            temp = tabula.read_pdf(pdf_name, multiple_tables=True, pages=pages)
-            x,y=1,0
-            for t in temp:
-                #t.columns = t.iloc[0]
-                #t.drop(t.index[0], inplace=True)
-                #t['jurisdiction'] = "hello"#df.iloc[counter, 1]
-                #t['location_type'] = df.iloc[counter, 2]
-                #t['table_number'] = x
-                #t['table_name'] = names[y]
-                x += 1
-                y += 1
-            #return tables
+            temp = get_tables_from_pdf(df, pdf_name, row)
+            if not temp:
+                pass
             tables += temp
-
-            #os.remove(pdf_name)
+            os.remove(pdf_name)
     return tables
 
 def lookup_table(pdf_doc):
-    string = r'\n[T|t]{1}able\s[\d+\w+][:|\.|\s]\n*(.+)\n'
+    string = r'\n[T|t]{1}able\s(?:ES[^\s]*|[\d+\w+])[:|\.|\s]\n*(.+)\n'
     doc = PdfFileReader(open(pdf_doc, 'rb'))
     pages = []
     names = []
@@ -74,3 +55,22 @@ def lookup_table(pdf_doc):
             pages.append(i + 1)
             names += re.findall(string, text["content"])
     return pages, names
+
+def get_tables_from_pdf(df, pdf_name, row):
+    pages, names = lookup_table(pdf_name)
+    tables = tabula.read_pdf(pdf_name, multiple_tables=True, pages=pages)
+    x = 1
+    for t in tables:
+        t['jurisdiction'] = df.iloc[row, 1]
+        t['location_type'] = df.iloc[row, 2]
+        t['table_number'] = x
+        x += 1
+    print("hello")
+    return tables
+    
+def is_valid_pdf(link):
+    if type(link) is not str:
+        return False
+    if '200' in str(get(link)) and 'application/pdf' in str(get(link).headers['Content-Type']):
+        return True
+    return False
