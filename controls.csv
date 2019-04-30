@@ -1,3 +1,4 @@
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
 0,,,2005,,,2013,,Apple Valley,City,1
 1,,Annual kwh,No. of,kwh per,Annual kwh,No. of,kwh per,Apple Valley,City,1
 2,Sector,Consumed,Accounts,Account,Consumed,Accounts,Account,Apple Valley,City,1
@@ -9,6 +10,7 @@
 8,Water,,,,,,,Apple Valley,City,1
 9,Pumping,"16,783,859",96,"174,832","12,625,027",92,"137,228",Apple Valley,City,1
 10,Total:,"309,883,353","25,721",,"354,014,640","28,663",,Apple Valley,City,1
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
 0,,,2005,,,2013,,Apple Valley,City,2
 1,,,,VMT,,,,Apple Valley,City,2
 2,,,,,,,VMT Pe,Apple Valley,City,2
@@ -18,6 +20,7 @@
 6,"Residents,",,,,,,,Apple Valley,City,2
 7,"Workers, and","776,790,000","63,754","12,184","861,349,070","70,173","12,275",Apple Valley,City,2
 8,Passers-by,,,,,,,Apple Valley,City,2
+,0,1,2,3,4,5,6,jurisdiction,location_type,table_number
 0,,,2005,,,2012,,Apple Valley,City,3
 1,,Tons,,Tons Per,Tons,,Tons Per,Apple Valley,City,3
 2,,,Population,,,Population,,Apple Valley,City,3
@@ -25,6 +28,7 @@
 4,Solid Waste,,,,,,,Apple Valley,City,3
 5,Disposed in,"75,619","63,754",1.19,"45,987","70,173",0.65,Apple Valley,City,3
 6,Landfills,,,,,,,Apple Valley,City,3
+,0,1,2,jurisdiction,location_type,table_number
 0,,2005,2013,Apple Valley,City,4
 1,Sector,Tons CO2e,Tons CO2e,Apple Valley,City,4
 2,Buildings and Facilities,801,"1,136",Apple Valley,City,4
@@ -35,6 +39,7 @@
 7,Police Fleet,364,600,Apple Valley,City,4
 8,Solid Waste,71,11,Apple Valley,City,4
 9,Total,"2,138","3,191",Apple Valley,City,4
+,0,1,2,jurisdiction,location_type,table_number
 0,Sector,2005 kWh,2013 kWh,Apple Valley,City,5
 1,Buildings & Facilities Existing in 20051,"842,006","531,076",Apple Valley,City,5
 2,Buildings & Facilities Built After 20051,---,"1,465,827",Apple Valley,City,5
@@ -42,81 +47,15 @@
 4,Streetlights & Traffic Signals,"543,201","725,619",Apple Valley,City,5
 5,Pumping Facilities,"298,043","782,108",Apple Valley,City,5
 6,Total:,"1,683,250","3,504,630",Apple Valley,City,5
+,0,1,2,jurisdiction,location_type,table_number
 0,Sector,2005 Tons of CO2e,2013 Tons of CO2e,Apple Valley,City,6
 1,Town Municipal Fleet,256,438,Apple Valley,City,6
 2,Sheriff’s Department Fleet,364,600,Apple Valley,City,6
 3,Town Employee Commute,347,281,Apple Valley,City,6
 4,Total:,967,"1,319",Apple Valley,City,6
+,0,1,jurisdiction,location_type,table_number
 0,ND-8.,Utilize the Collaborative for High Performance Schools (CHPS) best practices for,Apple Valley,City,7
-0,,,Apple Valley,City,8
-1,ND-1.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
-2,,"Density Residential zone along Bear Valley Road, Highway 18, Dale Evans Parkway,",Apple Valley,City,8
-3,,"Apple Valley Road, Navajo Road, Central Road, and Kiowa Road.",Apple Valley,City,8
-4,,,Apple Valley,City,8
-5,ND-2.,"Develop a mixed-use project in the Mixed Use zone along Bear Valley Road,",Apple Valley,City,8
-6,,"Highway 18, Dale Evans Parkway, Apple Valley Road, Navajo Road, Central Road,",Apple Valley,City,8
-7,,and Kiowa Road.,Apple Valley,City,8
-8,,,Apple Valley,City,8
-9,ND-3.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
-10,,Density Residential zone along the High Desert Corridor.,Apple Valley,City,8
-11,,,Apple Valley,City,8
-12,ND-4.,Develop a mixed-use project in the Mixed Use zone along the High Desert Corridor.,Apple Valley,City,8
-13,,,Apple Valley,City,8
-14,ND-5.,"Develop a new infill or redevelopment project along Bear Valley Road, near its",Apple Valley,City,8
-15,,"intersections with Apple Valley Road, Kiowa Road and Navajo Road; or along",Apple Valley,City,8
-16,,Highway 18.,Apple Valley,City,8
-17,,,Apple Valley,City,8
-18,ND-6.,"For projects within the North Apple Valley Industrial Specific Plan, develop",Apple Valley,City,8
-0,,,2005,,,2013,,Apple Valley,City,1
-1,,Annual kwh,No. of,kwh per,Annual kwh,No. of,kwh per,Apple Valley,City,1
-2,Sector,Consumed,Accounts,Account,Consumed,Accounts,Account,Apple Valley,City,1
-3,Residential,"195,613,488","23,316","8,390","215,490,704","25,882","8,325",Apple Valley,City,1
-4,Commercial,"79,780,787",301,"265,052","116,611,263","1,902","61,309",Apple Valley,City,1
-5,Industrial,"13,799,465","1,848","7,467","4,077,631",557,"7,320",Apple Valley,City,1
-6,Subtotal:,"93,580,252","2,149","43,545","120,688,894","2,459","49,080",Apple Valley,City,1
-7,Streetlight,"3,905,754",160,"24,411","5,210,015",200,"26,050",Apple Valley,City,1
-8,Water,,,,,,,Apple Valley,City,1
-9,Pumping,"16,783,859",96,"174,832","12,625,027",92,"137,228",Apple Valley,City,1
-10,Total:,"309,883,353","25,721",,"354,014,640","28,663",,Apple Valley,City,1
-0,,,2005,,,2013,,Apple Valley,City,2
-1,,,,VMT,,,,Apple Valley,City,2
-2,,,,,,,VMT Pe,Apple Valley,City,2
-3,,Total VMT,Population,Per,Total VMT,Population,,Apple Valley,City,2
-4,,,,,,,Residen,Apple Valley,City,2
-5,Sector,,,Resident,,,,Apple Valley,City,2
-6,"Residents,",,,,,,,Apple Valley,City,2
-7,"Workers, and","776,790,000","63,754","12,184","861,349,070","70,173","12,275",Apple Valley,City,2
-8,Passers-by,,,,,,,Apple Valley,City,2
-0,,,2005,,,2012,,Apple Valley,City,3
-1,,Tons,,Tons Per,Tons,,Tons Per,Apple Valley,City,3
-2,,,Population,,,Population,,Apple Valley,City,3
-3,Sector,Disposed,,Resident,Disposed,,Resident,Apple Valley,City,3
-4,Solid Waste,,,,,,,Apple Valley,City,3
-5,Disposed in,"75,619","63,754",1.19,"45,987","70,173",0.65,Apple Valley,City,3
-6,Landfills,,,,,,,Apple Valley,City,3
-0,,2005,2013,Apple Valley,City,4
-1,Sector,Tons CO2e,Tons CO2e,Apple Valley,City,4
-2,Buildings and Facilities,801,"1,136",Apple Valley,City,4
-3,Streetlights and Traffic Signals,193,349,Apple Valley,City,4
-4,Wastewater Facilities,106,376,Apple Valley,City,4
-5,Employee Commute,347,281,Apple Valley,City,4
-6,Town Fleet,256,438,Apple Valley,City,4
-7,Police Fleet,364,600,Apple Valley,City,4
-8,Solid Waste,71,11,Apple Valley,City,4
-9,Total,"2,138","3,191",Apple Valley,City,4
-0,Sector,2005 kWh,2013 kWh,Apple Valley,City,5
-1,Buildings & Facilities Existing in 20051,"842,006","531,076",Apple Valley,City,5
-2,Buildings & Facilities Built After 20051,---,"1,465,827",Apple Valley,City,5
-3,Subtotal:,"842,006","1,996,903",Apple Valley,City,5
-4,Streetlights & Traffic Signals,"543,201","725,619",Apple Valley,City,5
-5,Pumping Facilities,"298,043","782,108",Apple Valley,City,5
-6,Total:,"1,683,250","3,504,630",Apple Valley,City,5
-0,Sector,2005 Tons of CO2e,2013 Tons of CO2e,Apple Valley,City,6
-1,Town Municipal Fleet,256,438,Apple Valley,City,6
-2,Sheriff’s Department Fleet,364,600,Apple Valley,City,6
-3,Town Employee Commute,347,281,Apple Valley,City,6
-4,Total:,967,"1,319",Apple Valley,City,6
-0,ND-8.,Utilize the Collaborative for High Performance Schools (CHPS) best practices for,Apple Valley,City,7
+,0,1,jurisdiction,location_type,table_number
 0,,,Apple Valley,City,8
 1,ND-1.,Develop a residential project at a density of at least 15 units per acre in the Medium,Apple Valley,City,8
 2,,"Density Residential zone along Bear Valley Road, Highway 18, Dale Evans Parkway,",Apple Valley,City,8

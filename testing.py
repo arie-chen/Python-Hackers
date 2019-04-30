@@ -53,7 +53,7 @@ def get_tables(csv,start=0, end=-1):
                                 t.to_csv(f, header=False)
                         except:
                             continue
-                    tables=[]
+                #tables=[]
                     os.remove(str(row[1])+'.pdf')
 
 #tables = []
@@ -87,7 +87,7 @@ def lookup_table(pdf_doc):
     return pages, names
 
 
-get_tables('Cities.csv',1,10)
+get_tables('Cities.csv',11,15)
 
 #pd.DataFrame(a).to_csv("file.csv", header=None, index=None)
  #Don't forget to add '.csv' at the end of the path

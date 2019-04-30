@@ -1,76 +1,71 @@
-from PyPDF2 import PdfFileWriter, PdfFileReader
+import PyPDF2
 import csv
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
+#import camelot
 import tabula
-from requests import get
+import requests
 import os
 import re
-from tika import parser
 
 
-## https://stackoverflow.com/questions/7243750/download-file-from-web-in-python-3
 def download(url, file_name):
     # open in binary mode
     with open(file_name, "wb") as file:
         # get request
-        response = get(url)
+        response = requests.get(url)
         # write to file
         file.write(response.content)
-
-
-def clean_phrase(phrase):
-    return phrase.replace(" ", "_").lower()
-
 #iterate over df and access links, download pdfs, convert tables to csv
-def get_tables(df, start=0, end=-1, col=15):
+def get_tables(csv,start=0, end=-1):
+    df = pd.read_csv(csv)
     tables = []
-
-    for counter, element in enumerate(df.iloc[start:end, col], start):
-        if type(element) is str and ".pdf" in element:
-            doc_name = clean_phrase(df.columns[col] + "_" + df.iloc[counter, 1])
-            pdf_name = doc_name + ".pdf"
-            csv_name = doc_name + ".csv"
-            download(element, pdf_name)
-            try :
-                mypdf = PdfFileReader(open( pdf_name, 'rb'))
-                #tabula.convert_into(pdf_name, csv_name, multiple_tables=True, pages='all')
-            except:
-                print(pdf_name,' is invalid pdf')
-                break
-            pages, names = lookup_table(pdf_name)
-            print(pages, names)
-            temp = tabula.read_pdf(pdf_name, multiple_tables=True, pages=pages)
-            x,y=1,0
-            for t in temp:
-                #t.columns = t.iloc[0]
-                #t.drop(t.index[0], inplace=True)
-                #t['jurisdiction'] = "hello"#df.iloc[counter, 1]
-                #t['location_type'] = df.iloc[counter, 2]
-                #t['table_number'] = x
-                #t['table_name'] = names[y]
-                x += 1
-                y += 1
-            #return tables
-            tables += temp
-
-            #os.remove(pdf_name)
-    return tables
-
+    file_name = []
+    links = []
+    for row in df[start:end].values:
+        #for i in row:
+        i = row[15]
+        print(row[15])
+        if 'http' in str(i):
+            if '200' in str(requests.get(str(i))):
+                if 'application/pdf' in str(requests.get(str(i)).headers['Content-Type']) and str(i) not in links:
+                    links.append(str(i))
+                    download(str(i), str(row[1])+'.pdf')
+                    pages, names = lookup_table(str(row[1])+'.pdf')
+                    result = pd.DataFrame([])
+                    tables += tabula.read_pdf(str(row[1])+'.pdf',multiple_tables=True, pages=pages)
+                    if str(row[1])+'.pdf' not in file_name:
+                        file_name.append(str(row[1])+'.pdf')
+                    x,y=1,0
+                    for t in tables:
+                        try:
+                            #                                 t.columns = t.iloc[0]
+                            #                                 t.drop(t.index[0], inplace=True)
+                            t['jurisdiction'] = str(row[1])
+                            t['location_type'] = str(row[2])
+                            t['table_number'] = x
+                            #                                 t['table_name'] = names[y]
+                            #                                 tables.append(t)
+                            x += 1
+                            y += 1
+                            with open('extract_cities.csv', 'a') as f:
+                                t.to_csv(f)
+                        except:
+                            continue
+                    tables = []
+                    os.remove(str(row[1])+'.pdf')
 def lookup_table(pdf_doc):
-    string = r'\n[T|t]{1}able\s[\d+\w+][:|\.|\s]\n*(.+)\n'
-    doc = PdfFileReader(open(pdf_doc, 'rb'))
+    string = r'([T|t]{1}able\s[\w+\d+].+)\n'
+    doc = PyPDF2.PdfFileReader(open(pdf_doc, 'rb'))
     pages = []
     names = []
     for i in range(doc.getNumPages()):
-        writer = PdfFileWriter()
-        writer.addPage(doc.getPage(i))
-        with open('temp.pdf', 'wb') as outfile:
-            writer.write(outfile)
         page = doc.getPage(i)
-        text = parser.from_file('temp.pdf')
-        if text["content"] and re.search(string, text["content"]):
-            pages.append(i + 1)
-            names += re.findall(string, text["content"])
+        text = page.extractText()
+        if re.search(string, text):
+            pages.append(i)
+            names += re.findall(r'[T|t]{1}able\s[\d*\w*][:|\.|\n|-](.+)\n', text)
     return pages, names
+
+get_tables('Cities.csv', 11, 15)
