@@ -128,7 +128,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/arie-chen/Arie-Chen/issues) for a list of known issues.
 
 
 
