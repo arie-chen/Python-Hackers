@@ -75,18 +75,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![product-screenshot]]
+![product-screenshot]
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+Python Hackers started out as a way to centralize data from several databases in California. As our 
+research group wanted to analyze climate change indicators using Municipal compiled Climate Change Reports, 
+we needed a way to easily extract the tables from a pdf file. Unfortunately, the web held very no template to
+follow, so we ended up writing Python code to accomplish this task.
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Pandas](https://pandas.pydata.org/)
+* [Tabula](https://tabula.technology/)
+* [Pypdf](https://pypi.org/project/pyPdf/)
 
 
 
