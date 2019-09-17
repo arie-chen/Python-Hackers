@@ -77,10 +77,10 @@
 
 ![product-screenshot]
 
-Python Hackers started out as a way to centralize data from several databases in California. As our 
-research group wanted to analyze climate change indicators using Municipal compiled Climate Change Reports, 
-we needed a way to easily extract the tables from a pdf file. Unfortunately, the web held very no template to
-follow, so we ended up writing Python code to accomplish this task.
+Python Hackers started out as a way to centralize climate change indicators in California. As our 
+research group wanted to analyze indicators using city and municipal Climate Change Reports, 
+we needed a way to easily extract the tables from a pdf file. Unfortunately, the web held no answers for our
+desired purpose, so we ended up coding this python program for our data gathering.
 
 
 ### Built With
