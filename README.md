@@ -75,7 +75,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![][product-screenshot]]
+[![product-screenshot]]
 
 Here's a blank template to get started:
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
@@ -184,4 +184,4 @@ Project Link: [https://github.com/arie-chen/Python-Hackers](https://github.com/a
 [issues-url]: https://github.com/arie-chen/Python-Hackers/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/ariechen
-[product-screenshot]: images/ScreenCapture.png
+[product-screenshot]: images/ScreenCapture.PNG
