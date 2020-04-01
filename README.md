@@ -95,7 +95,7 @@ Users will need Python installed, as well as Python packages like Pandas and PyP
  
 1. Clone the repo
 ```sh
-git clone https:://github.com/github_username/repo.git
+git clone https://github.com/arie-chen/Python-Hackers.git
 ```
 
 
