@@ -70,9 +70,10 @@
 ![product-screenshot]
 
 Python Hackers started out as a way to centralize climate change indicators in California. As our 
-research group wanted to analyze indicators using city and municipal Climate Change Reports, 
-we needed a way to easily extract the tables from a pdf file. Unfortunately, the web held no answers for our
-desired purpose, so we ended up coding this python program for our data gathering.
+research group CoolClimate Network wanted to analyze greenhouse gas indicators using city
+and municipal Climate Change Reports, we needed a way to easily extract the tables from a pdf file.
+With this pdf scraper, any user can input a pdf file and get a csv output, with all the tables contained
+within the pdf.
 
 
 ### Built With
@@ -90,11 +91,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Users will need Python installed, as well as Python packages like Pandas and PyPdf.
 
 ### Installation
  
@@ -102,11 +99,6 @@ npm install npm@latest -g
 ```sh
 git clone https:://github.com/github_username/repo.git
 ```
-2. Install NPM packages
-```sh
-npm install
-```
-
 
 
 <!-- USAGE EXAMPLES -->
@@ -115,13 +107,6 @@ npm install
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/arie-chen/Arie-Chen/issues) for a list of known issues.
 
 
 <!-- LICENSE -->
@@ -143,9 +128,8 @@ Project Link: [https://github.com/arie-chen/Python-Hackers](https://github.com/a
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+Much thanks for Christopher Jones, Director of CoolClimate Network, who assigned me Project Lead.
+Many contributions made by other UC Berkeley students.
 
 
 
